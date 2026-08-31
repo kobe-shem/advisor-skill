@@ -1,58 +1,39 @@
----
-advisor: Alex Hormozi
-slug: alex-hormozi
-also_known_as: Acquisition.com
-card_id: AH
-domains: [offers, leads, money-models, sales, scaling, theory-of-constraints, unit-economics]
-relevance: all
-confidence: DOCTRINE-HIGH
----
+# Advisor index — pick ≤3 files per question
 
-# Alex Hormozi — doctrine index
+The load phase reads this table, matches the question's constraint/topic to advisor file(s), and
+opens at most three. For Hormozi, open only the relevant sub-doc(s), not the whole folder. Adding
+a new advisor means adding a row here — it never requires editing SKILL.md.
 
-## Use this corpus for
-Hormozi is a **default, universally-good business anchor**: what to fix first, how to build an
-offer, how to get leads, how to price, how to model money, how to close, how to scale, and the
-unit economics underneath all of it. He is the starting point for almost any business strategy
-question; open a more specialized source only when the question is narrower than this doctrine.
+| Topic / trigger | File(s) | One-liner | Relevance | Confidence |
+|---|---|---|---|---|
+| General business strategy, what to do first, growth | `alex-hormozi/_index.md` | Diagnose the one constraint, fix it, repeat | all | HIGH |
+| Offers, value, pricing, guarantees, bonuses | `alex-hormozi/offers.md`, `cole-gordon.md` | Grand Slam + Value Equation (AH); specificity + market power (CG) | all | HIGH/MED |
+| Leads, acquisition, content, cold/warm/paid/referral | `alex-hormozi/leads.md` | Core Four; Rule of 100; pick a starving crowd | all | HIGH |
+| Money models, monetization, payback, ascension | `alex-hormozi/money-models.md` | Entry → core → ascension → retention; client-financed acquisition | all | HIGH |
+| Sales, closing, objections, appointments | `alex-hormozi/sales.md`, `cole-gordon.md` | CLOSER + AAA (AH); appointment economics + two-call motion (CG) | all | HIGH/MED |
+| Scaling, hiring, constraints, ops KPIs | `alex-hormozi/scaling-constraints.md` | Theory of constraints; one bottleneck at a time | all | HIGH |
+| Unit economics, LTV/CAC, cash flow, payback | `alex-hormozi/ltgp-cac.md` | LTGP:CAC ≥3:1 automation-adjusted; 30-day payback | all | HIGH |
+| Meta ads, creative, media buying, fatigue, ROAS, testing (ecommerce/DTC) | `nathan-perdriau.md` | Creative is targeting; concept = persona×angle×offer; margin before ROAS. Ecom-calibrated — defer offer/pricing/guarantee to CG/AH | paid-social | MED |
+| Creative concept building, hooks, awareness stages, creative volume math, testing discipline, account structure | `nathan-perdriau/` sub-docs (creative-strategy, testing-discipline, creative-volume-economics, scaling-and-fatigue, account-structure, meta-machine-learning, growth-diagnostics, ecommerce-metrics) | Claim-level detail behind the NP card, each with timestamped public-YouTube sources. Open one sub-doc when the card is too shallow — a sub-doc is the detail layer of the card, not a new advisor file | paid-social | MED |
+| B2B / SaaS / call-funnel Meta ads, signal engineering, low-volume profile funnels | `alex-becker.md` | Feed Meta qualified/high-value conversions as the training signal; one 5–8-ad funnel per buyer profile; sniper-iterate winners. B2B-calibrated — defer measurement truth + concept craft to NP, offer to CG/AH | paid-social (B2B) | MED (single source) |
+| Ad copywriting depth, hooks, AI ads (not slop), advertorial funnels | `mark-builds-brands.md` | 5 layers of depth (emotion→belief→identity→consciousness); AI ad production; advertorial pre-landers. DTC-origin — defer offer to AH/CG, deep media buying to NP | all | MED |
+| Personal brand, authority, differentiation, content strategy, scripting, formats | `ronny-mitchell.md` | Solve a real problem; Demand → Delivery/Distribution → Differentiation; lived expertise over commoditized content | all | MED |
+| AI implementation, setting up an AI-services business | `nate-herk.md` | Full-stack AI transformation; diagnostic-first; business-case before build | ai-offer | MED |
+| AI-installation / fractional-AI-department offer model | `cameron-england.md` (+ `nate-herk.md`) | Replace roles not workflows; outcome-anchored AI installation. Observation-based — pricing/guarantee claims UNVERIFIED | ai-offer | LOW |
+| Market choice, tailwinds, one-person leverage with AI | `miscellaneous.md` | Pick a market with a tailwind; systems over tools | all | MED |
 
-## Operating philosophy (one paragraph)
-Most business problems are offer problems; most offer problems are pricing problems; most
-pricing problems are positioning problems — fix the offer first and ads, sales, and content all
-get 10x easier. But the deepest layer underneath the offer is the **model**: how much gross
-profit a customer creates versus what it costs to acquire them, and how fast that cash comes
-back. Methods (a DM hack, a viral format, a channel) expire; the model's economics compound and
-become the only durable competitive moat — the business that can profitably spend the most to
-acquire a customer can monopolize attention and win regardless of channel. So Hormozi's whole
-system is: pick a starving crowd → build a Grand Slam Offer that makes price irrelevant → get
-leads through the Core Four at volume → engineer a money model that returns cash within 30 days
-→ close on outcomes not features → then find the single binding constraint (leads, conversion,
-or delivery) and fix only that one, in order, forever. Charge more than is comfortable, sell the
-destination not the vehicle, and let consistency compound.
+The Confidence column abbreviates the DOCTRINE-HIGH/MEDIUM/LOW scale defined in SKILL.md §4.
 
-## Doctrine files (open only the one(s) the question needs — max 3)
-- `offers.md` — Grand Slam Offer, the Value Equation, starving crowd, value-based pricing, the four guarantee types, bonus stack, naming.
-- `leads.md` — the Core Four (warm / content / cold / paid), the Rule of 100, lead magnets, referrals, affiliates and partners.
-- `money-models.md` — entry → core → ascension → retention, client-financed acquisition, the 30-day gross-profit payback rule.
-- `sales.md` — the CLOSER call framework, the AAA objection structure, sell-the-outcome price framing, sales-team principles.
-- `scaling-constraints.md` — **the theory of constraints** (one binding constraint at a time: leads → conversion → delivery), hiring to a constraint, the operational KPIs.
-- `ltgp-cac.md` — **the LTGP/CAC cash-flow model**: the ratio, automation-adjusted minimums (3:1 → 12:1+), 30-day payback, levers to raise LTGP / lower CAC.
+**Constraint router:** leads → AH leads/offers · conversion → AH sales / CG · delivery-capacity →
+AH scaling-constraints · offer shape → CG / AH offers · AI-offer shape → NH + CE · cash/payback →
+AH ltgp-cac / money-models · media buying → calibrate by the account's industry: ecommerce/DTC →
+NP; B2B/SaaS/info/call-funnel → AB first, NP underneath for measurement truth + concept craft ·
+personal-brand authority/content → RM.
 
-## Topic → file router
-| Question is about | Load |
-|---|---|
-| Offer construction, pricing, guarantees, bonuses, niching, positioning | `offers.md` |
-| Getting leads, channels, lead magnets, referrals, affiliates | `leads.md` (+ `offers.md` if leads are expensive) |
-| Upsells, continuity, cash payback, financing growth from customers | `money-models.md` + `ltgp-cac.md` |
-| Sales calls, scripts, objections, closing, sales teams | `sales.md` (+ `offers.md` — most sales problems are offer problems) |
-| What to fix first, growth stalls, hiring, ops, churn | `scaling-constraints.md` |
-| Unit economics, CAC, LTV/LTGP, "can we afford ads?" | `ltgp-cac.md` |
+**Cross-advisor files** (`cross-advisor/`): `constraint-lenses.md` (the constraint taxonomy the
+load phase uses), `conflict-map.md` (where advisors disagree and why), `guarantee-rules.md` (the
+gate every proposed guarantee must pass).
 
-## Truth flags
-- All doctrine here is paraphrased in our own words from Hormozi's primary material ($100M
-  Offers, $100M Leads, $100M Money Models, the Acquisition.com playbooks, and his long-form
-  talks). No third-party reconstruction. It is a distillation, not the books — buy the books at
-  acquisition.com for the full material.
-- This repo intentionally contains **no verbatim source text.** If you own copies of the books,
-  you may keep private page-anchored notes under `source-texts/` (gitignored — see SKILL.md §3);
-  they must never be committed or redistributed.
+**Verbatim escalation:** this distribution contains no verbatim source text. The distilled files
+are the answer depth; for exact scripts, numbers, or passages, go to the advisors' original books,
+courses, and videos (cited inside each card).

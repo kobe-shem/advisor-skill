@@ -1,38 +1,45 @@
-# hormozi-advisor
+# advisor — a multi-advisor business brain
 
-A Claude Code skill that turns Alex Hormozi's business doctrine into a grounded advisor:
-constraint-first diagnosis, minimal doctrine loading, confidence-labeled answers.
+A Claude Code skill that turns distilled doctrine from real operators into a grounded business
+advisor: constraint-first diagnosis, minimal doctrine loading, advisor-conflict surfacing, and
+confidence-labeled answers.
 
-## What's inside
+## The advisors
 
-- **SKILL.md** — the advisor: how it diagnoses, routes, answers, and labels confidence.
-- **knowledge/** — six distilled doctrine files, paraphrased in our own words from Hormozi's
-  primary material ($100M Offers, $100M Leads, $100M Money Models, the Acquisition.com
-  playbooks, and his long-form trainings):
-  - `offers.md` — Grand Slam Offer, Value Equation, pricing, guarantees, bonuses
-  - `leads.md` — the Core Four, Rule of 100, lead magnets, referrals, affiliates
-  - `money-models.md` — offer sequencing, client-financed acquisition, 30-day payback
-  - `sales.md` — CLOSER framework, AAA objection handling, price framing
-  - `scaling-constraints.md` — theory of constraints, hiring, ops, retention
-  - `ltgp-cac.md` — the LTGP/CAC cash-flow model and automation-adjusted minimum ratios
+| Advisor | Lane | Files |
+|---|---|---|
+| **Alex Hormozi** | The backbone — offers, leads, money models, sales, scaling, LTGP/CAC | `knowledge/alex-hormozi/` (one file per book: $100M Offers → `offers.md`, $100M Leads → `leads.md`, $100M Money Models → `money-models.md`, plus sales, scaling, unit economics) |
+| **Cole Gordon** | High-ticket offer construction and sales | `knowledge/cole-gordon.md` |
+| **Nathan Perdriau** | Meta media buying, creative strategy (ecommerce-calibrated) | `knowledge/nathan-perdriau.md` + 8 detail sub-docs |
+| **Alex Becker** | Meta ads for B2B / call funnels, signal engineering | `knowledge/alex-becker.md` |
+| **Mark Builds Brands** | Ad copywriting depth, AI ad production, advertorials | `knowledge/mark-builds-brands.md` |
+| **Ronny Mitchell** | Personal brand, authority, content strategy | `knowledge/ronny-mitchell.md` |
+| **Nate Herk** | AI implementation offers, diagnostic-first | `knowledge/nate-herk.md` |
+| **Cameron England** | AI-installation agency model (observation-based, flagged) | `knowledge/cameron-england.md` |
+
+Plus cross-advisor machinery in `knowledge/cross-advisor/`: the constraint taxonomy, the
+advisor conflict map, and the guarantee gate.
 
 ## Install
 
 Clone this repo into your project's (or user-level) skills directory:
 
 ```bash
-git clone <repo-url> .claude/skills/hormozi-advisor
+git clone <repo-url> .claude/skills/advisor
 ```
 
-Then in Claude Code: `/hormozi-advisor critique my offer` — or just ask a business question;
-the skill triggers on offer/pricing/leads/sales/scaling questions.
+Then in Claude Code: `/advisor critique my offer` — or just ask a business question; the skill
+triggers on offer/pricing/leads/media-buying/sales/content/scaling questions.
 
 ## What this is not
 
-This is a **distillation, not the books**. It contains no verbatim source text and is not a
-substitute for Hormozi's material — buy the books and courses at
-[acquisition.com](https://www.acquisition.com/). This project is independent and is not
-affiliated with, endorsed by, or sponsored by Alex Hormozi or Acquisition.com.
+Every card is a **distillation in our own words, not the source material**. It contains no
+verbatim book text, course content, or transcripts, and is not a substitute for the advisors'
+own material — e.g. buy Hormozi's books at [acquisition.com](https://www.acquisition.com/).
+This project is independent and is not affiliated with, endorsed by, or sponsored by any of the
+advisors named above. Cards distilled from observation rather than primary material say so, and
+unverified claims are flagged inline.
 
-If you own the books, you may keep private page-anchored notes under `source-texts/` (gitignored)
-for verbatim citation on your own machine. Never commit or redistribute them.
+If you own an advisor's books or courses, you may keep private page-anchored notes under
+`source-texts/` (gitignored) for verbatim citation on your own machine. Never commit or
+redistribute them.

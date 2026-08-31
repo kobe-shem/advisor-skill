@@ -1,0 +1,23 @@
+# Conflict map — where advisors disagree, and who optimizes for what
+
+When two loaded advisor files touch the same lever, read this before answering. The job is to name
+the trade-off and hand the user the decision, not to average the advisors into mush.
+
+Seeded conflicts below. Distillation adds rows as real tensions surface in the transcripts.
+
+| Lever | Advisor A | Advisor B | The real trade-off | Default |
+|---|---|---|---|---|
+| Guarantee structure | Cole Gordon: bold outcome/risk-reversal to win cold trust | Hormozi: guarantee must survive bad-fit buyers; design for downside | Stronger guarantee lifts conversion but invites abuse | The user's live guarantee wins; never "work free until outcome" — it creates uncapped delivery liability for a service business (see `guarantee-rules.md`) |
+| Pricing | Hormozi: charge to value, FTE-replacement anchor | Nate Herk: price against conservative measured impact (10–15% of year-one) | Value-anchor maximizes price; impact-anchor maximizes defensibility | Impact-anchor for the AI offer; value framing in the pitch |
+| Where the edge is in Meta | Nathan Perdriau: creative is the lever, structure is contextual | Generic "media buying" optimization | Time spent on bid/structure tuning vs creative volume | Creative volume + concept testing first |
+| Creative volume on Meta | Nathan Perdriau: volume is the lever, finance-backed (~1 net-new concept per $1k/mo); fatigue → more *different* concepts | Alex Becker: 5–8 coherent ads per profile funnel; excess ads self-compete and blur Meta's learning; sniper-iterate a winner's presentation | Not a true contradiction — industry calibration: NP's numbers are broad-TAM fast-cycle ecom; AB's are small-TAM long-cycle B2B call funnels (NP concedes thin markets / banked winners run lower volume) | Route by the account's industry: ecom → NP; B2B/call-funnel → AB's low-volume prior, NP underneath for measurement truth + concept craft |
+| Build vs diagnose (AI offer) | Nate Herk: business-case and diagnosis before any build | Cameron England: content/proof engine pulls demand, productized install | Lead with diagnosis rigor vs lead with productized mechanism + proof | Diagnosis-first to price; productized framing to sell |
+| Content-first vs outbound-first | Cameron England: YouTube/content flywheel compounds | Hormozi: Core Four, paid + outbound work now | Content compounds slowly; outbound pays now | Run outbound now, build content in parallel |
+| Meta delivery depth | Mark Builds Brands: plain-English 4-step delivery + value equation, "think like an entrepreneur" | Nathan Perdriau: rigorous media-buying (attribution pyramid, account structure, frequency, finance-backed volume) | Same core truths (creative-is-targeting, broad, zoom-out); Mark is accessible, Nathan is deeper | Not a real conflict — use Nathan as the deeper source for media-buying decisions; use Mark for copy + creative-production craft |
+| Market size: niche vs TAM | Mark Builds Brands: reject "riches in the niches," go big-TAM (DTC) | Cameron/beachhead: win a narrow beachhead first | Big TAM = scale ceiling; beachhead = faster traction/proof | Separate the two: pick a big TAM, then enter it through one sharp beachhead |
+| Founder-content breadth | Ronny Mitchell: broad education builds reach and future buyers; narrow content serves buyers now | The user's chosen ICP: only that audience is served, and every public thesis needs an origin the user actually owns | Broader content can grow discovery but can also attract people the business cannot serve and dilute authority | Broaden inside the chosen ICP and its adjacent problems; preserve the ICP gate and run separate reach vs buyer tracks |
+| Founder scripting | Ronny Mitchell: full scripting and polishing improve logical sequence | A lighter filming interface: exact hook + exact payoff + riff bullets | Script precision can improve coherence but over-scripting can flatten a founder's natural delivery | Apply Ronny's seven laws to the structure/speaking card; do not replace hook/payoff + riff bullets with a teleprompter by default |
+| Content time horizon | Ronny Mitchell: content compounds into a long-term authority and future-buyer asset | Hormozi: Core Four and direct lead channels produce cash now | Content compounds slowly; starving the current acquisition engine creates a cash constraint before authority matures | Keep outbound/referrals/partners/paid producing now; build founder content in parallel, then expand as the cash engine permits |
+
+When you cite a conflict in an answer, state both positions, who optimizes for what, and the default
+above — then let the user choose.
