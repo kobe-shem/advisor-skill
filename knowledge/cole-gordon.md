@@ -6,7 +6,7 @@ card_id: CG
 domains: [offers, positioning, high-ticket-sales, proof, market-sophistication]
 relevance: all
 confidence: DOCTRINE-MEDIUM   # grounded YouTube training; mixed with DOCTRINE-LOW for [INFERRED] reconstructed parts
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cole-gordon/source-texts/youtube/ (full transcript, Tier 3)
 sources_count: 1
 last_distilled: 2026-06-15
 ---
@@ -177,8 +177,8 @@ The further along the stage, the more the offer must lead with *how it works* (m
   guarantees instead.
 
 ## Source provenance
-- Distilled from: private research notes (not included in this distribution) — source
-  card + transcript for *"After Studying 3,000+ Offers, This Is How to Build a $10 Million Offer"*
+- Full transcript (13,284 words, timestamped) at `cole-gordon/source-texts/youtube/` — fetched
+  2026-08-30, routed via its `_index.md`. Originally distilled from a source card + transcript for *"After Studying 3,000+ Offers, This Is How to Build a $10 Million Offer"*
   (YouTube `HHARrAUO31w`, Cole Gordon, 2026-05-19, ~60 min).
 - `[INFERRED]` sections additionally drawn from a prior reconstructed framework backup
   (`cole_gordon_offer_framework.md` / `offer_framework_stage_3_4.md`) built from the R11 Solutions

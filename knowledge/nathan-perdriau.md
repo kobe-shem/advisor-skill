@@ -6,7 +6,7 @@ card_id: NP
 domains: [meta-ads, creative-strategy, media-buying, paid-acquisition, unit-economics]
 relevance: all
 confidence: DOCTRINE-MEDIUM
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: nathan-perdriau/source-texts/youtube/ (full channel re-fetch 2026-08-30: 414 transcripts, ~1.08M words, Tier 3)
 sources_count: ~33
 last_distilled: 2026-06-16
 ---
@@ -268,7 +268,11 @@ profitably.
   travel well, but the spend-tier and frequency numbers are ecom-calibrated.
 
 ## Source provenance
-- Distilled from private research notes (not included in this distribution) — ~13 original
+- Full-fidelity tier: the complete Blue Sense Digital channel (323 videos + 92 shorts) was
+  re-fetched 2026-08-30 into `nathan-perdriau/source-texts/youtube/` — 414 timestamped
+  transcripts, ~1.08M words, routed via its `_index.md` (1 video had no captions; 2 Instagram
+  reels are login-walled and not included).
+- Originally distilled from ~13 original
   Blue Sense Digital YouTube/Instagram source cards plus ~19 newly-ingested full transcripts
   (2026-06-15 re-ingest) covering creative-fatigue/frequency, scaling TOF, winner/VSL ad
   teardowns, hook strategy, the VSL framework, account auditing, the attribution/measurement
