@@ -19,7 +19,8 @@ a new advisor means adding a row here — it never requires editing SKILL.md.
 | Ad copywriting depth, hooks, AI ads (not slop), advertorial funnels | `mark-builds-brands.md` | 5 layers of depth (emotion→belief→identity→consciousness); AI ad production; advertorial pre-landers. DTC-origin — defer offer to AH/CG, deep media buying to NP | all | MED |
 | Personal brand, authority, differentiation, content strategy, scripting, formats | `ronny-mitchell.md` | Solve a real problem; Demand → Delivery/Distribution → Differentiation; lived expertise over commoditized content | all | MED |
 | AI implementation, setting up an AI-services business | `nate-herk.md` | Full-stack AI transformation; diagnostic-first; business-case before build | ai-offer | MED |
-| AI-installation / fractional-AI-department offer model | `cameron-england.md` (+ `nate-herk.md`) | Replace roles not workflows; outcome-anchored AI installation. Observation-based — pricing/guarantee claims UNVERIFIED | ai-offer | LOW |
+| AI-installation / fractional-AI-department offer model; agency scaling doctrine | `cameron-england.md` (+ `nate-herk.md`) | Replace roles not workflows; outcome-anchored AI installation; stages-of-evolution growth map. Course-grounded doctrine + an observation layer (pricing/guarantee claims UNVERIFIED) | ai-offer / agency | MED |
+| Agency execution depth: lead-gen, sales motion, client success, call center, ops/AI, fulfillment economics | `cameron-england/` pillar sub-docs (foundations, lead-gen, sales, client-success, call-center, ops-ai, fulfillment-svd — router in `cameron-england/_index.md`) | Detail layer under the CE card — open ≤2 pillars when the card is too shallow; a pillar is the detail layer of the card, not a new advisor file | ai-offer / agency | MED–HIGH |
 | Market choice, tailwinds, one-person leverage with AI | `miscellaneous.md` | Pick a market with a tailwind; systems over tools | all | MED |
 
 The Confidence column abbreviates the DOCTRINE-HIGH/MEDIUM/LOW scale defined in SKILL.md §4.
@@ -34,6 +35,9 @@ personal-brand authority/content → RM.
 load phase uses), `conflict-map.md` (where advisors disagree and why), `guarantee-rules.md` (the
 gate every proposed guarantee must pass).
 
-**Verbatim escalation:** this distribution contains no verbatim source text. The distilled files
-are the answer depth; for exact scripts, numbers, or passages, go to the advisors' original books,
-courses, and videos (cited inside each card).
+**Verbatim escalation:** the repo itself contains no verbatim source text — the distilled files
+are the answer depth. On a machine where the owner has run `scripts/sync-private-tier.sh`, a
+gitignored `source-texts/` tier may exist under `alex-hormozi/`, `ronny-mitchell/`,
+`mark-builds-brands/`, and `cameron-england/`; open it only for exact scripts, numbers, or
+passages, read the minimum range, and cite it. If it is absent, cite the advisors' original
+books, courses, and videos (referenced inside each card) instead.

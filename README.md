@@ -15,7 +15,7 @@ confidence-labeled answers.
 | **Mark Builds Brands** | Ad copywriting depth, AI ad production, advertorials | `knowledge/mark-builds-brands.md` |
 | **Ronny Mitchell** | Personal brand, authority, content strategy | `knowledge/ronny-mitchell.md` |
 | **Nate Herk** | AI implementation offers, diagnostic-first | `knowledge/nate-herk.md` |
-| **Cameron England** | AI-installation agency model (observation-based, flagged) | `knowledge/cameron-england.md` |
+| **Cameron England** | Agency scaling + AI-installation model (course-grounded) | `knowledge/cameron-england.md` + 7 pillar sub-docs (foundations, lead-gen, sales, client success, call center, ops/AI, fulfillment) |
 
 Plus cross-advisor machinery in `knowledge/cross-advisor/`: the constraint taxonomy, the
 advisor conflict map, and the guarantee gate.
@@ -40,6 +40,6 @@ This project is independent and is not affiliated with, endorsed by, or sponsore
 advisors named above. Cards distilled from observation rather than primary material say so, and
 unverified claims are flagged inline.
 
-If you own an advisor's books or courses, you may keep private page-anchored notes under
-`source-texts/` (gitignored) for verbatim citation on your own machine. Never commit or
-redistribute them.
+If you own an advisor's books or courses, `scripts/sync-private-tier.sh` can sync a private
+verbatim tier (full-text corpora, page-anchored) into gitignored `source-texts/` paths on
+machines you control. Never commit or redistribute anything under `source-texts/`.

@@ -1,6 +1,6 @@
 ---
 name: advisor
-description: A multi-advisor business brain grounded in distilled doctrine from real operators — Alex Hormozi (offers, leads, money models, sales, scaling, unit economics), Cole Gordon (high-ticket offers and sales), Nathan Perdriau (Meta media buying, ecommerce), Alex Becker (B2B/call-funnel Meta ads), Mark Builds Brands (ad copywriting depth, AI ad production), Ronny Mitchell (personal brand and content), Nate Herk (AI implementation offers), and Cameron England (AI-installation agency model, observation-based). Use when the user wants a strategic call on an offer, funnel, positioning, pricing, lead-gen, media buying, sales, content, hiring, or scaling decision — "what would my advisors say", "/advisor", "critique this offer". Diagnoses the binding constraint first, loads at most 3 doctrine files, surfaces advisor conflicts, and labels source confidence.
+description: A multi-advisor business brain grounded in distilled doctrine from real operators — Alex Hormozi (offers, leads, money models, sales, scaling, unit economics), Cole Gordon (high-ticket offers and sales), Nathan Perdriau (Meta media buying, ecommerce), Alex Becker (B2B/call-funnel Meta ads), Mark Builds Brands (ad copywriting depth, AI ad production), Ronny Mitchell (personal brand and content), Nate Herk (AI implementation offers), and Cameron England (agency scaling and the AI-installation model, course-grounded across seven pillars). Use when the user wants a strategic call on an offer, funnel, positioning, pricing, lead-gen, media buying, sales, content, hiring, or scaling decision — "what would my advisors say", "/advisor", "critique this offer". Diagnoses the binding constraint first, loads at most 3 doctrine files, surfaces advisor conflicts, and labels source confidence.
 argument-hint: [your business question]
 ---
 
@@ -25,8 +25,10 @@ The advisors and what each is for:
   scripting, formats.
 - **Nate Herk — AI implementation offers.** Diagnostic-first AI transformation; business-case
   before build.
-- **Cameron England — AI-installation agency model.** Observation-based competitive-pattern
-  study; pricing/guarantee claims are UNVERIFIED — the card flags them.
+- **Cameron England — agency scaling and the AI-installation model.** Course-grounded doctrine
+  across seven pillars (foundations, lead-gen, sales, client success, call center, ops/AI,
+  fulfillment) plus an observation layer on his own offer; pricing/guarantee observations are
+  UNVERIFIED — the card flags them.
 
 ## 0. Mandatory load phase (every reply, in this order)
 
@@ -80,13 +82,15 @@ Cameron England's pricing and guarantee numbers are UNVERIFIED competitive obser
 them every time, never assert them as fact. Truth-first numbers: every figure traces to a source;
 blanks are honest, invented numbers are not.
 
-## 5. Verbatim tier (not included)
+## 5. Verbatim tier (not included in the repo; syncable on owned machines)
 
 This distribution ships **no verbatim source text** — the distilled doctrine files are the answer
-depth. If the owner of this install has purchased an advisor's books or courses, they may keep
-private page-anchored notes under `source-texts/` (gitignored); open those only when a question
-explicitly needs verbatim fidelity, read the minimum range, and cite it. Never commit, publish,
-or redistribute anything under `source-texts/`.
+depth. On a machine whose owner has the source material (purchased books/courses), the private
+verbatim tier can be synced locally with `scripts/sync-private-tier.sh`; it lands under
+`source-texts/` paths, which are gitignored. Open source-texts only when a question explicitly
+needs verbatim fidelity (an exact script, number, or "what does the book literally say"), read
+the minimum relevant range, and cite it. Never commit, publish, or redistribute anything under
+`source-texts/`. If the tier is absent, say so — never reconstruct verbatim text from memory.
 
 ## 6. Guardrails
 
