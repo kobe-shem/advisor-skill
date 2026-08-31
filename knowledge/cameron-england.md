@@ -6,7 +6,7 @@ card_id: CE
 domains: [agency-growth-model, niche-selection, unit-economics, retention, sales-motion, show-rate, fulfillment-economics, ai-leverage, ai-offer, positioning]
 relevance: agency-and-ai-offer
 confidence: DOCTRINE-MEDIUM   # course-grounded doctrine well-sourced; pricing/guarantee observations UNVERIFIED
-corpus_pointer: "(raw corpus not included in this distribution)"
+corpus_pointer: cameron-england/source-texts/course/ (full course transcripts, Tier 3) + course-docs/ + index/
 sources_count: 9
 last_distilled: 2026-08-30
 ---
@@ -355,10 +355,12 @@ own execution.
 - **Course-grounded layer (most of this card).** Distilled into principles from his paid agency course,
   which this card's author purchased. Seven subject areas were studied: foundations and growth model,
   lead generation, sales, client success, call center and appointment setting, operations and AI, and
-  fulfillment/service delivery. **The course itself is not included in this distribution and must never
-  be redistributed.** Only high-altitude frameworks and governing principles are carried here, in
-  paraphrase — no step-by-step systems, no scripts, no templates, no procedures. Anyone who wants the
-  implementation detail should buy the course.
+  fulfillment/service delivery. The full course transcript tier (verbatim, timestamp-anchored, whisper
+  quality) now lives under `cameron-england/source-texts/course/` — private, never redistribute. Only
+  high-altitude frameworks and governing principles are carried in this doctrine card itself, in
+  paraphrase — no step-by-step systems, no scripts, no templates, no procedures reproduced here.
+  Anyone who needs an exact quote should escalate to the transcript tier, not this card, and must never
+  reproduce Cameron's own copy externally.
 - **Observation layer (the AI-installation section).** Competitive research plus two public long-form
   videos — his public funnel, landing pages, and channel. Not a teaching corpus; pricing and guarantee
   remain UNVERIFIED.

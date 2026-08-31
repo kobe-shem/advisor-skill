@@ -18,6 +18,12 @@ genuinely straddles two.
 Founder Calls and masterminds (2024/2025) are situational coaching — they feed whichever pillar
 the call is about and are labeled **COURSE-MEDIUM**.
 
+## Verbatim escalation
+
+Full course transcripts now exist (Tier 3, never auto-load). For an exact quote, a script, or a
+step-by-step procedure the pillar cards only paraphrase, route to `../source-texts/course/_index.md`,
+find the relevant section/file, and cite it as `[section/file MM:SS]`.
+
 ## Routing notes
 - "How do I get more booked calls / show rate" → could be `lead-gen` (lead quality/nurture) **or**
   `call-center` (confirmation/show-rate systems). Name which constraint, then pick.
