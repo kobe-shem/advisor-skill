@@ -39,7 +39,10 @@ destination not the vehicle, and let consistency compound.
 
 These are complete distillations of each book's frameworks in our own words — not the books
 themselves for the three trade books. The 12 Acquisition.com playbooks and 5 video trainings DO ship
-full-text under `source-texts/` (Tier 3 — page-anchored, never auto-loaded).
+full-text under `source-texts/` (Tier 3 — page-anchored, never auto-loaded), and the four free
+Acquisition.com courses (Offers, Leads, Money Models, Scaling — 77 module captures + 11 lesson
+PDFs) are under `source-texts/courses/` (router: `courses/_index.md`). The trade books' own text
+is not in the courses either (video-only portal); ingest it from purchased copies when available.
 
 ## Doctrine files (open only the one(s) the question needs — max 3)
 - `offers.md` — Grand Slam Offer, the Value Equation, starving crowd, value-based pricing, the four guarantee types, bonus stack, naming.
