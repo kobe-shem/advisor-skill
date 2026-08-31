@@ -35,9 +35,9 @@ personal-brand authority/content → RM.
 load phase uses), `conflict-map.md` (where advisors disagree and why), `guarantee-rules.md` (the
 gate every proposed guarantee must pass).
 
-**Verbatim escalation:** the repo itself contains no verbatim source text — the distilled files
-are the answer depth. On a machine where the owner has run `scripts/sync-private-tier.sh`, a
-gitignored `source-texts/` tier may exist under `alex-hormozi/`, `ronny-mitchell/`,
-`mark-builds-brands/`, and `cameron-england/`; open it only for exact scripts, numbers, or
-passages, read the minimum range, and cite it. If it is absent, cite the advisors' original
-books, courses, and videos (referenced inside each card) instead.
+**Verbatim escalation:** the full-fidelity Tier-3 layer lives under `source-texts/` inside
+`alex-hormozi/` (12 playbooks + 5 video transcripts, page-anchored), `ronny-mitchell/` (12
+transcripts), `mark-builds-brands/` (4 transcripts + SOP doc), and `cameron-england/` (course
+indexes). Open it only for exact scripts, numbers, or passages — route via each tier's
+`_index.md`, read the minimum range, and cite it. PRIVATE owned material: the repo must stay
+private and never be shared while this tier is present (SKILL.md §5).

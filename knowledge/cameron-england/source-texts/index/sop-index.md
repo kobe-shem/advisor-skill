@@ -1,0 +1,296 @@
+# Cameron course — written SOP index (linked Google Docs)
+
+Total written SOPs: 275
+
+_RESOURCE mode searches this in addition to index.md when Kobe asks for a SOP._
+
+## call-center
+- [01: Setup the Job Post Ad on Facebook](https://docs.google.com/document/d/1D6Vt8DZkL07LkhswlsgK6-vWJaqn3hl6b3UPxHAkarg/edit)
+- [1323W5b7D4x9te3eLdg9UPTmdwXUSz0vz](https://docs.google.com/file/d/1323W5b7D4x9te3eLdg9UPTmdwXUSz0vz/edit) · sop-file
+- [1NijYogkbVj5ePm5dZouodv3lI31o26_i](https://docs.google.com/file/d/1NijYogkbVj5ePm5dZouodv3lI31o26_i/edit) · sop-file
+- [1WtK9lWR72wlYkqi3dfPvw3cpCYpaL4wR](https://docs.google.com/file/d/1WtK9lWR72wlYkqi3dfPvw3cpCYpaL4wR/edit) · sop-file
+- [1eUSW4ArhAwiKD8hkS9fofy06FmA-TzlG](https://docs.google.com/file/d/1eUSW4ArhAwiKD8hkS9fofy06FmA-TzlG/edit) · sop-file
+- [1uPBt07Ql_xJ-HW0TM0HVNfNXisa96AVT](https://docs.google.com/file/d/1uPBt07Ql_xJ-HW0TM0HVNfNXisa96AVT/edit) · sop-file
+- [24 Hour & 3 Hour Before Appointment Reminders](https://docs.google.com/document/d/1wZr1g988Vr3kJjkbtrrqs7TUAJSBxL6VtLrRskBvQnY/edit)
+- [AI Sales audit for CSR’s](https://docs.google.com/document/d/1YQdYQpmeDN-Y8_TgOgcaRIHxeO1AXlAOWtumer6jXiA/edit)
+- [Agency Onboarding SOP](https://docs.google.com/document/d/1Ffh5kSiyDwd1cmhGG__cb6UG8vsrLnMdzkTCGx6_GaU/edit)
+- [Auditing agent calls](https://docs.google.com/document/d/1PgisGDfh4kIFgRp5aW9YDjSmy4PV3o--Go816GOEUpQ/edit)
+- [Call center : START HERE](https://docs.google.com/document/d/1gWDMIHoCnGG7ijVXERwLG1uy-xE-6VFCnzGrABY28Js/edit)
+- [Client phone spam checker](https://docs.google.com/document/d/129peT8lRvn3Xan8kkzqninRQnCdZ7emI8UxO-Pq5ThM/edit)
+- [Common Misconceptions](https://docs.google.com/document/d/1kuwDtluwaL1PKWSKUDIz7nZZMswetPLJMXU8dUoL2to/edit)
+- [Firing Is Good](https://docs.google.com/document/d/1pGmFvLl0OJPwnQ3idWbbZZfaOMBCv53H8f_yvK22i-8/edit)
+- [If new to call center watch this](https://docs.google.com/document/d/13xkYQ0SYIcjZUaqDr5wCgBYIgG3o2YG_K9pLkFKXI7U/edit)
+- [Meeting Fundamentals](https://docs.google.com/document/d/1Zq6YIbXcv12cagKFBtRhaTT09TsXOZ3BuAdS758gqvY/edit)
+- [Monthly performance reviews](https://docs.google.com/document/d/1BU4fcRHqliAfkpin6d6sWX7rptFOpSOz0nD4caV8nd0/edit)
+- [Onboarding Overview](https://docs.google.com/document/d/1Y48B7a55PvPWxt1KuxHX1u8mzu19xKGMQPzUbmnE66A/edit)
+- [Onboarding Process](https://docs.google.com/document/d/1aRdwAErrgxVuezX23vKvgjSpZXWpyvF7dEMUTkE8xdA/edit)
+- [Pre-HP Onboarding Steps](https://docs.google.com/document/d/1slcPCymN4zerSflJeN-auWS201yOEjPChTFcuVa9jWw/edit)
+- [Pulling callbacks into HP](https://docs.google.com/document/d/1N8Hi5pExRF-qTyWc95yjP0e2xv9SUhDDDMuLHHg3nOE/edit)
+- [Round Robin vs Exclusive Agent](https://docs.google.com/document/d/1hMwDG8LZps_JQHc_kVWdK55OTmUg1U7YLMTsZ5bYz4o/edit)
+- [Sheet Breakdown](https://docs.google.com/document/d/1Vn_VHvXZ7ZZ-AIc3C97pWvqir4CXu6vaGbAtvXx2R7g/edit)
+- [Taking Control of the Client Journey](https://docs.google.com/document/d/1Bkj6JT1fVxawjgfLL21ZIXIRxkYWzh3k0RmOYL_zai0/edit)
+- [The 7 Show Rate Levers](https://docs.google.com/document/d/1TA_fCqpPszkmf6Y9FhYQit-QP9FG1tpqE8uVWCzk_kg/edit)
+- [The CSR Workflow](https://docs.google.com/document/d/1V1djA-JRIIkNsdDi664R3vWaAYVNTr8-T-vh1uZGccs/edit)
+- [The Call Script Framework](https://docs.google.com/document/d/1__9gPJBa-p8H28oRdZ-PzPwT9GnvMDpYtRa_foSHhJI/edit)
+- [The Purpose of 1-1 Interviews](https://docs.google.com/document/d/1bHNRoPwm7Jy33E50GToVazI-pizCfbN9uvsOCMFylQA/edit)
+- [The Screening Mindset](https://docs.google.com/document/d/1SOsoAiv3naWAQ3spMCIWCfOa2-vQ-1303vmM-GymU7U/edit)
+- [The Three Buckets of Performance](https://docs.google.com/document/d/1utI8HeVRyADMwfjc-JyJu0ASRM22nWD_-nAwQjlNLwI/edit)
+- [The WHO](https://docs.google.com/document/d/1RGWAPf9AqDY3sHXtF6YZSFKl8JBaWWvumVSrZFZabcQ/edit)
+- [What is a Training Bootcamp?](https://docs.google.com/document/d/1UZBAWjrtETj7OE6NaoIUQQMw-7t9hP1Kpknx3Ki6R9Q/edit)
+- [Why Accountability Systems Matter](https://docs.google.com/document/d/1EP-bcZ4Rs0EPcie4fbcMrUrDXSSSYGNvk7DIPrUfotA/edit)
+- [Why Have 1-1 Meetings?](https://docs.google.com/document/d/1kba6MZeY4OqT91vQHXN9sR8Px_VS8y7IcEiifOpuQ30/edit)
+- [Workspace Structure](https://docs.google.com/document/d/1o4bn2TzEr2dtwLg0FQ219Qb-DuFFm3-IlSh71fCYoi8/edit)
+
+## calls
+- [1PF7EGRxY8WU7xlKkVUiUeReWqRyRw5mh](https://docs.google.com/file/d/1PF7EGRxY8WU7xlKkVUiUeReWqRyRw5mh/edit) · sop-file
+- [1nJSwyF25KDakx35cOt1cLWTRMsAxMleg](https://docs.google.com/file/d/1nJSwyF25KDakx35cOt1cLWTRMsAxMleg/edit) · sop-file
+- [3 Layers of KPIs](https://docs.google.com/document/d/1_BtnWLQwb6qWUC0Loy1DDhgfhXa75amThq12juQeWsk/edit)
+- [Ad Copy](https://docs.google.com/document/d/1w2VG6I7d9pbyTm5seh38kT4IvcdoBR6wOCnG9mPduH4/edit)
+- [Assistant SOP](https://docs.google.com/document/d/1AC58Tebxqcxv-srxIGP5j4k5Gz_7XvE4CYPuuezod_M/edit)
+- [CSM Guide - Text Templates](https://docs.google.com/document/d/1qwUevzlfinyah9W2LTmAFG57Yi-Uil7ktLYR251Hw4o/edit)
+- [Example ad scripts](https://docs.google.com/document/d/1-SzsCw1SO8drMUQGa5D-WlnX4JqWwFAbme-zeSjNzqo/edit)
+- [Identifying Reasons](https://docs.google.com/document/d/1NXNRXkqd7EB5N2jwNoSo9kpD4yJ3zGN7koVtFhivVtg/edit)
+- [Key Areas of Responsibilities](https://docs.google.com/document/d/1pHt0ugeY0BpvwmKXIKfqs1HyCW9HdNkpYvZmvrIvKsc/edit)
+- [Projections](https://docs.google.com/document/d/1QhfRbIZhfxzr7654CTA-gZmzM9tcF0hnCZ1xhxhl3VA/edit)
+- [Sales Rep Directory](https://docs.google.com/document/d/1DSVmdu9vUTg_3ij8vEzmCmKUHmbW093nIibBP1yEk8Q/edit)
+- [Who Is \[NAME\]?](https://docs.google.com/document/d/1ye_nj0ufzt3VNPEsaUDwrImzjEEZn02XJvs6JMVx7E8/edit)
+- [Yearly Plan](https://docs.google.com/document/d/1RKHWtA-AkH-5WqBWqz4a6wKe_jeXmcemzmsKqQ9YQgw/edit)
+
+## client-success
+- [19srT95Cd-1YPQjQWK-SZTcwiRrOXq-Fl](https://docs.google.com/file/d/19srT95Cd-1YPQjQWK-SZTcwiRrOXq-Fl/edit) · sop-file
+- [1I1CyHUNEEAKTNaDqm99D8RMUiknyFlY-](https://docs.google.com/file/d/1I1CyHUNEEAKTNaDqm99D8RMUiknyFlY-/edit) · sop-file
+- [1e2GRvXe4BtjkIl5Jo__ELmlhMcHUlcHJ](https://docs.google.com/file/d/1e2GRvXe4BtjkIl5Jo__ELmlhMcHUlcHJ/edit) · sop-file
+- [1iL_aef1_bgkbftO8R3OcPFSrseXKckct](https://docs.google.com/file/d/1iL_aef1_bgkbftO8R3OcPFSrseXKckct/edit) · sop-file
+- [1jymERZGih9ekhzBbS03w1oKmfDIOiuWc](https://docs.google.com/file/d/1jymERZGih9ekhzBbS03w1oKmfDIOiuWc/edit) · sop-file
+- [1kOvWGgRhcOWZMeewjmYYvN95RrwWzZF3](https://docs.google.com/file/d/1kOvWGgRhcOWZMeewjmYYvN95RrwWzZF3/edit) · sop-file
+- [CSM Basics](https://docs.google.com/document/d/1yNtSXI1MRyh0aowuTp66KZaGkgm6cddD6PkHlOS6r-4/edit)
+- [CSM Client Handoff](https://docs.google.com/spreadsheets/d/1hITDLRzxVfSmoh4lVqVtWQ3u7VURNFhxtZI1U0ISElk/edit) · sop-sheet
+- [CSM Quits / You Fire Them SOP](https://docs.google.com/document/d/1vpJZn5uhyqfc3e5jrrOtcDZfq-U3tT4GA2iEJ79L39Q/edit)
+- [CSM Then Texts The Following:](https://docs.google.com/document/d/1JC-Uhy5N6-83qeCUGEijvkhfXH_gbHWFv5EnkerXSTo/edit)
+- [Churn = Feedback](https://docs.google.com/document/d/1caf46hhNrogdLYsDAifRi5IuBH_fWLE66ArhQzeQ71c/edit)
+- [Dangling the carrot](https://docs.google.com/document/d/1cwQgHI3cpXGFueBgqd98lPwufxoDMYaWLdAOaF8hSHY/edit)
+- [Exit process and call framework](https://docs.google.com/document/d/1QnHyI1luNhSRmwVd5tzFvZ74OXOg6qq3HMzeRBBMtzU/edit)
+- [Feedback Loops](https://docs.google.com/document/d/1mAreq7p_nfH_mBYx6R5aFkZkxRish_o_ng1cPUw9nTI/edit)
+- [Fundamentals](https://docs.google.com/document/d/1TrX1RMBTAdjpHf0sZcWbi98Vu8RhUhxbHtbOMy-bc3o/edit)
+- [Fundamentals](https://docs.google.com/document/d/1hdxptlTqsVwDG2yGrTdYTeQv0fp47959D_adnhvtSak/edit)
+- [Incongruency Issues](https://docs.google.com/document/d/1MkdNGBe_bKOiFR2QGsbT8pSG6iL-0UM8uDsf4qLAoN0/edit)
+- [It's Cheaper to Retain Than to Acquire](https://docs.google.com/document/d/1VYlUECPj01XrNX8ilzsYz34KIbT-lN9HNpkJ7QOCZYo/edit)
+- [Making new cliet ticketing forms](https://docs.google.com/document/d/1cJLvS-xTkUXN-2m7h9QUik7Xqg_0CwcJB2MCI6rxD-8/edit)
+- [Master CS Tracking dashboard](https://docs.google.com/document/d/1SBzc7Uu4Y_IA0Suk46rlTbC8AmurGnwKR5g2YfB9INQ/edit)
+- [Meeting Fundamentals](https://docs.google.com/document/d/1W7DyG57A3KqK5v-ChGSJmlObhL7Cbvxm-uFUGtOek1k/edit)
+- [Mission Save Churn](https://docs.google.com/spreadsheets/d/1pZtcHuXfJ6C4EPk4Nzu3QCDqkoytlvamf6D-xR-3e2Q/edit) · sop-sheet
+- [Mixing Sales & CS Leads](https://docs.google.com/document/d/1lBPad1IzQCPGixrM1TRTu_McPiRepk2bBzVJxIxrmT8/edit)
+- [Ownership call framework](https://docs.google.com/document/d/1KtVdDA9e6kL4EDyoNrAs60vOV70SeHRRsvEXTcTjHjM/edit)
+- [PRE CALL PREP - Sales Handoff:](https://docs.google.com/document/d/1UKU2F3RmCWO3VNcfkAhzSt_4PZNcp24P2EOji3VXwJ4/edit)
+- [Pre-Call Checklist](https://docs.google.com/document/d/14M0r6lxtRItBlHZTGDL2qCNUSxCeFS2knxK-qep6Jb8/edit)
+- [Re-selling](https://docs.google.com/document/d/1gdk4EUitsMvYqJ6sFJxQzpfYttPwHGK0jpOjKG2k_aU/edit)
+- [Referrals](https://docs.google.com/document/d/1zXW2QLnHbI7Zzwfs_qhyZVrveMhiRVoGAu0xVMtq2Ps/edit)
+- [Remain Stoic](https://docs.google.com/document/d/11lIgrsvpfivyqegG3CXs6V4KxLZRjaU_TJuG1S_7sOU/edit)
+- [Reset call framework](https://docs.google.com/document/d/1eiL41SH5X8YgOrBBsiCiZvRDWjkvLmVmWBeYDWF3YA8/edit)
+- [Sheets Doesn’t Work At Scale](https://docs.google.com/document/d/1MDUNhomHEUsbaRPww0eV_mgNufts63Xz7n22lgI1OqM/edit)
+- [Social Proof is Your Sales Weapon](https://docs.google.com/document/d/1C3-Qw2GCWecHU5gBqd524P3bMGqbQmxH7L1VXzu9W_o/edit)
+- [The "25-Minute Buffer" Story](https://docs.google.com/document/d/14zzV2dJLzm6qmOE86jKvu2LI_34MharJSKhHhnaeTLM/edit)
+- [The 3 Success Pillars](https://docs.google.com/document/d/1Ga9VmyDwGtJElsmZJ-IgGuwHAUySC3TnVqiYDzargv8/edit)
+- [The Fundamentals](https://docs.google.com/document/d/1yVhq0Cb2hlUaK8fm4ZaDX_G569njz_z3RZ1L1LUfByg/edit)
+- [The Goal of the Launch Call](https://docs.google.com/document/d/11Nm1XmJb5b0PMhQeiOqnVn8joQRS1GOJKOT0_o8b8eA/edit)
+- [The Mindset](https://docs.google.com/document/d/1AD86cue-lXLrE-78Hki23R4JfXuQGOYHYxU_cpLV_gc/edit)
+- [The New Client Hamster Wheel](https://docs.google.com/document/d/1pQU3Hrx44TG3XpQD8nPJCFqzmWWdaea1YOMb_wg8dzI/edit)
+- [Treating Every Client Like They're You](https://docs.google.com/document/d/1shNwaDO2HRvFiV2QMq_orDTBJ4rUYvyOc3V4tM1GDUo/edit)
+- [Upsell Types:](https://docs.google.com/document/d/1yUx4odtMFsY4fcUhJ-gPwt-UHlDNT_rAI-8R0q_6PwU/edit)
+- [Weekly client planning process](https://docs.google.com/document/d/1kOgnoQmWjT9ySSdX-UMs8b0ajgB7GbVvnrxkWNURpfY/edit)
+- [What is an EOD?](https://docs.google.com/document/d/1q89t8sJKxt3oXJnNf00o47jLXvesZ8J-nqRsvl8dmzs/edit)
+- [Why 1-1s are Non-Negotiable](https://docs.google.com/document/d/1vw0oo1k9mW04_PiqB9NhKp9mDAxr6E0eRYssWEsiYrs/edit)
+
+## fulfillment-svd
+- [1ORJ88AxcdASOX3Wf9-VmXrZeOWVxadnp](https://docs.google.com/file/d/1ORJ88AxcdASOX3Wf9-VmXrZeOWVxadnp/edit) · sop-file
+- [1uW6YhONHo66OjhXB7ru5O1Redocd5L4k](https://docs.google.com/file/d/1uW6YhONHo66OjhXB7ru5O1Redocd5L4k/edit) · sop-file
+- [STEP BY STEP ONBOARDING PROCESS](https://docs.google.com/document/d/1YoZQrmh8YdlCgeWDPC4AOCNFBcmQ36r0uqXFsTHVlW4/edit)
+- [Service Delivery: START HERE](https://docs.google.com/document/d/16_GoZQ5UTdCePmoiUoD-I4XBUqE6_JAXVd3pZxR8m14/edit)
+- [Tab 1](https://docs.google.com/document/d/1VNK_x5sqaJe0RRXbR6WJWPl65_J9dI-WqDo3y8OmB5k/edit)
+- [The 3 Fulfilment Models](https://docs.google.com/document/d/1Uy4jisd8yK6rhYiVF0rlo_trESue6fXt5sDsPDncwMM/edit)
+- [The 60/20/20 Rule](https://docs.google.com/document/d/17JS4a292dAVjAE5V5Kdr0ivOyYPK15viixJ1K1ICkrM/edit)
+- [The Client Journey](https://docs.google.com/document/d/1AU09Lnc0vBkqq87t9q4YHhu522KJEkn7wjb1d9ynONA/edit)
+- [The Foundation of Client Results](https://docs.google.com/document/d/1Mo0zLHwTLqUDprpQ_jg9baUVgLPakix52_nG5Ml5rHg/edit)
+
+## intro
+- [110s_qXbVY_npA-bwkERHI5d6C-0g0g2B](https://docs.google.com/file/d/110s_qXbVY_npA-bwkERHI5d6C-0g0g2B/edit) · sop-file
+- [169F5E1w2xYWcDYaIjUarlafoDCaF5S5b](https://docs.google.com/file/d/169F5E1w2xYWcDYaIjUarlafoDCaF5S5b/edit) · sop-file
+- [1BjRIF7qYBnO_845VXg7RIZ5RTcIYAa0XGaPu-Ko9p0k](https://docs.google.com/document/d/1BjRIF7qYBnO_845VXg7RIZ5RTcIYAa0XGaPu-Ko9p0k/edit)
+- [1DB00R6Plk-6iR3VmyRU2RExowaLWhNuF](https://docs.google.com/file/d/1DB00R6Plk-6iR3VmyRU2RExowaLWhNuF/edit) · sop-file
+- [1HePwZrUxfDlCrtVbJJ48TxSfXzGwrTMy](https://docs.google.com/file/d/1HePwZrUxfDlCrtVbJJ48TxSfXzGwrTMy/edit) · sop-file
+- [1Op3bUFW68fWhb3cMo0Ld48omqEciRCXT](https://docs.google.com/file/d/1Op3bUFW68fWhb3cMo0Ld48omqEciRCXT/edit) · sop-file
+- [1S3dbHhNW_MKzbgkDf9O_cy3RlfQSdLXz](https://docs.google.com/file/d/1S3dbHhNW_MKzbgkDf9O_cy3RlfQSdLXz/edit) · sop-file
+- [1ZaadV2gXRC4Labqd9vN9CL52bSjEEfiq](https://docs.google.com/file/d/1ZaadV2gXRC4Labqd9vN9CL52bSjEEfiq/edit) · sop-file
+- [1jtaxTt5-ug-XDvpJozsd_54jLL6nCxJy](https://docs.google.com/file/d/1jtaxTt5-ug-XDvpJozsd_54jLL6nCxJy/edit) · sop-file
+- [1kE4sWvSXyonpTUKDTzCkjq7TG09g7xL0Ifo2kRQjEJw](https://docs.google.com/spreadsheets/d/1kE4sWvSXyonpTUKDTzCkjq7TG09g7xL0Ifo2kRQjEJw/edit) · sop-sheet
+- [1lNh5AnntGX-HoEyH6XGz_93NChAjKU6K](https://docs.google.com/file/d/1lNh5AnntGX-HoEyH6XGz_93NChAjKU6K/edit) · sop-file
+- [1qqZVR1w7z798JZPWs19Ii83sPvKmP5vSKS6UqJKhA6E](https://docs.google.com/spreadsheets/d/1qqZVR1w7z798JZPWs19Ii83sPvKmP5vSKS6UqJKhA6E/edit) · sop-sheet
+- [1uwuPauRb3rAUVIWdhEHsAppJNVM3uI8C](https://docs.google.com/file/d/1uwuPauRb3rAUVIWdhEHsAppJNVM3uI8C/edit) · sop-file
+- [1wkvpyKrNqd5rrMr9SOnkg8zheHvx7Ms_](https://docs.google.com/file/d/1wkvpyKrNqd5rrMr9SOnkg8zheHvx7Ms_/edit) · sop-file
+- [3\. Media Buyer New Client Steps](https://docs.google.com/document/d/1tkSG6yllV2UDWToJ8ZD3pID5uUa0FRjP5yrb251RUZ4/edit)
+- [Ad Approval Process](https://docs.google.com/document/d/15Yz9nEhKreVdEqRwKRxGP2ldTmiC6AGbDVKlGZJ29sE/edit)
+- [Aesthetic Accelerator Program - 90 Day](https://docs.google.com/document/d/1-OK87qCzH4QD6H_Dw333ee2IGdMmlEQChd-M9za4_7Y/edit)
+- [CEO Dashboard](https://docs.google.com/document/d/1x28Sfdz2WIqV4yJaX3eNWO0LsLlkfNwzysU-kyx-ScM/edit)
+- [CSM Guide - Text Templates](https://docs.google.com/document/d/1of8fPELtIfJl_h-TRWcYif2iJ94sQTJU_ZaMHp9AdMg/edit)
+- [CSM Guide - Text Templates](https://docs.google.com/document/d/1KXFzLgh47M72D_V7A5yQ2BBA7vKkF4VCHSbSQIKbPpQ/edit)
+- [CSM Guide - Text Templates](https://docs.google.com/document/d/1HTYmoPf1TK_wbSegtzMosagfigf-jKRsoCin_ZvhykY/edit)
+- [Churn Is Normal…](https://docs.google.com/document/d/1gFBC6zP4P22ExbCxnzgvE3eQeOFuMk56ieaGL1VZNBU/edit)
+- [Client Payment Is OVERDUE Flow](https://docs.google.com/document/d/1pf0xMSVmo0aHAjLthHGptu_pYU2mSPGAAsyslI3_f5M/edit)
+- [Client Reactivation Text Templates](https://docs.google.com/document/d/1n87Ii_0QQBazlmkJPN1rL2V_5laNP5I5LEV6gRE4qBQ/edit)
+- [Client Review Guide](https://docs.google.com/document/d/1aaUack4_LZTFPJkX1KMgOphOQcXCZFBRia1Lg1RdJZA/edit)
+- [Client Success Manager](https://docs.google.com/file/d/186zanorGHuEfIqOoS0Y-nJDdQRh_Oj7B/edit) · sop-file
+- [Client onboarding](https://docs.google.com/document/d/1jvy8j0MUGGFMEWd1o5qqa-Se15-WhyZ2hWFvSqd5WJs/edit)
+- [Expectations](https://docs.google.com/document/d/15od17LkLu3sPHGF3CddlzDArFH2cVMpglKBQfQIkfdA/edit)
+- [Hotlist review](https://docs.google.com/spreadsheets/d/1aSq1F-HTjVrWlNBVuK0B1pabEoYpFlSDAsNjcTuQkO8/edit) · sop-sheet
+- [How Does Closebot Work?](https://docs.google.com/document/d/1YAWHSCylFu5uycnupIjSTAWGrng9vDOIfm3c9DVfjOA/edit)
+- [How Does Closebot Work?](https://docs.google.com/document/d/1wzAb_pwuE_X9FlSEpuh25bAx6ynYybNvAsZiAtMJWTk/edit)
+- [Introduction](https://docs.google.com/document/d/1PKe0gkJuvvbsM6ZONxueH-mmLuU0CV6syMvDSo_U09w/edit)
+- [Introduction](https://docs.google.com/document/d/1-HygUeA-XXPgD9P2S3QDsDtVR0b2mefKBY1P0TuKgVY/edit)
+- [Introduction](https://docs.google.com/document/d/1tR2SUS-Ffmy-Pb2GF98dYpcQ3Rmsx1MS3Lyt-LdX_lA/edit)
+- [Launching new video ads](https://docs.google.com/document/d/1j2saPSQ37NQLRhu82RsULBrIBdZPu74PEiCEI5ChEgw/edit)
+- [Levers To Make More Money With No Extra Work](https://docs.google.com/document/d/1wBAw2ga2E7YxIq8sYI7QGWmktkH1WGfiIDjAddC0iOo/edit)
+- [Macro Vs. Micro ð­](https://docs.google.com/document/d/1CCS-3fAoGvPqHACFh4ApBErCa_UlBLh6WHtDaj7HfyU/edit)
+- [Managing Client Campaigns](https://docs.google.com/document/d/1sei_ToDIruYGr9zyyKN71i6EoWMNfF7k8U-Z4rrr04U/edit)
+- [Media Buyer Job Scorecard](https://docs.google.com/document/d/1ThpaS6xVWCf7LFclbdUY97QEkco1nMZNS_4vxwVwdpI/edit)
+- [Media Buyer Mission](https://docs.google.com/document/d/1Wh4iEnqYcuM9Y-z0UvRsy36zJZluaii84PpxjvNPPXc/edit)
+- [Meeting Cadence (Sales Department)](https://docs.google.com/document/d/1eXyKmlxIlmC7M52tj9_z2_13nmTunWqN5ZlzNw__FkE/edit)
+- [Operations Manager](https://docs.google.com/document/d/1ERfUFIQZ_f8Y0w0Y3ESkKclGgGqEKp5Lx6OConM2THg/edit)
+- [PPS - Setter Scorecard 2025](https://docs.google.com/document/d/1ptzhoTfV-jA6_zHBeCj0hPG3HUxdVpslmfULW8II0Ng/edit)
+- [P\&L Examples At Each Stage](https://docs.google.com/spreadsheets/d/19pQbIVX5zQhQIGozfgLs4kRwkj9WQZDJsUFvbhGMTec/edit) · sop-sheet
+- [Pod Breakdown - L\&S](https://docs.google.com/document/d/100l-jxOfcDaui-oJIWaa5hGGd1p-Ze8hd4a4D2N5psg/edit)
+- [Project management](https://docs.google.com/document/d/1keSWVyJV0-lyXhhgoC2Zu6fQBt_YHmszN4vJi1LM61Y/edit)
+- [Prompting Basics](https://docs.google.com/document/d/19h74YGk-f_f57J9QyIhtj99RMb7ddIqsCCMGp2ady2A/edit)
+- [Putting Profit First](https://docs.google.com/document/d/1FSHgi5TWSn3-tfsOs5NkJHx5Aj5hBC_eXAE_D2JKUF0/edit)
+- [Reactivation Campaigns☠️ð](https://docs.google.com/document/d/1TKzmjo3fYzXQMMbGZDbDgukmQs6QPg9OK2OT7v1RIdI/edit)
+- [Round 1: The Screening Interview (15-20 minutes)](https://docs.google.com/document/d/1l7B41mkcfgNVgOO5rjt7QbI6CvGNDtm2IlUrIVB0csc/edit)
+- [Sales Rep Scorecard](https://docs.google.com/document/d/1R6x0e15mJyLeecS2D_kx4m3SH8fLU3R4QckcBXPtmeU/edit)
+- [Slack internal ad creation SOP](https://docs.google.com/document/d/1N0oIjzj5GcerLChVI1s0UpLuD9tuAdUFFbyVJM69P3A/edit)
+- [Social Proof SOP](https://docs.google.com/document/d/10w3wcIlHzHHtTtyXuh9rrPFAZPRFZRGc9c6QFPUnCyQ/edit)
+- [Tab 1](https://docs.google.com/document/d/1nFPy9U9SNFhzxyRo143jqMP5dVCsVpLNbgXq2HJ4pIQ/edit)
+- [Text Templates](https://docs.google.com/file/d/1WJ57FN21WPl7ZLPzkLegP2-DKwJa3W9I/edit) · sop-file
+- [The 3 C’s](https://docs.google.com/document/d/1nT0q20K6QPm3diPX_DagUSmUzF9nPoH4uP65mNfxK6I/edit)
+- [The Foundation - Client Snapshot](https://docs.google.com/document/d/1UB877Pg8e4Zm-fD_Oa1M_27ei4TbCrr38AzQJuGI270/edit)
+- [Turkey Neck](https://docs.google.com/document/d/1RBmy113jP1BS2DZkgXp6NO_Vd3HboDqaEcasbG_lr0Q/edit)
+- [Video Ads We Run For Our Clients](https://docs.google.com/document/d/1J8L2qxhlrBeRxrbcgoq5BMRfM-RdJnMJQ-c5x4C03_0/edit)
+- [What Problem This Solves⛔️](https://docs.google.com/file/d/1zzTB_aCWjaDE1crtfDOT6tK7SumsJJOK/edit) · sop-file
+- [When They Get Their First Booking](https://docs.google.com/document/d/1X0rsibMUb3VXuQM-80qLK9NS4wdyOKdGBo6vqNgXYWY/edit)
+- [When They Get Their First Booking](https://docs.google.com/document/d/16HHM0cishZUNi1YF0P94mIyKelqQFRRxileEFWR6ozg/edit)
+- [When To Hire](https://docs.google.com/document/d/1f0zS0soQw8nWFD9YgqsH_srznr6BhQbKj9qyJNCzA7M/edit)
+- [→  OFFER NAME RECOMMENDED:** Non Surgical Facelift.](https://docs.google.com/document/d/1lsbLOZfHQPIlbKD-c_-yF4joaHDoq3DmCssoLzUoitQ/edit)
+
+## lead-gen
+- [$0 - $100 day Scale phase 1](https://docs.google.com/document/d/197Wpkydf0u2yUuMF7VJvdjlX_Vbplx96yhqFy1J75LY/edit)
+- [$100 - $300 a day Scale phase 2](https://docs.google.com/document/d/12iVLPU8ig0J2-fWOGJaXN2iwehLskAn_yr5u9H2Nak0/edit)
+- [$300+ a day, Scale phase 3](https://docs.google.com/document/d/1acoWR8lfGPp-PksSxf-mjcjT0Vya5T2hsq-Qm9KIXag/edit)
+- [1K_2eoOItms06rgG5N4Gh-R2aIqtctDNx](https://docs.google.com/file/d/1K_2eoOItms06rgG5N4Gh-R2aIqtctDNx/edit) · sop-file
+- [1OPROP3Cibsxnuc2Qcu_PyFcuig7z8NXB](https://docs.google.com/file/d/1OPROP3Cibsxnuc2Qcu_PyFcuig7z8NXB/edit) · sop-file
+- [1OniDF-zdo10mLpV9x6L0p7ONSHUtKFLB](https://docs.google.com/file/d/1OniDF-zdo10mLpV9x6L0p7ONSHUtKFLB/edit) · sop-file
+- [1jvRTpA9Kcr3yRWQUUsH2Wlu_dO2iiRkb](https://docs.google.com/file/d/1jvRTpA9Kcr3yRWQUUsH2Wlu_dO2iiRkb/edit) · sop-file
+- [1tZFUx5LMsaI8B1C0mxlEcr-9DjQcLrjX](https://docs.google.com/file/d/1tZFUx5LMsaI8B1C0mxlEcr-9DjQcLrjX/edit) · sop-file
+- [1ujjtvQYQ4Kcwd68MICiRZsbuzVquUNY8](https://docs.google.com/file/d/1ujjtvQYQ4Kcwd68MICiRZsbuzVquUNY8/edit) · sop-file
+- [2-call process snapshot](https://docs.google.com/document/d/10ZNbq-rtjmx_d3WPlpBvLtR3W-7m3DHTFKL3Z4Fiyis/edit)
+- [Acquisition Foundations](https://docs.google.com/document/d/1HMlOdy58e3qihIX2oJ0uaFMx_q6o7jOlKZzCVxa0euM/edit)
+- [Ad spytools SOP](https://docs.google.com/document/d/1pZe4svygs48zMJCMji55deCmqdbtfpFfiLuAqDYYHno/edit)
+- [Ads Setup Checklist](https://docs.google.com/document/d/1_tXZhENr_sc-BEpV-AeN7Bm3k-unmjZ3sNjBJOnliUs/edit)
+- [Daily Ads Workflow - Sub $10k In Spend / Month](https://docs.google.com/document/d/1XU6bdwrBSPBX8SPrCuYe9fX8EDFzfiDZpglV5Ex8SE4/edit)
+- [Diagnosis Basics](https://docs.google.com/document/d/1cioKqspTOI6zK76ob0lOTzfNLDMe5WS6NJ_hgTwb-p4/edit)
+- [Do It Yourself or Delegate?](https://docs.google.com/document/d/1oH545t5fP7rKvHA3-yevuM6sp1wchNde8nmdd6wi4z4/edit)
+- [Editing Ads That Convert](https://docs.google.com/document/d/1J3-4_Nlp7MAyLULcvW7IgSA8JUYqQWf17KsORrb57gA/edit)
+- [FB SOP](https://docs.google.com/document/d/1LbiNPwcOSi4EdmGvabf7DP7mRp_A7TZzbmLmxoorHFo/edit)
+- [Hammer Them Technical Short Form Setup](https://docs.google.com/document/d/1ovIAp5ZrHqE3shUGZFIdKNLqMZ_7D6vaCcXnNJr7sco/edit)
+- [How To Set it up](https://docs.google.com/document/d/1pnHP895erBWSF4O-c7Y6SfaH1Gk5Ycw0MZj_jQvcBN0/edit)
+- [Isn’t This Unethical?](https://docs.google.com/document/d/18CuJRmKaS9ApCWko7sDisKeyAwftqjyTj4UlP9kmFzk/edit)
+- [Making ad hooks using AI](https://docs.google.com/document/d/1CZJ07aFgDWGnHHMlQP3qjW08btDWDSU8RSEVjI1hYxA/edit)
+- [Marketing Leverage](https://docs.google.com/document/d/1obopvPhWbtqLfxaWQE_ef3N26i_ARkvkvGgMRmJmtR4/edit)
+- [Media buying fundamentals](https://docs.google.com/document/d/1ULGkoMdb8hHIkrRiGuhRG7A6nlYyKzZMDdRsfemo9lE/edit)
+- [Nurture Fundamentals](https://docs.google.com/document/d/1USveZrVwbeLOaoXTZRaNyYEHpDOmo_JtrzeqIL6SIYw/edit)
+- [Philosophy of the Funnel](https://docs.google.com/document/d/13H5KfS6IIRqBUJTjjLaNchk_Uw1c6-C3KT6NWJP8zdw/edit)
+- [SOP STEPS](https://docs.google.com/document/d/1CKydsptQvUUZXLPtUgzLgpwESbQ6QINUc0UX78sdWOI/edit)
+- [SOP: Hyros Onboarding for Agency Owners](https://docs.google.com/document/d/1R9io-z5oO2TxdJxwklZOpCdGa74-EGxmD4uv0w4M4Zs/edit)
+- [Setup Steps](https://docs.google.com/document/d/1JmF3oQv6AN9s0JJYCEZzWfbfv8lrMXtykdrUevDHXzU/edit)
+- [Sheet Breakdown](https://docs.google.com/document/d/1sV6_TRNQjEhKLpo8qgtrAUMfidJDNSUOoEFqqsnCSEw/edit)
+- [Show Rate Levers](https://docs.google.com/document/d/1ehC6lF3TVDdScfxoqLwV448PVjDvrqJ0NwESD6lj_sI/edit)
+- [Tab 1](https://docs.google.com/document/d/1oa9ieybXI368XkC-yoxBGApvmQaUIa54m8XBHXqTtZQ/edit)
+- [The Mindset Traps](https://docs.google.com/document/d/1Dd_VxexxYdD89VxXucpFijYHnyiFBWDaGW8lJMWIfyo/edit)
+- [Visual Breakdown](https://docs.google.com/document/d/1ynhsZEjxtRgdEvbXbxHDjtnckPYCrJUIBc-oH5WhIMU/edit)
+- [Waiting Room Optimization](https://docs.google.com/document/d/181SOVz5uv1YypJq1n9R-t35NgoE2wrnoVoW1VlArJXk/edit)
+- [What Is The Hammer Them?](https://docs.google.com/document/d/1nXTqA3ITpwC2FXFGL06NhLdawCn6Dz4Jh3mv47i3ggM/edit)
+- [What Is a Pixel?](https://docs.google.com/document/d/1-1WoCz9NYoScByCS4VBbpIVPAVcsFTJlnQq3ykwffPQ/edit)
+- [What Is a VSL?](https://docs.google.com/document/d/1xZEASnvD1Ds8QoPiK7LyQMZxUKTGd4kbH8qKWy-tWcQ/edit)
+- [What is Lead Quality?](https://docs.google.com/document/d/1vEmfr-P6K8LTEZj_dK_-1XTvG1aGwACrpUaNIqy_9Xc/edit)
+- [What is a Sales Funnel?](https://docs.google.com/document/d/1x6R9QdOSw_U6ji0zE9ufBodaIo0soRZO9MvKmtu4wcY/edit)
+- [When To Optimise & Impact](https://docs.google.com/document/d/1oCiMZm3rhRlGIaUXL8J6S0Bkfr2MpnUtmSMLFe3o7kU/edit)
+
+## ops-ai
+- [120DJ6hulLOdxYMbNoPw-GLeeSNFwCDJJ](https://docs.google.com/file/d/120DJ6hulLOdxYMbNoPw-GLeeSNFwCDJJ/edit) · sop-file
+- [1374loPLCdH6uX8oTBJCmQxWlLkHgC16uy6RdPS8gEEU](https://docs.google.com/spreadsheets/d/1374loPLCdH6uX8oTBJCmQxWlLkHgC16uy6RdPS8gEEU/edit) · sop-sheet
+- [15CELY3D47042GLqPmrwYZqZYxnYsy2Bd](https://docs.google.com/file/d/15CELY3D47042GLqPmrwYZqZYxnYsy2Bd/edit) · sop-file
+- [17fMf1msD2fX9fTOoYJI4PKGcQ6sP7oVPFfmGH-M2Yqg](https://docs.google.com/spreadsheets/d/17fMf1msD2fX9fTOoYJI4PKGcQ6sP7oVPFfmGH-M2Yqg/edit) · sop-sheet
+- [1IWgZA3tmsTlXDPo7KpbxO2WDj6NEbCbMToxdBdW3hK4](https://docs.google.com/spreadsheets/d/1IWgZA3tmsTlXDPo7KpbxO2WDj6NEbCbMToxdBdW3hK4/edit) · sop-sheet
+- [1JfFZLg0bD8D8QoERd6kkex8PFDAoLeV8gKNj_UR61YY](https://docs.google.com/spreadsheets/d/1JfFZLg0bD8D8QoERd6kkex8PFDAoLeV8gKNj_UR61YY/edit) · sop-sheet
+- [1Ke6wEPC-JLXO6TJzj5RerUFIW0lOt_TaL-VV93hMM8Y](https://docs.google.com/spreadsheets/d/1Ke6wEPC-JLXO6TJzj5RerUFIW0lOt_TaL-VV93hMM8Y/edit) · sop-sheet
+- [1MF82dsnhzbv_AaSw0pDxsLXV0oWHmJqGbByUsipmXi8](https://docs.google.com/document/d/1MF82dsnhzbv_AaSw0pDxsLXV0oWHmJqGbByUsipmXi8/edit)
+- [1nTMFJAkWpmy-DT0QCJOSPwgQJZLjfn2V](https://docs.google.com/file/d/1nTMFJAkWpmy-DT0QCJOSPwgQJZLjfn2V/edit) · sop-file
+- [1td8NDmp2wtSYpRznXJv5NKR_6zrjPHMLCCjiVetf4Zw](https://docs.google.com/spreadsheets/d/1td8NDmp2wtSYpRznXJv5NKR_6zrjPHMLCCjiVetf4Zw/edit) · sop-sheet
+- [1wRjoerSUhNCUn6Kw4wxjme6BHC8EfOTk](https://docs.google.com/file/d/1wRjoerSUhNCUn6Kw4wxjme6BHC8EfOTk/edit) · sop-file
+- [Creating A Prompting Machine](https://docs.google.com/document/d/1ddF96X9X34L47VwxjNPGRBkIrbBVxXLZFSRDD_KEdSo/edit)
+- [Monthly Configuration](https://docs.google.com/document/d/1GxvsIO02ngMNxGq0mlEMsaBxwv6vsVnNcYW5Os1iNLs/edit)
+- [Monthly Configuration](https://docs.google.com/document/d/1bAGssDjL_IgyGEHlGH3Z21LdflQBm6b72-6P2q2xIfk/edit)
+- [Monthly Planning Process](https://docs.google.com/document/d/1TDpxpw0NET_IWOoRX-4_3p8-I5fVDaecSu783DEAZ64/edit)
+- [Sheet Breakdown](https://docs.google.com/document/d/1SbAtXI2IBX25OHcZHAzqRRLlQEbsuB1Ak36vIrjjd6g/edit)
+
+## sales
+- [12C13KCXzCVeOcw9EZr5n9gY-QrunKYR3](https://docs.google.com/file/d/12C13KCXzCVeOcw9EZr5n9gY-QrunKYR3/edit) · sop-file
+- [1AgjbEc2XzYWwuybKwfIjEGQjxC6bht3R](https://docs.google.com/file/d/1AgjbEc2XzYWwuybKwfIjEGQjxC6bht3R/edit) · sop-file
+- [1MjLgAKUh0kmEnF3RG7j3WLNLRPKCBTrV](https://docs.google.com/file/d/1MjLgAKUh0kmEnF3RG7j3WLNLRPKCBTrV/edit) · sop-file
+- [1YWmijIoAyTFF781Hvm998JAnFuVUtd_h](https://docs.google.com/file/d/1YWmijIoAyTFF781Hvm998JAnFuVUtd_h/edit) · sop-file
+- [1bU_-pb8RGNnM2PBw8g5JNujb4wjKTfZT](https://docs.google.com/file/d/1bU_-pb8RGNnM2PBw8g5JNujb4wjKTfZT/edit) · sop-file
+- [1lyKsPSOlP2KQgPPepa98gCE5zZCXXyrj](https://docs.google.com/file/d/1lyKsPSOlP2KQgPPepa98gCE5zZCXXyrj/edit) · sop-file
+- [1qEXXoRxpVHJuusoXdxeQ5BhhiBqrtFy0NKfIoAxfyWk](https://docs.google.com/document/d/1qEXXoRxpVHJuusoXdxeQ5BhhiBqrtFy0NKfIoAxfyWk/edit)
+- [1yqKTtLwUXlJre64rgFhxUXhl02clxeLt](https://docs.google.com/file/d/1yqKTtLwUXlJre64rgFhxUXhl02clxeLt/edit) · sop-file
+- [2-Call Process Adjustments](https://docs.google.com/document/d/13QYdtHCN6E-BpC-TTbraeezOzAAVUfB7Jm1WPHTI8tY/edit)
+- [7 Steps to Objectionless Sales Calls](https://docs.google.com/document/d/1zDSdqhYgr2_dRm0DURazPBp2P_lZtRyCMn-OCl0YmuU/edit)
+- [AUTOMATED TRANSCRIPT](https://docs.google.com/document/d/1f8F83BaYDTepyNFcNav287rO3Kyzjj2x2MiFtXzj-wc/edit)
+- [Beginning Of Day Process](https://docs.google.com/document/d/1S-XGlwvBqOv7mvAHMYf3M1CDX0o97SwL3GEhRfF5igg/edit)
+- [Closer Onboarding & Bootcamp](https://docs.google.com/document/d/1NZx_GzOTHCIQk3uTQTHGrvVUKoNOnZNQ5Up2ESFs0tI/edit)
+- [Closing Deposits & Booking Follow-Ups](https://docs.google.com/document/d/1zEao_3gCbBS5U_3fUTLndF0o46aBS_N0N4JZN14Dai4/edit)
+- [Commitment & Price Phase](https://docs.google.com/document/d/1YFPIVz7pdEiBqMZ-t87bRCznPaRsuMm2PIpcSUucpQQ/edit)
+- [Creating The Cost Of Inaction](https://docs.google.com/document/d/1Jy-GVUnZCxXOijH2Zu-eJeGtpWtjeUqPK10c8KoTpd8/edit)
+- [Creating Your Pitch](https://docs.google.com/document/d/1BQwwEWd9GipPYoVrrdgIdRSi_dSjtzFgUwqYTFMFSoQ/edit)
+- [Daily Sales Meetings SOP](https://docs.google.com/document/d/1bZfSdSMEKTtmCbsb_pzWm3R1OF0luoQfMaLcIQFkvcw/edit)
+- [Daily Sales SOP (Setters)](https://docs.google.com/document/d/1jvi73ryikhFV4AEAZmf7KmO0pFrpdleOgGMJtsz9FUo/edit)
+- [Discovery Best Practices](https://docs.google.com/document/d/1FdiwkrOhVtvXa5TOgwqHuNlE5gDMfobh-ouxMN5HaoE/edit)
+- [Disqualifying & Financial Qualification](https://docs.google.com/document/d/1cLUtZPIXhQVhgzWgx0kl-CenjYR-PK38JoINarcXd3g/edit)
+- [EOD Report SOP (Setters & Closers)](https://docs.google.com/document/d/1NpRdmNHfAkQlZ4aL3pjJc3OjJHpKSwcMpH2uXtTJiVs/edit)
+- [Handling The "Pay On Results" Objection](https://docs.google.com/document/d/1N300xRHiT0b3CqEL_UgxpWiElxb4YYXP0ue6EHBSZbE/edit)
+- [Keys To High Performance](https://docs.google.com/document/d/1xoHbKVAu0jOK80cMjtsIhmgL9P9kVq4AuhIzQKZ2390/edit)
+- [Leveraging Sales Assets](https://docs.google.com/document/d/1UMwK2JC4FMnw2tN-fG9kjrQUquE7sS4epCEPo4UCnRA/edit)
+- [Mastering Discovery on Intro Calls](https://docs.google.com/document/d/14ATDJwyqaEp-txa2PZv4niq0B7bPDAZJ__ftC-66_eA/edit)
+- [Most Common Objections](https://docs.google.com/document/d/1rvX-pcaL5BBiJ3esZYRxdndpwOHNTb2fHwbGXLn3utc/edit)
+- [No Shows & Maximizing Show Rates (Setter Levers)](https://docs.google.com/document/d/1-TX8Ps9YuvvaaSvPBJ5XqECo6T3k_bKBHtoTGyOo5Rg/edit)
+- [Objection Handling](https://docs.google.com/document/d/1Z-746pb_4GWNX4RBHML550sNFeHFpd4BNgadxJ76uBQ/edit)
+- [Objections 101](https://docs.google.com/document/d/1F1m9KtjcckNSal0guSXwbXzW4dqFSo3GXI93oqmYSWw/edit)
+- [Organizing Follow-Ups at Scale](https://docs.google.com/document/d/1arv9bC7xkaT-Tfe0zv3plAO6P1fh6mPNP0nFXjer63I/edit)
+- [Pacing The First Objection](https://docs.google.com/document/d/16mXdOSsyYgkNDGq5d9FleVW-oa2BhmmBAII9-Rjh16A/edit)
+- [Pitch Presentation Methods](https://docs.google.com/document/d/1SXBvbfTjatFHWUnaG33IKSeuXKw2C9uzAHyAa4ZhDDM/edit)
+- [Price & Financial Objections](https://docs.google.com/document/d/1ou8kc1mhKmNmzz3U6gH_rBPU-IFhvEnqhW6D2tSHZBY/edit)
+- [Process Variation](https://docs.google.com/document/d/1Ia0oGZeqscyWDk0B5mRcWQTAOD8rme1zx4T-xS22FG8/edit)
+- [Reasons Why People Don't Close On The Call](https://docs.google.com/document/d/1YzB0SLVtku9JwxqiUJenPJQrk5PfCrTuBT4lmZ9yxZ4/edit)
+- [Running ads to hire salespeople](https://docs.google.com/document/d/1wv0PKscWHEQZpA8IFeJVlUXvkHXFyFnxA8iZEizDUEg/edit)
+- [Sales Bad Habits & Success Tips](https://docs.google.com/document/d/1L-dNAUHRwkNYgrjy-MDlmrNqnQ5BZiCaIq_NyScPkcw/edit)
+- [Sales First Principles](https://docs.google.com/document/d/1KCwjpNekbAJOq4w9cx0WQ9s-w_CVl3XYhpv7lqL2QDE/edit)
+- [Sales State of Mind](https://docs.google.com/document/d/1uzmHShwP64yYhpGowOVjQ4VKggHaejZ4SQPMt4xaOFw/edit)
+- [Setter Onboarding & Bootcamp](https://docs.google.com/document/d/1kJRy0yjRpPC8uPOU10ETBUyRxW88B4doTWO1d-pLwNE/edit)
+- [Setting Common Pitfalls](https://docs.google.com/document/d/1wB1Tvd9W0CEvBMiFDdzGDwSu1kSNoYDX2SFSyMfNPwI/edit)
+- [Setting Process & Pipeline Management](https://docs.google.com/document/d/1qRFar8VxNWFlxMLmqzCfzi0T4RKec-trzbFoHL_4pR0/edit)
+- [Setting Projections SOP](https://docs.google.com/document/d/1O3hk8UzdWycoJ4Yj2rwcsGv0G4JOGVFJ2NLZRgnh4eE/edit)
+- [Setting The Frame](https://docs.google.com/document/d/1jGHCx5bebZ45nPd3H9Gv4eRULmeOvDGmlwzSC2Om9_E/edit)
+- [Spouse & Partner Objections](https://docs.google.com/document/d/1wFEhHKmEjXbHS_78KgzPT1SaatHqfE1d_3c2Z6zF3lI/edit)
+- [Tab 1](https://docs.google.com/document/d/1FAjU_xk4ZWWwp3whFw9Eew9u-KfgSItUle75yU6cd8U/edit)
+- [Templatizing For Setting Efficiency](https://docs.google.com/document/d/1ZnC0TKhldjX5lrusEi6-00N6SnGFJ8LTjgEytmse-FU/edit)
+- [The Discovery Process: Creating The Gap](https://docs.google.com/document/d/15IgWrLUyHX4CIBHVsSo-5bRXkGiJzyhs1NVWEkzo958/edit)
+- [Transitioning To The Pitch](https://docs.google.com/document/d/16o962CDS4UaHkLnW8lg-VSVfy0KtWdGzdYeCYB_QVfU/edit)
+- [Transitioning to Demo](https://docs.google.com/document/d/1L17OMdnYHsuVmiXtmgatDOxu7U-wFFla0ESUquUUuMQ/edit)
+- [Uncertainty Objections](https://docs.google.com/document/d/1y33NgIfjwWKExV8YY0ecHHMEp3rmtJVk1DOnGStnWAk/edit)
+- [When & How to Hire Setters and Closers](https://docs.google.com/document/d/1SgXAhMsJpxQ3ituFRCQlszH8UR7vp3AeUF7104PESAw/edit)
+- [Your Two Leverage Points](https://docs.google.com/document/d/1JyabjWASAYx-S_Z2iF285d6B9jcuovEe3Afn54b3g_Q/edit)

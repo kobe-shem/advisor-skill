@@ -31,15 +31,16 @@ git clone <repo-url> .claude/skills/advisor
 Then in Claude Code: `/advisor critique my offer` — or just ask a business question; the skill
 triggers on offer/pricing/leads/media-buying/sales/content/scaling questions.
 
-## What this is not
+## PRIVATE REPO — do not share
 
-Every card is a **distillation in our own words, not the source material**. It contains no
-verbatim book text, course content, or transcripts, and is not a substitute for the advisors'
-own material — e.g. buy Hormozi's books at [acquisition.com](https://www.acquisition.com/).
-This project is independent and is not affiliated with, endorsed by, or sponsored by any of the
-advisors named above. Cards distilled from observation rather than primary material say so, and
-unverified claims are flagged inline.
+This repo contains the owner's full-fidelity verbatim tier under `source-texts/` paths
+(Hormozi playbook/handbook full texts + video transcripts, Ronny Mitchell and Mark Builds
+Brands transcripts, Cameron England course indexes). That is owned/licensed material for
+personal use only: **while it is present, this repo must remain private and must never be
+cloned to another person's account, published, or used as a lead magnet.** To produce a
+shareable copy, strip every `source-texts/` directory first.
 
-If you own an advisor's books or courses, `scripts/sync-private-tier.sh` can sync a private
-verbatim tier (full-text corpora, page-anchored) into gitignored `source-texts/` paths on
-machines you control. Never commit or redistribute anything under `source-texts/`.
+The doctrine cards themselves are distillations in our own words. This project is independent
+and is not affiliated with, endorsed by, or sponsored by any of the advisors named above.
+Cards distilled from observation rather than primary material say so, and unverified claims
+are flagged inline.

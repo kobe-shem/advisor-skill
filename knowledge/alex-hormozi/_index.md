@@ -38,7 +38,8 @@ destination not the vehicle, and let consistency compound.
 | **$100M Money Models** | `money-models.md` (+ the unit-economics math in `ltgp-cac.md`) |
 
 These are complete distillations of each book's frameworks in our own words — not the books
-themselves. No verbatim book text ships in this distribution.
+themselves for the three trade books. The 12 Acquisition.com playbooks and 5 video trainings DO ship
+full-text under `source-texts/` (Tier 3 — page-anchored, never auto-loaded).
 
 ## Doctrine files (open only the one(s) the question needs — max 3)
 - `offers.md` — Grand Slam Offer, the Value Equation, starving crowd, value-based pricing, the four guarantee types, bonus stack, naming.
@@ -63,6 +64,6 @@ themselves. No verbatim book text ships in this distribution.
   Offers, $100M Leads, $100M Money Models, the Acquisition.com playbooks, and his long-form
   talks). No third-party reconstruction. It is a distillation, not the books — buy the books at
   acquisition.com for the full material.
-- This repo intentionally contains **no verbatim source text.** If you own copies of the books,
-  you may keep private page-anchored notes under `source-texts/` (gitignored — see SKILL.md §5);
-  they must never be committed or redistributed.
+- The full-fidelity tier under `source-texts/` (12 playbooks + 5 video transcripts, page-anchored)
+  is PRIVATE owned material — this repo must stay private and never be shared, cloned to another
+  person's account, or published while it is present (see SKILL.md §5).

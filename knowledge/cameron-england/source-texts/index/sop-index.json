@@ -1,0 +1,3735 @@
+{
+  "schema_version": 1,
+  "source": "linked Google Docs referenced by course hub files",
+  "count": 275,
+  "sops": [
+    {
+      "id": "1D6Vt8DZkL07LkhswlsgK6-vWJaqn3hl6b3UPxHAkarg",
+      "title": "01: Setup the Job Post Ad on Facebook",
+      "label": "Hiring system configuration",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1D6Vt8DZkL07LkhswlsgK6-vWJaqn3hl6b3UPxHAkarg/edit",
+      "aliases": [
+        "01: setup the job post ad on facebook",
+        "hiring system configuration"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 15937
+    },
+    {
+      "id": "1323W5b7D4x9te3eLdg9UPTmdwXUSz0vz",
+      "title": "1323W5b7D4x9te3eLdg9UPTmdwXUSz0vz",
+      "label": "",
+      "pillar": "call-center",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1323W5b7D4x9te3eLdg9UPTmdwXUSz0vz/edit",
+      "aliases": [
+        "1323w5b7d4x9te3eldg9uptmdwxusz0vz"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 2254
+    },
+    {
+      "id": "1NijYogkbVj5ePm5dZouodv3lI31o26_i",
+      "title": "1NijYogkbVj5ePm5dZouodv3lI31o26_i",
+      "label": "",
+      "pillar": "call-center",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1NijYogkbVj5ePm5dZouodv3lI31o26_i/edit",
+      "aliases": [
+        "1nijyogkbvj5epm5dzouodv3li31o26_i"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 1299
+    },
+    {
+      "id": "1WtK9lWR72wlYkqi3dfPvw3cpCYpaL4wR",
+      "title": "1WtK9lWR72wlYkqi3dfPvw3cpCYpaL4wR",
+      "label": "",
+      "pillar": "call-center",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1WtK9lWR72wlYkqi3dfPvw3cpCYpaL4wR/edit",
+      "aliases": [
+        "1wtk9lwr72wlykqi3dfpvw3cpcypal4wr"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 881
+    },
+    {
+      "id": "1eUSW4ArhAwiKD8hkS9fofy06FmA-TzlG",
+      "title": "1eUSW4ArhAwiKD8hkS9fofy06FmA-TzlG",
+      "label": "",
+      "pillar": "call-center",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1eUSW4ArhAwiKD8hkS9fofy06FmA-TzlG/edit",
+      "aliases": [
+        "1eusw4arhawikd8hks9fofy06fma-tzlg"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 916
+    },
+    {
+      "id": "1uPBt07Ql_xJ-HW0TM0HVNfNXisa96AVT",
+      "title": "1uPBt07Ql_xJ-HW0TM0HVNfNXisa96AVT",
+      "label": "",
+      "pillar": "call-center",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1uPBt07Ql_xJ-HW0TM0HVNfNXisa96AVT/edit",
+      "aliases": [
+        "1upbt07ql_xj-hw0tm0hvnfnxisa96avt"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__cadence.txt.md",
+      "chars": 272
+    },
+    {
+      "id": "1wZr1g988Vr3kJjkbtrrqs7TUAJSBxL6VtLrRskBvQnY",
+      "title": "24 Hour & 3 Hour Before Appointment Reminders",
+      "label": "Confirmation systems setup",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wZr1g988Vr3kJjkbtrrqs7TUAJSBxL6VtLrRskBvQnY/edit",
+      "aliases": [
+        "24 hour & 3 hour before appointment reminders",
+        "confirmation systems setup",
+        "hour & 3 hour before appointment reminders"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 7661
+    },
+    {
+      "id": "1YQdYQpmeDN-Y8_TgOgcaRIHxeO1AXlAOWtumer6jXiA",
+      "title": "AI Sales audit for CSR’s",
+      "label": "AI Sales audit for CSR’s",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1YQdYQpmeDN-Y8_TgOgcaRIHxeO1AXlAOWtumer6jXiA/edit",
+      "aliases": [
+        "ai sales audit for csr’s"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 3072
+    },
+    {
+      "id": "1Ffh5kSiyDwd1cmhGG__cb6UG8vsrLnMdzkTCGx6_GaU",
+      "title": "Agency Onboarding SOP",
+      "label": "Availability checker setup",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Ffh5kSiyDwd1cmhGG__cb6UG8vsrLnMdzkTCGx6_GaU/edit",
+      "aliases": [
+        "agency onboarding sop",
+        "availability checker setup"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 3127
+    },
+    {
+      "id": "1PgisGDfh4kIFgRp5aW9YDjSmy4PV3o--Go816GOEUpQ",
+      "title": "Auditing agent calls",
+      "label": "Auditing agent calls",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1PgisGDfh4kIFgRp5aW9YDjSmy4PV3o--Go816GOEUpQ/edit",
+      "aliases": [
+        "auditing agent calls"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 2496
+    },
+    {
+      "id": "1gWDMIHoCnGG7ijVXERwLG1uy-xE-6VFCnzGrABY28Js",
+      "title": "Call center : START HERE",
+      "label": "Call center : START HERE",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1gWDMIHoCnGG7ijVXERwLG1uy-xE-6VFCnzGrABY28Js/edit",
+      "aliases": [
+        "call center : start here"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 5440
+    },
+    {
+      "id": "129peT8lRvn3Xan8kkzqninRQnCdZ7emI8UxO-Pq5ThM",
+      "title": "Client phone spam checker",
+      "label": "Client phone spam checker",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/129peT8lRvn3Xan8kkzqninRQnCdZ7emI8UxO-Pq5ThM/edit",
+      "aliases": [
+        "client phone spam checker"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 3024
+    },
+    {
+      "id": "1kuwDtluwaL1PKWSKUDIz7nZZMswetPLJMXU8dUoL2to",
+      "title": "Common Misconceptions",
+      "label": "Group interviews",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1kuwDtluwaL1PKWSKUDIz7nZZMswetPLJMXU8dUoL2to/edit",
+      "aliases": [
+        "common misconceptions",
+        "group interviews"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 12227
+    },
+    {
+      "id": "1pGmFvLl0OJPwnQ3idWbbZZfaOMBCv53H8f_yvK22i-8",
+      "title": "Firing Is Good",
+      "label": "When and how to fire",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pGmFvLl0OJPwnQ3idWbbZZfaOMBCv53H8f_yvK22i-8/edit",
+      "aliases": [
+        "firing is good",
+        "when and how to fire"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 14299
+    },
+    {
+      "id": "13xkYQ0SYIcjZUaqDr5wCgBYIgG3o2YG_K9pLkFKXI7U",
+      "title": "If new to call center watch this",
+      "label": "If new to call center watch this",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/13xkYQ0SYIcjZUaqDr5wCgBYIgG3o2YG_K9pLkFKXI7U/edit",
+      "aliases": [
+        "if new to call center watch this"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 14198
+    },
+    {
+      "id": "1Zq6YIbXcv12cagKFBtRhaTT09TsXOZ3BuAdS758gqvY",
+      "title": "Meeting Fundamentals",
+      "label": "Daily team meetings",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Zq6YIbXcv12cagKFBtRhaTT09TsXOZ3BuAdS758gqvY/edit",
+      "aliases": [
+        "daily team meetings",
+        "meeting fundamentals"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 9743
+    },
+    {
+      "id": "1BU4fcRHqliAfkpin6d6sWX7rptFOpSOz0nD4caV8nd0",
+      "title": "Monthly performance reviews",
+      "label": "Monthly performance reviews",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1BU4fcRHqliAfkpin6d6sWX7rptFOpSOz0nD4caV8nd0/edit",
+      "aliases": [
+        "monthly performance reviews"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 7956
+    },
+    {
+      "id": "1Y48B7a55PvPWxt1KuxHX1u8mzu19xKGMQPzUbmnE66A",
+      "title": "Onboarding Overview",
+      "label": "Onboarding CSR’s",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Y48B7a55PvPWxt1KuxHX1u8mzu19xKGMQPzUbmnE66A/edit",
+      "aliases": [
+        "onboarding csr’s",
+        "onboarding overview"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 6575
+    },
+    {
+      "id": "1aRdwAErrgxVuezX23vKvgjSpZXWpyvF7dEMUTkE8xdA",
+      "title": "Onboarding Process",
+      "label": "[Inbound Call Missed Call Workflow - May 22nd 2025](https://www.loom.com/share/15d93a06a00148e9bb9af6c6959ea850)",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1aRdwAErrgxVuezX23vKvgjSpZXWpyvF7dEMUTkE8xdA/edit",
+      "aliases": [
+        "[inbound call missed call workflow - may 22nd 2025](https://www.loom.com/share/15d93a06a00148e9bb9af6c6959ea850)",
+        "onboarding process"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 18374
+    },
+    {
+      "id": "1slcPCymN4zerSflJeN-auWS201yOEjPChTFcuVa9jWw",
+      "title": "Pre-HP Onboarding Steps",
+      "label": "HP Client onboarding",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1slcPCymN4zerSflJeN-auWS201yOEjPChTFcuVa9jWw/edit",
+      "aliases": [
+        "hp client onboarding",
+        "pre-hp onboarding steps"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 11307
+    },
+    {
+      "id": "1N8Hi5pExRF-qTyWc95yjP0e2xv9SUhDDDMuLHHg3nOE",
+      "title": "Pulling callbacks into HP",
+      "label": "Pulling callbacks into HP",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1N8Hi5pExRF-qTyWc95yjP0e2xv9SUhDDDMuLHHg3nOE/edit",
+      "aliases": [
+        "pulling callbacks into hp"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 783
+    },
+    {
+      "id": "1hMwDG8LZps_JQHc_kVWdK55OTmUg1U7YLMTsZ5bYz4o",
+      "title": "Round Robin vs Exclusive Agent",
+      "label": "Round Robin vs Exclusive Agent",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1hMwDG8LZps_JQHc_kVWdK55OTmUg1U7YLMTsZ5bYz4o/edit",
+      "aliases": [
+        "round robin vs exclusive agent"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 7399
+    },
+    {
+      "id": "1Vn_VHvXZ7ZZ-AIc3C97pWvqir4CXu6vaGbAtvXx2R7g",
+      "title": "Sheet Breakdown",
+      "label": "Call center dashboard setup",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Vn_VHvXZ7ZZ-AIc3C97pWvqir4CXu6vaGbAtvXx2R7g/edit",
+      "aliases": [
+        "call center dashboard setup",
+        "sheet breakdown"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 10091
+    },
+    {
+      "id": "1Bkj6JT1fVxawjgfLL21ZIXIRxkYWzh3k0RmOYL_zai0",
+      "title": "Taking Control of the Client Journey",
+      "label": "Core functions and responsibilities",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Bkj6JT1fVxawjgfLL21ZIXIRxkYWzh3k0RmOYL_zai0/edit",
+      "aliases": [
+        "core functions and responsibilities",
+        "taking control of the client journey"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 10958
+    },
+    {
+      "id": "1TA_fCqpPszkmf6Y9FhYQit-QP9FG1tpqE8uVWCzk_kg",
+      "title": "The 7 Show Rate Levers",
+      "label": "Client show rate systems",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1TA_fCqpPszkmf6Y9FhYQit-QP9FG1tpqE8uVWCzk_kg/edit",
+      "aliases": [
+        "client show rate systems",
+        "the 7 show rate levers"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 23756
+    },
+    {
+      "id": "1V1djA-JRIIkNsdDi664R3vWaAYVNTr8-T-vh1uZGccs",
+      "title": "The CSR Workflow",
+      "label": "Call center breakdown",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1V1djA-JRIIkNsdDi664R3vWaAYVNTr8-T-vh1uZGccs/edit",
+      "aliases": [
+        "call center breakdown",
+        "the csr workflow"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__A._Call_center_fundamentals__Reffered_docs__Fundamentals_docs.docx.md",
+      "chars": 18153
+    },
+    {
+      "id": "1__9gPJBa-p8H28oRdZ-PzPwT9GnvMDpYtRa_foSHhJI",
+      "title": "The Call Script Framework",
+      "label": "Script creation",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1__9gPJBa-p8H28oRdZ-PzPwT9GnvMDpYtRa_foSHhJI/edit",
+      "aliases": [
+        "script creation",
+        "the call script framework"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 22851
+    },
+    {
+      "id": "1bHNRoPwm7Jy33E50GToVazI-pizCfbN9uvsOCMFylQA",
+      "title": "The Purpose of 1-1 Interviews",
+      "label": "Live group interview breakdown",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1bHNRoPwm7Jy33E50GToVazI-pizCfbN9uvsOCMFylQA/edit",
+      "aliases": [
+        "live group interview breakdown",
+        "the purpose of 1-1 interviews"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 18070
+    },
+    {
+      "id": "1SOsoAiv3naWAQ3spMCIWCfOa2-vQ-1303vmM-GymU7U",
+      "title": "The Screening Mindset",
+      "label": "Screening applicants",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1SOsoAiv3naWAQ3spMCIWCfOa2-vQ-1303vmM-GymU7U/edit",
+      "aliases": [
+        "screening applicants",
+        "the screening mindset"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 9448
+    },
+    {
+      "id": "1utI8HeVRyADMwfjc-JyJu0ASRM22nWD_-nAwQjlNLwI",
+      "title": "The Three Buckets of Performance",
+      "label": "KPI’s and agent reporting",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1utI8HeVRyADMwfjc-JyJu0ASRM22nWD_-nAwQjlNLwI/edit",
+      "aliases": [
+        "kpi’s and agent reporting",
+        "the three buckets of performance"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 21033
+    },
+    {
+      "id": "1RGWAPf9AqDY3sHXtF6YZSFKl8JBaWWvumVSrZFZabcQ",
+      "title": "The WHO",
+      "label": "Who and how to hire",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1RGWAPf9AqDY3sHXtF6YZSFKl8JBaWWvumVSrZFZabcQ/edit",
+      "aliases": [
+        "the who",
+        "who and how to hire"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 2979
+    },
+    {
+      "id": "1UZBAWjrtETj7OE6NaoIUQQMw-7t9hP1Kpknx3Ki6R9Q",
+      "title": "What is a Training Bootcamp?",
+      "label": "Client Sales rep bootcamps",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1UZBAWjrtETj7OE6NaoIUQQMw-7t9hP1Kpknx3Ki6R9Q/edit",
+      "aliases": [
+        "client sales rep bootcamps",
+        "what is a training bootcamp?"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__C._Hiring_and_onboarding__Reffered_docs__Hiring_CC_Docs.docx.md",
+      "chars": 23059
+    },
+    {
+      "id": "1EP-bcZ4Rs0EPcie4fbcMrUrDXSSSYGNvk7DIPrUfotA",
+      "title": "Why Accountability Systems Matter",
+      "label": "Accountability systems",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1EP-bcZ4Rs0EPcie4fbcMrUrDXSSSYGNvk7DIPrUfotA/edit",
+      "aliases": [
+        "accountability systems",
+        "why accountability systems matter"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 15183
+    },
+    {
+      "id": "1kba6MZeY4OqT91vQHXN9sR8Px_VS8y7IcEiifOpuQ30",
+      "title": "Why Have 1-1 Meetings?",
+      "label": "Meetings with agents",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1kba6MZeY4OqT91vQHXN9sR8Px_VS8y7IcEiifOpuQ30/edit",
+      "aliases": [
+        "meetings with agents",
+        "why have 1-1 meetings?"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__D._Team_mangement__Reffered_docs__Team_management_docs.docx.md",
+      "chars": 13343
+    },
+    {
+      "id": "1o4bn2TzEr2dtwLg0FQ219Qb-DuFFm3-IlSh71fCYoi8",
+      "title": "Workspace Structure",
+      "label": "Slack channels and automations",
+      "pillar": "call-center",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1o4bn2TzEr2dtwLg0FQ219Qb-DuFFm3-IlSh71fCYoi8/edit",
+      "aliases": [
+        "slack channels and automations",
+        "workspace structure"
+      ],
+      "source_hubs": "4._Client_call_center_Systems__B._Setup__Reffered_docs__Call_center_setup_docs.docx.md",
+      "chars": 10697
+    },
+    {
+      "id": "1PF7EGRxY8WU7xlKkVUiUeReWqRyRw5mh",
+      "title": "1PF7EGRxY8WU7xlKkVUiUeReWqRyRw5mh",
+      "label": "",
+      "pillar": "calls",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1PF7EGRxY8WU7xlKkVUiUeReWqRyRw5mh/edit",
+      "aliases": [
+        "1pf7egrxy8wu7xlkkvuiuerewqryrw5mh"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 2908
+    },
+    {
+      "id": "1nJSwyF25KDakx35cOt1cLWTRMsAxMleg",
+      "title": "1nJSwyF25KDakx35cOt1cLWTRMsAxMleg",
+      "label": "",
+      "pillar": "calls",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1nJSwyF25KDakx35cOt1cLWTRMsAxMleg/edit",
+      "aliases": [
+        "1njswyf25kdakx35cot1clwtrmsaxmleg"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Calls__Founder_Calls__More_cc's.docx.md",
+      "chars": 1616
+    },
+    {
+      "id": "1_BtnWLQwb6qWUC0Loy1DDhgfhXa75amThq12juQeWsk",
+      "title": "3 Layers of KPIs",
+      "label": "Paid ad KPI’s math",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1_BtnWLQwb6qWUC0Loy1DDhgfhXa75amThq12juQeWsk/edit",
+      "aliases": [
+        "3 layers of kpis",
+        "layers of kpis",
+        "paid ad kpi’s math"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md; 2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 11105
+    },
+    {
+      "id": "1w2VG6I7d9pbyTm5seh38kT4IvcdoBR6wOCnG9mPduH4",
+      "title": "Ad Copy",
+      "label": "Ideogram Scripting: 5:1 Rule…",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1w2VG6I7d9pbyTm5seh38kT4IvcdoBR6wOCnG9mPduH4/edit",
+      "aliases": [
+        "ad copy",
+        "ideogram scripting: 5:1 rule…"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 3386
+    },
+    {
+      "id": "1AC58Tebxqcxv-srxIGP5j4k5Gz_7XvE4CYPuuezod_M",
+      "title": "Assistant SOP",
+      "label": "Assistant SOP",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1AC58Tebxqcxv-srxIGP5j4k5Gz_7XvE4CYPuuezod_M/edit",
+      "aliases": [
+        "assistant sop"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 5083
+    },
+    {
+      "id": "1qwUevzlfinyah9W2LTmAFG57Yi-Uil7ktLYR251Hw4o",
+      "title": "CSM Guide - Text Templates",
+      "label": "Additional CSM mention (Client communcation SOP)",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1qwUevzlfinyah9W2LTmAFG57Yi-Uil7ktLYR251Hw4o/edit",
+      "aliases": [
+        "additional csm mention (client communcation sop)",
+        "csm guide - text templates"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md; 5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 37188
+    },
+    {
+      "id": "1-SzsCw1SO8drMUQGa5D-WlnX4JqWwFAbme-zeSjNzqo",
+      "title": "Example ad scripts",
+      "label": "Example ad scripts",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1-SzsCw1SO8drMUQGa5D-WlnX4JqWwFAbme-zeSjNzqo/edit",
+      "aliases": [
+        "example ad scripts"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 5835
+    },
+    {
+      "id": "1NXNRXkqd7EB5N2jwNoSo9kpD4yJ3zGN7koVtFhivVtg",
+      "title": "Identifying Reasons",
+      "label": "Questions to ask yourself to create self awareness",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1NXNRXkqd7EB5N2jwNoSo9kpD4yJ3zGN7koVtFhivVtg/edit",
+      "aliases": [
+        "identifying reasons",
+        "questions to ask yourself to create self awareness"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 4944
+    },
+    {
+      "id": "1pHt0ugeY0BpvwmKXIKfqs1HyCW9HdNkpYvZmvrIvKsc",
+      "title": "Key Areas of Responsibilities",
+      "label": "Exec admin playbook",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pHt0ugeY0BpvwmKXIKfqs1HyCW9HdNkpYvZmvrIvKsc/edit",
+      "aliases": [
+        "exec admin playbook",
+        "key areas of responsibilities"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 18482
+    },
+    {
+      "id": "1QhfRbIZhfxzr7654CTA-gZmzM9tcF0hnCZ1xhxhl3VA",
+      "title": "Projections",
+      "label": "Hiring and training sales reps",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1QhfRbIZhfxzr7654CTA-gZmzM9tcF0hnCZ1xhxhl3VA/edit",
+      "aliases": [
+        "hiring and training sales reps",
+        "projections"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 1142
+    },
+    {
+      "id": "1DSVmdu9vUTg_3ij8vEzmCmKUHmbW093nIibBP1yEk8Q",
+      "title": "Sales Rep Directory",
+      "label": "Sales rep directory",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1DSVmdu9vUTg_3ij8vEzmCmKUHmbW093nIibBP1yEk8Q/edit",
+      "aliases": [
+        "sales rep directory"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 6465
+    },
+    {
+      "id": "1ye_nj0ufzt3VNPEsaUDwrImzjEEZn02XJvs6JMVx7E8",
+      "title": "Who Is \\[NAME\\]?",
+      "label": "Becoming a 7-8 figure individual",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ye_nj0ufzt3VNPEsaUDwrImzjEEZn02XJvs6JMVx7E8/edit",
+      "aliases": [
+        "becoming a 7-8 figure individual",
+        "who is \\[name\\]?"
+      ],
+      "source_hubs": "2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 10668
+    },
+    {
+      "id": "1RKHWtA-AkH-5WqBWqz4a6wKe_jeXmcemzmsKqQ9YQgw",
+      "title": "Yearly Plan",
+      "label": "Staying organized and zooming in on goals",
+      "pillar": "calls",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1RKHWtA-AkH-5WqBWqz4a6wKe_jeXmcemzmsKqQ9YQgw/edit",
+      "aliases": [
+        "staying organized and zooming in on goals",
+        "yearly plan"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md; 2025_call_recordings_and_masterminds__Mykonos_Mastermind_Q3_2025__Reffered_docs_Mykonos_mm.docx.md",
+      "chars": 5947
+    },
+    {
+      "id": "19srT95Cd-1YPQjQWK-SZTcwiRrOXq-Fl",
+      "title": "19srT95Cd-1YPQjQWK-SZTcwiRrOXq-Fl",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/19srT95Cd-1YPQjQWK-SZTcwiRrOXq-Fl/edit",
+      "aliases": [
+        "19srt95cd-1ypqjqwk-sztcwirroxq-fl"
+      ],
+      "source_hubs": "5._Client_success__C._Upsells,refferals,reviews__Reffered_docs.docx.md",
+      "chars": 706
+    },
+    {
+      "id": "1I1CyHUNEEAKTNaDqm99D8RMUiknyFlY-",
+      "title": "1I1CyHUNEEAKTNaDqm99D8RMUiknyFlY-",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1I1CyHUNEEAKTNaDqm99D8RMUiknyFlY-/edit",
+      "aliases": [
+        "1i1cyhuneeaktnadqm99d8rmuiknyfly-"
+      ],
+      "source_hubs": "5._Client_success__D._Client_conflict__Reffered_docs.docx.md",
+      "chars": 737
+    },
+    {
+      "id": "1e2GRvXe4BtjkIl5Jo__ELmlhMcHUlcHJ",
+      "title": "1e2GRvXe4BtjkIl5Jo__ELmlhMcHUlcHJ",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1e2GRvXe4BtjkIl5Jo__ELmlhMcHUlcHJ/edit",
+      "aliases": [
+        "1e2grvxe4btjkil5jo__elmlhmchulchj"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 986
+    },
+    {
+      "id": "1iL_aef1_bgkbftO8R3OcPFSrseXKckct",
+      "title": "1iL_aef1_bgkbftO8R3OcPFSrseXKckct",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1iL_aef1_bgkbftO8R3OcPFSrseXKckct/edit",
+      "aliases": [
+        "1il_aef1_bgkbfto8r3ocpfsrsexkckct"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 1144
+    },
+    {
+      "id": "1jymERZGih9ekhzBbS03w1oKmfDIOiuWc",
+      "title": "1jymERZGih9ekhzBbS03w1oKmfDIOiuWc",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1jymERZGih9ekhzBbS03w1oKmfDIOiuWc/edit",
+      "aliases": [
+        "1jymerzgih9ekhzbbs03w1okmfdioiuwc"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 2541
+    },
+    {
+      "id": "1kOvWGgRhcOWZMeewjmYYvN95RrwWzZF3",
+      "title": "1kOvWGgRhcOWZMeewjmYYvN95RrwWzZF3",
+      "label": "",
+      "pillar": "client-success",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1kOvWGgRhcOWZMeewjmYYvN95RrwWzZF3/edit",
+      "aliases": [
+        "1kovwggrhcowzmeewjmyyvn95rrwwzzf3"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 1247
+    },
+    {
+      "id": "1yNtSXI1MRyh0aowuTp66KZaGkgm6cddD6PkHlOS6r-4",
+      "title": "CSM Basics",
+      "label": "Everything on hiring a CSM",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1yNtSXI1MRyh0aowuTp66KZaGkgm6cddD6PkHlOS6r-4/edit",
+      "aliases": [
+        "csm basics",
+        "everything on hiring a csm"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 19045
+    },
+    {
+      "id": "1hITDLRzxVfSmoh4lVqVtWQ3u7VURNFhxtZI1U0ISElk",
+      "title": "CSM Client Handoff",
+      "label": "CSM Client Handoff",
+      "pillar": "client-success",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1hITDLRzxVfSmoh4lVqVtWQ3u7VURNFhxtZI1U0ISElk/edit",
+      "aliases": [
+        "csm client handoff"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 1431
+    },
+    {
+      "id": "1vpJZn5uhyqfc3e5jrrOtcDZfq-U3tT4GA2iEJ79L39Q",
+      "title": "CSM Quits / You Fire Them SOP",
+      "label": "CSM Quits / You Fire Them SOP",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1vpJZn5uhyqfc3e5jrrOtcDZfq-U3tT4GA2iEJ79L39Q/edit",
+      "aliases": [
+        "csm quits / you fire them sop"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 2133
+    },
+    {
+      "id": "1JC-Uhy5N6-83qeCUGEijvkhfXH_gbHWFv5EnkerXSTo",
+      "title": "CSM Then Texts The Following:",
+      "label": "Client Handoff To CSM Script",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1JC-Uhy5N6-83qeCUGEijvkhfXH_gbHWFv5EnkerXSTo/edit",
+      "aliases": [
+        "client handoff to csm script",
+        "csm then texts the following:"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 2813
+    },
+    {
+      "id": "1caf46hhNrogdLYsDAifRi5IuBH_fWLE66ArhQzeQ71c",
+      "title": "Churn = Feedback",
+      "label": "Offboarding and reactivating",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1caf46hhNrogdLYsDAifRi5IuBH_fWLE66ArhQzeQ71c/edit",
+      "aliases": [
+        "churn = feedback",
+        "offboarding and reactivating"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 7514
+    },
+    {
+      "id": "1cwQgHI3cpXGFueBgqd98lPwufxoDMYaWLdAOaF8hSHY",
+      "title": "Dangling the carrot",
+      "label": "Dangling the carrot",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1cwQgHI3cpXGFueBgqd98lPwufxoDMYaWLdAOaF8hSHY/edit",
+      "aliases": [
+        "dangling the carrot"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 2429
+    },
+    {
+      "id": "1QnHyI1luNhSRmwVd5tzFvZ74OXOg6qq3HMzeRBBMtzU",
+      "title": "Exit process and call framework",
+      "label": "Exit process and call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1QnHyI1luNhSRmwVd5tzFvZ74OXOg6qq3HMzeRBBMtzU/edit",
+      "aliases": [
+        "exit process and call framework"
+      ],
+      "source_hubs": "5._Client_success__D._Client_conflict__Reffered_docs.docx.md",
+      "chars": 1014
+    },
+    {
+      "id": "1mAreq7p_nfH_mBYx6R5aFkZkxRish_o_ng1cPUw9nTI",
+      "title": "Feedback Loops",
+      "label": "Client feedback surveys",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1mAreq7p_nfH_mBYx6R5aFkZkxRish_o_ng1cPUw9nTI/edit",
+      "aliases": [
+        "client feedback surveys",
+        "feedback loops"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 7095
+    },
+    {
+      "id": "1TrX1RMBTAdjpHf0sZcWbi98Vu8RhUhxbHtbOMy-bc3o",
+      "title": "Fundamentals",
+      "label": "Call types breakdown",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1TrX1RMBTAdjpHf0sZcWbi98Vu8RhUhxbHtbOMy-bc3o/edit",
+      "aliases": [
+        "call types breakdown",
+        "fundamentals"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 6689
+    },
+    {
+      "id": "1hdxptlTqsVwDG2yGrTdYTeQv0fp47959D_adnhvtSak",
+      "title": "Fundamentals",
+      "label": "Client ticketing system",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1hdxptlTqsVwDG2yGrTdYTeQv0fp47959D_adnhvtSak/edit",
+      "aliases": [
+        "client ticketing system",
+        "fundamentals"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 21749
+    },
+    {
+      "id": "1MkdNGBe_bKOiFR2QGsbT8pSG6iL-0UM8uDsf4qLAoN0",
+      "title": "Incongruency Issues",
+      "label": "Game tape",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1MkdNGBe_bKOiFR2QGsbT8pSG6iL-0UM8uDsf4qLAoN0/edit",
+      "aliases": [
+        "game tape",
+        "incongruency issues"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 6087
+    },
+    {
+      "id": "1VYlUECPj01XrNX8ilzsYz34KIbT-lN9HNpkJ7QOCZYo",
+      "title": "It's Cheaper to Retain Than to Acquire",
+      "label": "Giving client extensions",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1VYlUECPj01XrNX8ilzsYz34KIbT-lN9HNpkJ7QOCZYo/edit",
+      "aliases": [
+        "giving client extensions",
+        "it's cheaper to retain than to acquire"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 7236
+    },
+    {
+      "id": "1cJLvS-xTkUXN-2m7h9QUik7Xqg_0CwcJB2MCI6rxD-8",
+      "title": "Making new cliet ticketing forms",
+      "label": "Making new cliet ticketing forms",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1cJLvS-xTkUXN-2m7h9QUik7Xqg_0CwcJB2MCI6rxD-8/edit",
+      "aliases": [
+        "making new cliet ticketing forms"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 15289
+    },
+    {
+      "id": "1SBzc7Uu4Y_IA0Suk46rlTbC8AmurGnwKR5g2YfB9INQ",
+      "title": "Master CS Tracking dashboard",
+      "label": "Master CS Tracking dashboard",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1SBzc7Uu4Y_IA0Suk46rlTbC8AmurGnwKR5g2YfB9INQ/edit",
+      "aliases": [
+        "master cs tracking dashboard"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 4352
+    },
+    {
+      "id": "1W7DyG57A3KqK5v-ChGSJmlObhL7Cbvxm-uFUGtOek1k",
+      "title": "Meeting Fundamentals",
+      "label": "Meeting cadence and framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1W7DyG57A3KqK5v-ChGSJmlObhL7Cbvxm-uFUGtOek1k/edit",
+      "aliases": [
+        "meeting cadence and framework",
+        "meeting fundamentals"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 8817
+    },
+    {
+      "id": "1pZtcHuXfJ6C4EPk4Nzu3QCDqkoytlvamf6D-xR-3e2Q",
+      "title": "Mission Save Churn",
+      "label": "Mission Save Churn",
+      "pillar": "client-success",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1pZtcHuXfJ6C4EPk4Nzu3QCDqkoytlvamf6D-xR-3e2Q/edit",
+      "aliases": [
+        "mission save churn"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 1824
+    },
+    {
+      "id": "1lBPad1IzQCPGixrM1TRTu_McPiRepk2bBzVJxIxrmT8",
+      "title": "Mixing Sales & CS Leads",
+      "label": "Client sub account",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1lBPad1IzQCPGixrM1TRTu_McPiRepk2bBzVJxIxrmT8/edit",
+      "aliases": [
+        "client sub account",
+        "mixing sales & cs leads"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 12500
+    },
+    {
+      "id": "1KtVdDA9e6kL4EDyoNrAs60vOV70SeHRRsvEXTcTjHjM",
+      "title": "Ownership call framework",
+      "label": "Ownership call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1KtVdDA9e6kL4EDyoNrAs60vOV70SeHRRsvEXTcTjHjM/edit",
+      "aliases": [
+        "ownership call framework"
+      ],
+      "source_hubs": "5._Client_success__D._Client_conflict__Reffered_docs.docx.md",
+      "chars": 6406
+    },
+    {
+      "id": "1UKU2F3RmCWO3VNcfkAhzSt_4PZNcp24P2EOji3VXwJ4",
+      "title": "PRE CALL PREP - Sales Handoff:",
+      "label": "Onboarding call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1UKU2F3RmCWO3VNcfkAhzSt_4PZNcp24P2EOji3VXwJ4/edit",
+      "aliases": [
+        "onboarding call framework",
+        "pre call prep - sales handoff:"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 24613
+    },
+    {
+      "id": "14M0r6lxtRItBlHZTGDL2qCNUSxCeFS2knxK-qep6Jb8",
+      "title": "Pre-Call Checklist",
+      "label": "Check in call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/14M0r6lxtRItBlHZTGDL2qCNUSxCeFS2knxK-qep6Jb8/edit",
+      "aliases": [
+        "check in call framework",
+        "pre-call checklist"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 8937
+    },
+    {
+      "id": "1gdk4EUitsMvYqJ6sFJxQzpfYttPwHGK0jpOjKG2k_aU",
+      "title": "Re-selling",
+      "label": "Money making levers",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1gdk4EUitsMvYqJ6sFJxQzpfYttPwHGK0jpOjKG2k_aU/edit",
+      "aliases": [
+        "money making levers",
+        "re-selling"
+      ],
+      "source_hubs": "5._Client_success__C._Upsells,refferals,reviews__Reffered_docs.docx.md",
+      "chars": 5995
+    },
+    {
+      "id": "1zXW2QLnHbI7Zzwfs_qhyZVrveMhiRVoGAu0xVMtq2Ps",
+      "title": "Referrals",
+      "label": "Referrals",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1zXW2QLnHbI7Zzwfs_qhyZVrveMhiRVoGAu0xVMtq2Ps/edit",
+      "aliases": [
+        "referrals"
+      ],
+      "source_hubs": "5._Client_success__C._Upsells,refferals,reviews__Reffered_docs.docx.md",
+      "chars": 2195
+    },
+    {
+      "id": "11lIgrsvpfivyqegG3CXs6V4KxLZRjaU_TJuG1S_7sOU",
+      "title": "Remain Stoic",
+      "label": "Pissed client scenarios",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/11lIgrsvpfivyqegG3CXs6V4KxLZRjaU_TJuG1S_7sOU/edit",
+      "aliases": [
+        "pissed client scenarios",
+        "remain stoic"
+      ],
+      "source_hubs": "5._Client_success__D._Client_conflict__Reffered_docs.docx.md",
+      "chars": 12184
+    },
+    {
+      "id": "1eiL41SH5X8YgOrBBsiCiZvRDWjkvLmVmWBeYDWF3YA8",
+      "title": "Reset call framework",
+      "label": "Reset call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1eiL41SH5X8YgOrBBsiCiZvRDWjkvLmVmWBeYDWF3YA8/edit",
+      "aliases": [
+        "reset call framework"
+      ],
+      "source_hubs": "5._Client_success__D._Client_conflict__Reffered_docs.docx.md",
+      "chars": 3572
+    },
+    {
+      "id": "1MDUNhomHEUsbaRPww0eV_mgNufts63Xz7n22lgI1OqM",
+      "title": "Sheets Doesn’t Work At Scale",
+      "label": "Managing clients",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1MDUNhomHEUsbaRPww0eV_mgNufts63Xz7n22lgI1OqM/edit",
+      "aliases": [
+        "managing clients",
+        "sheets doesn’t work at scale"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 10778
+    },
+    {
+      "id": "1C3-Qw2GCWecHU5gBqd524P3bMGqbQmxH7L1VXzu9W_o",
+      "title": "Social Proof is Your Sales Weapon",
+      "label": "Gathering social proof",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1C3-Qw2GCWecHU5gBqd524P3bMGqbQmxH7L1VXzu9W_o/edit",
+      "aliases": [
+        "gathering social proof",
+        "social proof is your sales weapon"
+      ],
+      "source_hubs": "5._Client_success__C._Upsells,refferals,reviews__Reffered_docs.docx.md",
+      "chars": 13933
+    },
+    {
+      "id": "14zzV2dJLzm6qmOE86jKvu2LI_34MharJSKhHhnaeTLM",
+      "title": "The \"25-Minute Buffer\" Story",
+      "label": "Client call tasks automation",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/14zzV2dJLzm6qmOE86jKvu2LI_34MharJSKhHhnaeTLM/edit",
+      "aliases": [
+        "client call tasks automation",
+        "the \"25-minute buffer\" story"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 4130
+    },
+    {
+      "id": "1Ga9VmyDwGtJElsmZJ-IgGuwHAUySC3TnVqiYDzargv8",
+      "title": "The 3 Success Pillars",
+      "label": "CSM Onboarding and bootcamp",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Ga9VmyDwGtJElsmZJ-IgGuwHAUySC3TnVqiYDzargv8/edit",
+      "aliases": [
+        "csm onboarding and bootcamp",
+        "the 3 success pillars"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 36349
+    },
+    {
+      "id": "1yVhq0Cb2hlUaK8fm4ZaDX_G569njz_z3RZ1L1LUfByg",
+      "title": "The Fundamentals",
+      "label": "Overdue payments and ghosting",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1yVhq0Cb2hlUaK8fm4ZaDX_G569njz_z3RZ1L1LUfByg/edit",
+      "aliases": [
+        "overdue payments and ghosting",
+        "the fundamentals"
+      ],
+      "source_hubs": "5._Client_success__F._Client_success_systems__Reffered_docs.docx.md",
+      "chars": 9568
+    },
+    {
+      "id": "11Nm1XmJb5b0PMhQeiOqnVn8joQRS1GOJKOT0_o8b8eA",
+      "title": "The Goal of the Launch Call",
+      "label": "Launch call framework",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/11Nm1XmJb5b0PMhQeiOqnVn8joQRS1GOJKOT0_o8b8eA/edit",
+      "aliases": [
+        "launch call framework",
+        "the goal of the launch call"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 12021
+    },
+    {
+      "id": "1AD86cue-lXLrE-78Hki23R4JfXuQGOYHYxU_cpLV_gc",
+      "title": "The Mindset",
+      "label": "CSM Replacement process",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1AD86cue-lXLrE-78Hki23R4JfXuQGOYHYxU_cpLV_gc/edit",
+      "aliases": [
+        "csm replacement process",
+        "the mindset"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 10629
+    },
+    {
+      "id": "1pQU3Hrx44TG3XpQD8nPJCFqzmWWdaea1YOMb_wg8dzI",
+      "title": "The New Client Hamster Wheel",
+      "label": "Client success start here",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pQU3Hrx44TG3XpQD8nPJCFqzmWWdaea1YOMb_wg8dzI/edit",
+      "aliases": [
+        "client success start here",
+        "the new client hamster wheel"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 6501
+    },
+    {
+      "id": "1shNwaDO2HRvFiV2QMq_orDTBJ4rUYvyOc3V4tM1GDUo",
+      "title": "Treating Every Client Like They're You",
+      "label": "Client personalities",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1shNwaDO2HRvFiV2QMq_orDTBJ4rUYvyOc3V4tM1GDUo/edit",
+      "aliases": [
+        "client personalities",
+        "treating every client like they're you"
+      ],
+      "source_hubs": "5._Client_success__A._CS_Fundamentals__Reffered_docs.docx.md",
+      "chars": 9709
+    },
+    {
+      "id": "1yUx4odtMFsY4fcUhJ-gPwt-UHlDNT_rAI-8R0q_6PwU",
+      "title": "Upsell Types:",
+      "label": "Upsells",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1yUx4odtMFsY4fcUhJ-gPwt-UHlDNT_rAI-8R0q_6PwU/edit",
+      "aliases": [
+        "upsell types:",
+        "upsells"
+      ],
+      "source_hubs": "5._Client_success__C._Upsells,refferals,reviews__Reffered_docs.docx.md",
+      "chars": 6207
+    },
+    {
+      "id": "1kOgnoQmWjT9ySSdX-UMs8b0ajgB7GbVvnrxkWNURpfY",
+      "title": "Weekly client planning process",
+      "label": "Weekly client planning process",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1kOgnoQmWjT9ySSdX-UMs8b0ajgB7GbVvnrxkWNURpfY/edit",
+      "aliases": [
+        "weekly client planning process"
+      ],
+      "source_hubs": "5._Client_success__B._Communication__Reffered_docs.docx.md",
+      "chars": 4995
+    },
+    {
+      "id": "1q89t8sJKxt3oXJnNf00o47jLXvesZ8J-nqRsvl8dmzs",
+      "title": "What is an EOD?",
+      "label": "CSM EOD Report",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1q89t8sJKxt3oXJnNf00o47jLXvesZ8J-nqRsvl8dmzs/edit",
+      "aliases": [
+        "csm eod report",
+        "what is an eod?"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 5228
+    },
+    {
+      "id": "1vw0oo1k9mW04_PiqB9NhKp9mDAxr6E0eRYssWEsiYrs",
+      "title": "Why 1-1s are Non-Negotiable",
+      "label": "1 to 1 meetings",
+      "pillar": "client-success",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1vw0oo1k9mW04_PiqB9NhKp9mDAxr6E0eRYssWEsiYrs/edit",
+      "aliases": [
+        "1 to 1 meetings",
+        "to 1 meetings",
+        "why 1-1s are non-negotiable"
+      ],
+      "source_hubs": "5._Client_success__G._CSM_Management__Reffered_docs.docx.md",
+      "chars": 10520
+    },
+    {
+      "id": "1ORJ88AxcdASOX3Wf9-VmXrZeOWVxadnp",
+      "title": "1ORJ88AxcdASOX3Wf9-VmXrZeOWVxadnp",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1ORJ88AxcdASOX3Wf9-VmXrZeOWVxadnp/edit",
+      "aliases": [
+        "1orj88axcdasox3wf9-vmxrzeowvxadnp"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 932
+    },
+    {
+      "id": "1uW6YhONHo66OjhXB7ru5O1Redocd5L4k",
+      "title": "1uW6YhONHo66OjhXB7ru5O1Redocd5L4k",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1uW6YhONHo66OjhXB7ru5O1Redocd5L4k/edit",
+      "aliases": [
+        "1uw6yhonho66ojhxb7ru5o1redocd5l4k"
+      ],
+      "source_hubs": "7.SVD__Automated_onboarding__Onb_docs.docx.md",
+      "chars": 902
+    },
+    {
+      "id": "1YoZQrmh8YdlCgeWDPC4AOCNFBcmQ36r0uqXFsTHVlW4",
+      "title": "STEP BY STEP ONBOARDING PROCESS",
+      "label": "New client form",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1YoZQrmh8YdlCgeWDPC4AOCNFBcmQ36r0uqXFsTHVlW4/edit",
+      "aliases": [
+        "new client form",
+        "step by step onboarding process"
+      ],
+      "source_hubs": "7.SVD__Automated_onboarding__Onb_docs.docx.md",
+      "chars": 31147
+    },
+    {
+      "id": "16_GoZQ5UTdCePmoiUoD-I4XBUqE6_JAXVd3pZxR8m14",
+      "title": "Service Delivery: START HERE",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/16_GoZQ5UTdCePmoiUoD-I4XBUqE6_JAXVd3pZxR8m14/edit",
+      "aliases": [
+        "service delivery: start here"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 8363
+    },
+    {
+      "id": "1VNK_x5sqaJe0RRXbR6WJWPl65_J9dI-WqDo3y8OmB5k",
+      "title": "Tab 1",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1VNK_x5sqaJe0RRXbR6WJWPl65_J9dI-WqDo3y8OmB5k/edit",
+      "aliases": [
+        "tab 1"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 33439
+    },
+    {
+      "id": "1Uy4jisd8yK6rhYiVF0rlo_trESue6fXt5sDsPDncwMM",
+      "title": "The 3 Fulfilment Models",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Uy4jisd8yK6rhYiVF0rlo_trESue6fXt5sDsPDncwMM/edit",
+      "aliases": [
+        "the 3 fulfilment models"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 12749
+    },
+    {
+      "id": "17JS4a292dAVjAE5V5Kdr0ivOyYPK15viixJ1K1ICkrM",
+      "title": "The 60/20/20 Rule",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/17JS4a292dAVjAE5V5Kdr0ivOyYPK15viixJ1K1ICkrM/edit",
+      "aliases": [
+        "the 60/20/20 rule"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 17058
+    },
+    {
+      "id": "1AU09Lnc0vBkqq87t9q4YHhu522KJEkn7wjb1d9ynONA",
+      "title": "The Client Journey",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1AU09Lnc0vBkqq87t9q4YHhu522KJEkn7wjb1d9ynONA/edit",
+      "aliases": [
+        "the client journey"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 20782
+    },
+    {
+      "id": "1Mo0zLHwTLqUDprpQ_jg9baUVgLPakix52_nG5Ml5rHg",
+      "title": "The Foundation of Client Results",
+      "label": "",
+      "pillar": "fulfillment-svd",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Mo0zLHwTLqUDprpQ_jg9baUVgLPakix52_nG5Ml5rHg/edit",
+      "aliases": [
+        "the foundation of client results"
+      ],
+      "source_hubs": "7.SVD__Fundamentals__Reffered_docs.docx.md",
+      "chars": 16229
+    },
+    {
+      "id": "110s_qXbVY_npA-bwkERHI5d6C-0g0g2B",
+      "title": "110s_qXbVY_npA-bwkERHI5d6C-0g0g2B",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/110s_qXbVY_npA-bwkERHI5d6C-0g0g2B/edit",
+      "aliases": [
+        "110s_qxbvy_npa-bwkerhi5d6c-0g0g2b"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__PPS_-_Setter_Scorecard_2025.docx.md",
+      "chars": 3298
+    },
+    {
+      "id": "169F5E1w2xYWcDYaIjUarlafoDCaF5S5b",
+      "title": "169F5E1w2xYWcDYaIjUarlafoDCaF5S5b",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/169F5E1w2xYWcDYaIjUarlafoDCaF5S5b/edit",
+      "aliases": [
+        "169f5e1w2xywcdyaijuarlafodcaf5s5b"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Reffered_docs_from_communication_cycle__PPS_2024_Closer_Tracker_sheet.txt.md",
+      "chars": 401
+    },
+    {
+      "id": "1BjRIF7qYBnO_845VXg7RIZ5RTcIYAa0XGaPu-Ko9p0k",
+      "title": "1BjRIF7qYBnO_845VXg7RIZ5RTcIYAa0XGaPu-Ko9p0k",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1BjRIF7qYBnO_845VXg7RIZ5RTcIYAa0XGaPu-Ko9p0k/edit",
+      "aliases": [
+        "1bjrif7qybno_845vxg7riz5rtciyaa0xgapu-ko9p0k"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 9826
+    },
+    {
+      "id": "1DB00R6Plk-6iR3VmyRU2RExowaLWhNuF",
+      "title": "1DB00R6Plk-6iR3VmyRU2RExowaLWhNuF",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1DB00R6Plk-6iR3VmyRU2RExowaLWhNuF/edit",
+      "aliases": [
+        "1db00r6plk-6ir3vmyru2rexowalwhnuf"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Social_Proof_SOP.docx.md",
+      "chars": 3544
+    },
+    {
+      "id": "1HePwZrUxfDlCrtVbJJ48TxSfXzGwrTMy",
+      "title": "1HePwZrUxfDlCrtVbJJ48TxSfXzGwrTMy",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1HePwZrUxfDlCrtVbJJ48TxSfXzGwrTMy/edit",
+      "aliases": [
+        "1hepwzruxfdlcrtvbjj48txsfxzgwrtmy"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 2136
+    },
+    {
+      "id": "1Op3bUFW68fWhb3cMo0Ld48omqEciRCXT",
+      "title": "1Op3bUFW68fWhb3cMo0Ld48omqEciRCXT",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1Op3bUFW68fWhb3cMo0Ld48omqEciRCXT/edit",
+      "aliases": [
+        "1op3bufw68fwhb3cmo0ld48omqecircxt"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 4494
+    },
+    {
+      "id": "1S3dbHhNW_MKzbgkDf9O_cy3RlfQSdLXz",
+      "title": "1S3dbHhNW_MKzbgkDf9O_cy3RlfQSdLXz",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1S3dbHhNW_MKzbgkDf9O_cy3RlfQSdLXz/edit",
+      "aliases": [
+        "1s3dbhhnw_mkzbgkdf9o_cy3rlfqsdlxz"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__4._Client_contract.txt.md",
+      "chars": 377
+    },
+    {
+      "id": "1ZaadV2gXRC4Labqd9vN9CL52bSjEEfiq",
+      "title": "1ZaadV2gXRC4Labqd9vN9CL52bSjEEfiq",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1ZaadV2gXRC4Labqd9vN9CL52bSjEEfiq/edit",
+      "aliases": [
+        "1zaadv2gxrc4labqd9vn9cl52bsjeefiq"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__Affiliate_trials.txt.md",
+      "chars": 1781
+    },
+    {
+      "id": "1jtaxTt5-ug-XDvpJozsd_54jLL6nCxJy",
+      "title": "1jtaxTt5-ug-XDvpJozsd_54jLL6nCxJy",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1jtaxTt5-ug-XDvpJozsd_54jLL6nCxJy/edit",
+      "aliases": [
+        "1jtaxtt5-ug-xdvpjozsd_54jll6ncxjy"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Sales_Rep_Scorecard.docx.md",
+      "chars": 5900
+    },
+    {
+      "id": "1kE4sWvSXyonpTUKDTzCkjq7TG09g7xL0Ifo2kRQjEJw",
+      "title": "1kE4sWvSXyonpTUKDTzCkjq7TG09g7xL0Ifo2kRQjEJw",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1kE4sWvSXyonpTUKDTzCkjq7TG09g7xL0Ifo2kRQjEJw/edit",
+      "aliases": [
+        "1ke4swvsxyonptukdtzckjq7tg09g7xl0ifo2krqjejw"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 3452
+    },
+    {
+      "id": "1lNh5AnntGX-HoEyH6XGz_93NChAjKU6K",
+      "title": "1lNh5AnntGX-HoEyH6XGz_93NChAjKU6K",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1lNh5AnntGX-HoEyH6XGz_93NChAjKU6K/edit",
+      "aliases": [
+        "1lnh5anntgx-hoeyh6xgz_93nchajku6k"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__P&L_Examples_At_Each_Stage.xlsx.md",
+      "chars": 7810
+    },
+    {
+      "id": "1qqZVR1w7z798JZPWs19Ii83sPvKmP5vSKS6UqJKhA6E",
+      "title": "1qqZVR1w7z798JZPWs19Ii83sPvKmP5vSKS6UqJKhA6E",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1qqZVR1w7z798JZPWs19Ii83sPvKmP5vSKS6UqJKhA6E/edit",
+      "aliases": [
+        "1qqzvr1w7z798jzpws19ii83spvkmp5vsks6uqjkha6e"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 2985
+    },
+    {
+      "id": "1uwuPauRb3rAUVIWdhEHsAppJNVM3uI8C",
+      "title": "1uwuPauRb3rAUVIWdhEHsAppJNVM3uI8C",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1uwuPauRb3rAUVIWdhEHsAppJNVM3uI8C/edit",
+      "aliases": [
+        "1uwupaurb3rauviwdhehsappjnvm3ui8c"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Pod_Breakdown_-_What_Is_a_Pod_&_Infrastructure.docx.md",
+      "chars": 1958
+    },
+    {
+      "id": "1wkvpyKrNqd5rrMr9SOnkg8zheHvx7Ms_",
+      "title": "1wkvpyKrNqd5rrMr9SOnkg8zheHvx7Ms_",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1wkvpyKrNqd5rrMr9SOnkg8zheHvx7Ms_/edit",
+      "aliases": [
+        "1wkvpykrnqd5rrmr9sonkg8zhehvx7ms_"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Org_charts__Org_Chart_Templates_l&S.pdf.md",
+      "chars": 4017
+    },
+    {
+      "id": "1tkSG6yllV2UDWToJ8ZD3pID5uUa0FRjP5yrb251RUZ4",
+      "title": "3\\. Media Buyer New Client Steps",
+      "label": "New Client Campaign Onboarding",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1tkSG6yllV2UDWToJ8ZD3pID5uUa0FRjP5yrb251RUZ4/edit",
+      "aliases": [
+        "3\\. media buyer new client steps",
+        "new client campaign onboarding"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 4614
+    },
+    {
+      "id": "15Yz9nEhKreVdEqRwKRxGP2ldTmiC6AGbDVKlGZJ29sE",
+      "title": "Ad Approval Process",
+      "label": "Ad Approval Process",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/15Yz9nEhKreVdEqRwKRxGP2ldTmiC6AGbDVKlGZJ29sE/edit",
+      "aliases": [
+        "ad approval process"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 1483
+    },
+    {
+      "id": "1-OK87qCzH4QD6H_Dw333ee2IGdMmlEQChd-M9za4_7Y",
+      "title": "Aesthetic Accelerator Program - 90 Day",
+      "label": "Client contracts",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1-OK87qCzH4QD6H_Dw333ee2IGdMmlEQChd-M9za4_7Y/edit",
+      "aliases": [
+        "aesthetic accelerator program - 90 day",
+        "client contracts"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 27849
+    },
+    {
+      "id": "1x28Sfdz2WIqV4yJaX3eNWO0LsLlkfNwzysU-kyx-ScM",
+      "title": "CEO Dashboard",
+      "label": "Tracking systems",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1x28Sfdz2WIqV4yJaX3eNWO0LsLlkfNwzysU-kyx-ScM/edit",
+      "aliases": [
+        "ceo dashboard",
+        "tracking systems"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 17012
+    },
+    {
+      "id": "1of8fPELtIfJl_h-TRWcYif2iJ94sQTJU_ZaMHp9AdMg",
+      "title": "CSM Guide - Text Templates",
+      "label": "Ops Assistant Communication Guide - Text Templates",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1of8fPELtIfJl_h-TRWcYif2iJ94sQTJU_ZaMHp9AdMg/edit",
+      "aliases": [
+        "csm guide - text templates",
+        "ops assistant communication guide - text templates"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 7975
+    },
+    {
+      "id": "1KXFzLgh47M72D_V7A5yQ2BBA7vKkF4VCHSbSQIKbPpQ",
+      "title": "CSM Guide - Text Templates",
+      "label": "Communicating With Clients",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1KXFzLgh47M72D_V7A5yQ2BBA7vKkF4VCHSbSQIKbPpQ/edit",
+      "aliases": [
+        "communicating with clients",
+        "csm guide - text templates"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md; 1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 7305
+    },
+    {
+      "id": "1HTYmoPf1TK_wbSegtzMosagfigf-jKRsoCin_ZvhykY",
+      "title": "CSM Guide - Text Templates",
+      "label": "CSM Slack Communication Guide - Text Templates",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1HTYmoPf1TK_wbSegtzMosagfigf-jKRsoCin_ZvhykY/edit",
+      "aliases": [
+        "csm guide - text templates",
+        "csm slack communication guide - text templates"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 40613
+    },
+    {
+      "id": "1gFBC6zP4P22ExbCxnzgvE3eQeOFuMk56ieaGL1VZNBU",
+      "title": "Churn Is Normal…",
+      "label": "Reduce client churn",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1gFBC6zP4P22ExbCxnzgvE3eQeOFuMk56ieaGL1VZNBU/edit",
+      "aliases": [
+        "churn is normal…",
+        "reduce client churn"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 20040
+    },
+    {
+      "id": "1pf0xMSVmo0aHAjLthHGptu_pYU2mSPGAAsyslI3_f5M",
+      "title": "Client Payment Is OVERDUE Flow",
+      "label": "Client Payment Is OVERDUE Flow",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pf0xMSVmo0aHAjLthHGptu_pYU2mSPGAAsyslI3_f5M/edit",
+      "aliases": [
+        "client payment is overdue flow"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 2399
+    },
+    {
+      "id": "1n87Ii_0QQBazlmkJPN1rL2V_5laNP5I5LEV6gRE4qBQ",
+      "title": "Client Reactivation Text Templates",
+      "label": "Client Reactivation Text Templates",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1n87Ii_0QQBazlmkJPN1rL2V_5laNP5I5LEV6gRE4qBQ/edit",
+      "aliases": [
+        "client reactivation text templates"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 5723
+    },
+    {
+      "id": "1aaUack4_LZTFPJkX1KMgOphOQcXCZFBRia1Lg1RdJZA",
+      "title": "Client Review Guide",
+      "label": "Client Review Guide",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1aaUack4_LZTFPJkX1KMgOphOQcXCZFBRia1Lg1RdJZA/edit",
+      "aliases": [
+        "client review guide"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 1772
+    },
+    {
+      "id": "186zanorGHuEfIqOoS0Y-nJDdQRh_Oj7B",
+      "title": "Client Success Manager",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/186zanorGHuEfIqOoS0Y-nJDdQRh_Oj7B/edit",
+      "aliases": [
+        "client success manager"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Communication_Cycle.docx.md",
+      "chars": 7650
+    },
+    {
+      "id": "1jvy8j0MUGGFMEWd1o5qqa-Se15-WhyZ2hWFvSqd5WJs",
+      "title": "Client onboarding",
+      "label": "Client onboarding",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1jvy8j0MUGGFMEWd1o5qqa-Se15-WhyZ2hWFvSqd5WJs/edit",
+      "aliases": [
+        "client onboarding"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 4820
+    },
+    {
+      "id": "15od17LkLu3sPHGF3CddlzDArFH2cVMpglKBQfQIkfdA",
+      "title": "Expectations",
+      "label": "Media Buyer - Responsibility Breakdown",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/15od17LkLu3sPHGF3CddlzDArFH2cVMpglKBQfQIkfdA/edit",
+      "aliases": [
+        "expectations",
+        "media buyer - responsibility breakdown"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 2830
+    },
+    {
+      "id": "1aSq1F-HTjVrWlNBVuK0B1pabEoYpFlSDAsNjcTuQkO8",
+      "title": "Hotlist review",
+      "label": "Hotlist review",
+      "pillar": "intro",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1aSq1F-HTjVrWlNBVuK0B1pabEoYpFlSDAsNjcTuQkO8/edit",
+      "aliases": [
+        "hotlist review"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Communication_Cycle.docx.md; 1._Intro_and_Onboarding__A.Intro__Reffered_docs__Reffered_docs_from_communication_cycle__PPS_2024_Closer_Tracker_sheet.txt.md",
+      "chars": 54385
+    },
+    {
+      "id": "1YAWHSCylFu5uycnupIjSTAWGrng9vDOIfm3c9DVfjOA",
+      "title": "How Does Closebot Work?",
+      "label": "CloseBot v2 Setup",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1YAWHSCylFu5uycnupIjSTAWGrng9vDOIfm3c9DVfjOA/edit",
+      "aliases": [
+        "closebot v2 setup",
+        "how does closebot work?"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 11578
+    },
+    {
+      "id": "1wzAb_pwuE_X9FlSEpuh25bAx6ynYybNvAsZiAtMJWTk",
+      "title": "How Does Closebot Work?",
+      "label": "Client AI Lead nurturing",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wzAb_pwuE_X9FlSEpuh25bAx6ynYybNvAsZiAtMJWTk/edit",
+      "aliases": [
+        "client ai lead nurturing",
+        "how does closebot work?"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 17184
+    },
+    {
+      "id": "1PKe0gkJuvvbsM6ZONxueH-mmLuU0CV6syMvDSo_U09w",
+      "title": "Introduction",
+      "label": "Paid ads speedrun",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1PKe0gkJuvvbsM6ZONxueH-mmLuU0CV6syMvDSo_U09w/edit",
+      "aliases": [
+        "introduction",
+        "paid ads speedrun"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 12229
+    },
+    {
+      "id": "1-HygUeA-XXPgD9P2S3QDsDtVR0b2mefKBY1P0TuKgVY",
+      "title": "Introduction",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1-HygUeA-XXPgD9P2S3QDsDtVR0b2mefKBY1P0TuKgVY/edit",
+      "aliases": [
+        "introduction"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 14021
+    },
+    {
+      "id": "1tR2SUS-Ffmy-Pb2GF98dYpcQ3Rmsx1MS3Lyt-LdX_lA",
+      "title": "Introduction",
+      "label": "Increase close rates",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1tR2SUS-Ffmy-Pb2GF98dYpcQ3Rmsx1MS3Lyt-LdX_lA/edit",
+      "aliases": [
+        "increase close rates",
+        "introduction"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md; 3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 5650
+    },
+    {
+      "id": "1j2saPSQ37NQLRhu82RsULBrIBdZPu74PEiCEI5ChEgw",
+      "title": "Launching new video ads",
+      "label": "General Check-Ins / TP’s to keep the client excited",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1j2saPSQ37NQLRhu82RsULBrIBdZPu74PEiCEI5ChEgw/edit",
+      "aliases": [
+        "general check-ins / tp’s to keep the client excited",
+        "launching new video ads"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 3699
+    },
+    {
+      "id": "1wBAw2ga2E7YxIq8sYI7QGWmktkH1WGfiIDjAddC0iOo",
+      "title": "Levers To Make More Money With No Extra Work",
+      "label": "Pricing plays to make more $",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wBAw2ga2E7YxIq8sYI7QGWmktkH1WGfiIDjAddC0iOo/edit",
+      "aliases": [
+        "levers to make more money with no extra work",
+        "pricing plays to make more $"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 22311
+    },
+    {
+      "id": "1CCS-3fAoGvPqHACFh4ApBErCa_UlBLh6WHtDaj7HfyU",
+      "title": "Macro Vs. Micro ð­",
+      "label": "Reverse engineering your goals",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1CCS-3fAoGvPqHACFh4ApBErCa_UlBLh6WHtDaj7HfyU/edit",
+      "aliases": [
+        "macro vs. micro ð­",
+        "reverse engineering your goals"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 10641
+    },
+    {
+      "id": "1sei_ToDIruYGr9zyyKN71i6EoWMNfF7k8U-Z4rrr04U",
+      "title": "Managing Client Campaigns",
+      "label": "Managing Client Campaigns",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1sei_ToDIruYGr9zyyKN71i6EoWMNfF7k8U-Z4rrr04U/edit",
+      "aliases": [
+        "managing client campaigns"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 2975
+    },
+    {
+      "id": "1ThpaS6xVWCf7LFclbdUY97QEkco1nMZNS_4vxwVwdpI",
+      "title": "Media Buyer Job Scorecard",
+      "label": "Media Buyer Job Scorecard",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ThpaS6xVWCf7LFclbdUY97QEkco1nMZNS_4vxwVwdpI/edit",
+      "aliases": [
+        "media buyer job scorecard"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 7220
+    },
+    {
+      "id": "1Wh4iEnqYcuM9Y-z0UvRsy36zJZluaii84PpxjvNPPXc",
+      "title": "Media Buyer Mission",
+      "label": "Media Buyer Mission",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Wh4iEnqYcuM9Y-z0UvRsy36zJZluaii84PpxjvNPPXc/edit",
+      "aliases": [
+        "media buyer mission"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 5031
+    },
+    {
+      "id": "1eXyKmlxIlmC7M52tj9_z2_13nmTunWqN5ZlzNw__FkE",
+      "title": "Meeting Cadence (Sales Department)",
+      "label": "Meeting Cadence (Sales Department)",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1eXyKmlxIlmC7M52tj9_z2_13nmTunWqN5ZlzNw__FkE/edit",
+      "aliases": [
+        "meeting cadence (sales department)"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__PPS_-_Setter_Scorecard_2025.docx.md",
+      "chars": 11753
+    },
+    {
+      "id": "1ERfUFIQZ_f8Y0w0Y3ESkKclGgGqEKp5Lx6OConM2THg",
+      "title": "Operations Manager",
+      "label": "Communication Cycle",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ERfUFIQZ_f8Y0w0Y3ESkKclGgGqEKp5Lx6OConM2THg/edit",
+      "aliases": [
+        "communication cycle",
+        "operations manager"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 9105
+    },
+    {
+      "id": "1ptzhoTfV-jA6_zHBeCj0hPG3HUxdVpslmfULW8II0Ng",
+      "title": "PPS - Setter Scorecard 2025",
+      "label": "PPS - Setter Scorecard 2025",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ptzhoTfV-jA6_zHBeCj0hPG3HUxdVpslmfULW8II0Ng/edit",
+      "aliases": [
+        "pps - setter scorecard 2025"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 4174
+    },
+    {
+      "id": "19pQbIVX5zQhQIGozfgLs4kRwkj9WQZDJsUFvbhGMTec",
+      "title": "P\\&L Examples At Each Stage",
+      "label": "P\\&L Examples At Each Stage",
+      "pillar": "intro",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/19pQbIVX5zQhQIGozfgLs4kRwkj9WQZDJsUFvbhGMTec/edit",
+      "aliases": [
+        "p\\&l examples at each stage"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 8566
+    },
+    {
+      "id": "100l-jxOfcDaui-oJIWaa5hGGd1p-Ze8hd4a4D2N5psg",
+      "title": "Pod Breakdown - L\\&S",
+      "label": "Pod Breakdown - L\\&S",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/100l-jxOfcDaui-oJIWaa5hGGd1p-Ze8hd4a4D2N5psg/edit",
+      "aliases": [
+        "pod breakdown - l\\&s"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 2324
+    },
+    {
+      "id": "1keSWVyJV0-lyXhhgoC2Zu6fQBt_YHmszN4vJi1LM61Y",
+      "title": "Project management",
+      "label": "Project management",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1keSWVyJV0-lyXhhgoC2Zu6fQBt_YHmszN4vJi1LM61Y/edit",
+      "aliases": [
+        "project management"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 11262
+    },
+    {
+      "id": "19h74YGk-f_f57J9QyIhtj99RMb7ddIqsCCMGp2ady2A",
+      "title": "Prompting Basics",
+      "label": "AI Integration",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/19h74YGk-f_f57J9QyIhtj99RMb7ddIqsCCMGp2ady2A/edit",
+      "aliases": [
+        "ai integration",
+        "prompting basics"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 10575
+    },
+    {
+      "id": "1FSHgi5TWSn3-tfsOs5NkJHx5Aj5hBC_eXAE_D2JKUF0",
+      "title": "Putting Profit First",
+      "label": "Profit stacking systems",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1FSHgi5TWSn3-tfsOs5NkJHx5Aj5hBC_eXAE_D2JKUF0/edit",
+      "aliases": [
+        "profit stacking systems",
+        "putting profit first"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 14751
+    },
+    {
+      "id": "1TKzmjo3fYzXQMMbGZDbDgukmQs6QPg9OK2OT7v1RIdI",
+      "title": "Reactivation Campaigns☠️ð",
+      "label": "Get new clients with 0$",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1TKzmjo3fYzXQMMbGZDbDgukmQs6QPg9OK2OT7v1RIdI/edit",
+      "aliases": [
+        "get new clients with 0$",
+        "reactivation campaigns☠️ð"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 5379
+    },
+    {
+      "id": "1l7B41mkcfgNVgOO5rjt7QbI6CvGNDtm2IlUrIVB0csc",
+      "title": "Round 1: The Screening Interview (15-20 minutes)",
+      "label": "Media Buyer Interview Process",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1l7B41mkcfgNVgOO5rjt7QbI6CvGNDtm2IlUrIVB0csc/edit",
+      "aliases": [
+        "media buyer interview process",
+        "round 1: the screening interview (15-20 minutes)"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 8407
+    },
+    {
+      "id": "1R6x0e15mJyLeecS2D_kx4m3SH8fLU3R4QckcBXPtmeU",
+      "title": "Sales Rep Scorecard",
+      "label": "Sales Rep Scorecard",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1R6x0e15mJyLeecS2D_kx4m3SH8fLU3R4QckcBXPtmeU/edit",
+      "aliases": [
+        "sales rep scorecard"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 7111
+    },
+    {
+      "id": "1N0oIjzj5GcerLChVI1s0UpLuD9tuAdUFFbyVJM69P3A",
+      "title": "Slack internal ad creation SOP",
+      "label": "Slack internal ad creation SOP",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1N0oIjzj5GcerLChVI1s0UpLuD9tuAdUFFbyVJM69P3A/edit",
+      "aliases": [
+        "slack internal ad creation sop"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md; 6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 2246
+    },
+    {
+      "id": "10w3wcIlHzHHtTtyXuh9rrPFAZPRFZRGc9c6QFPUnCyQ",
+      "title": "Social Proof SOP",
+      "label": "Social Proof SOP",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/10w3wcIlHzHHtTtyXuh9rrPFAZPRFZRGc9c6QFPUnCyQ/edit",
+      "aliases": [
+        "social proof sop"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 3829
+    },
+    {
+      "id": "1nFPy9U9SNFhzxyRo143jqMP5dVCsVpLNbgXq2HJ4pIQ",
+      "title": "Tab 1",
+      "label": "FB Ads Testing SOP",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1nFPy9U9SNFhzxyRo143jqMP5dVCsVpLNbgXq2HJ4pIQ/edit",
+      "aliases": [
+        "fb ads testing sop",
+        "tab 1"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 3070
+    },
+    {
+      "id": "1WJ57FN21WPl7ZLPzkLegP2-DKwJa3W9I",
+      "title": "Text Templates",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1WJ57FN21WPl7ZLPzkLegP2-DKwJa3W9I/edit",
+      "aliases": [
+        "text templates"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 38451
+    },
+    {
+      "id": "1nT0q20K6QPm3diPX_DagUSmUzF9nPoH4uP65mNfxK6I",
+      "title": "The 3 C’s",
+      "label": "Client course creation",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1nT0q20K6QPm3diPX_DagUSmUzF9nPoH4uP65mNfxK6I/edit",
+      "aliases": [
+        "client course creation",
+        "the 3 c’s"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 16852
+    },
+    {
+      "id": "1UB877Pg8e4Zm-fD_Oa1M_27ei4TbCrr38AzQJuGI270",
+      "title": "The Foundation - Client Snapshot",
+      "label": "Client fulfillment/Snapshot",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1UB877Pg8e4Zm-fD_Oa1M_27ei4TbCrr38AzQJuGI270/edit",
+      "aliases": [
+        "client fulfillment/snapshot",
+        "the foundation - client snapshot"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 25992
+    },
+    {
+      "id": "1RBmy113jP1BS2DZkgXp6NO_Vd3HboDqaEcasbG_lr0Q",
+      "title": "Turkey Neck",
+      "label": "Video Ads (Scripts & Examples)",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1RBmy113jP1BS2DZkgXp6NO_Vd3HboDqaEcasbG_lr0Q/edit",
+      "aliases": [
+        "turkey neck",
+        "video ads (scripts & examples)"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 22638
+    },
+    {
+      "id": "1J8L2qxhlrBeRxrbcgoq5BMRfM-RdJnMJQ-c5x4C03_0",
+      "title": "Video Ads We Run For Our Clients",
+      "label": "Video Ads We Run For Our Clients",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1J8L2qxhlrBeRxrbcgoq5BMRfM-RdJnMJQ-c5x4C03_0/edit",
+      "aliases": [
+        "video ads we run for our clients"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 2821
+    },
+    {
+      "id": "1zzTB_aCWjaDE1crtfDOT6tK7SumsJJOK",
+      "title": "What Problem This Solves⛔️",
+      "label": "",
+      "pillar": "intro",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1zzTB_aCWjaDE1crtfDOT6tK7SumsJJOK/edit",
+      "aliases": [
+        "what problem this solves⛔️"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__Stages_Of_Evolution.docx.md",
+      "chars": 49010
+    },
+    {
+      "id": "1X0rsibMUb3VXuQM-80qLK9NS4wdyOKdGBo6vqNgXYWY",
+      "title": "When They Get Their First Booking",
+      "label": "1st Week Texting SOP - Client Success Manager PPS",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1X0rsibMUb3VXuQM-80qLK9NS4wdyOKdGBo6vqNgXYWY/edit",
+      "aliases": [
+        "1st week texting sop - client success manager pps",
+        "when they get their first booking"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 4164
+    },
+    {
+      "id": "16HHM0cishZUNi1YF0P94mIyKelqQFRRxileEFWR6ozg",
+      "title": "When They Get Their First Booking",
+      "label": "Pinpoint Scaling | Onboarding To Launch Messaging Framework",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/16HHM0cishZUNi1YF0P94mIyKelqQFRRxileEFWR6ozg/edit",
+      "aliases": [
+        "pinpoint scaling | onboarding to launch messaging framework",
+        "when they get their first booking"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__A.Intro__Reffered_docs__CSM_Slack_Communication_Guide_-_Text_Templates.docx.md",
+      "chars": 8407
+    },
+    {
+      "id": "1f0zS0soQw8nWFD9YgqsH_srznr6BhQbKj9qyJNCzA7M",
+      "title": "When To Hire",
+      "label": "Hiring directory",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1f0zS0soQw8nWFD9YgqsH_srznr6BhQbKj9qyJNCzA7M/edit",
+      "aliases": [
+        "hiring directory",
+        "when to hire"
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__B._Quick_Wins__B__quick_wins_docs_links.docx.md",
+      "chars": 9799
+    },
+    {
+      "id": "1lsbLOZfHQPIlbKD-c_-yF4joaHDoq3DmCssoLzUoitQ",
+      "title": "→  OFFER NAME RECOMMENDED:** Non Surgical Facelift.",
+      "label": "(Example Here Of How We Organize Content)",
+      "pillar": "intro",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1lsbLOZfHQPIlbKD-c_-yF4joaHDoq3DmCssoLzUoitQ/edit",
+      "aliases": [
+        "(example here of how we organize content)",
+        "→  offer name recommended:** non surgical facelift."
+      ],
+      "source_hubs": "1._Intro_and_Onboarding__C_._Bonus_trainings_(TEMPORARY)__reffered_docs__C._bonus_trainings.docx.md",
+      "chars": 3286
+    },
+    {
+      "id": "197Wpkydf0u2yUuMF7VJvdjlX_Vbplx96yhqFy1J75LY",
+      "title": "$0 - $100 day Scale phase 1",
+      "label": "$0 - $100 day Scale phase 1",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/197Wpkydf0u2yUuMF7VJvdjlX_Vbplx96yhqFy1J75LY/edit",
+      "aliases": [
+        "$0 - $100 day scale phase 1"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__C_-_Ad_Scaling_stages__Reffered_docs_AST__Ad_scaling_stages.docx.md",
+      "chars": 12033
+    },
+    {
+      "id": "12iVLPU8ig0J2-fWOGJaXN2iwehLskAn_yr5u9H2Nak0",
+      "title": "$100 - $300 a day Scale phase 2",
+      "label": "$100 - $300 a day Scale phase 2",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/12iVLPU8ig0J2-fWOGJaXN2iwehLskAn_yr5u9H2Nak0/edit",
+      "aliases": [
+        "$100 - $300 a day scale phase 2"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__C_-_Ad_Scaling_stages__Reffered_docs_AST__Ad_scaling_stages.docx.md",
+      "chars": 5445
+    },
+    {
+      "id": "1acoWR8lfGPp-PksSxf-mjcjT0Vya5T2hsq-Qm9KIXag",
+      "title": "$300+ a day, Scale phase 3",
+      "label": "$300+ a day, Scale phase 3",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1acoWR8lfGPp-PksSxf-mjcjT0Vya5T2hsq-Qm9KIXag/edit",
+      "aliases": [
+        "$300+ a day, scale phase 3"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__C_-_Ad_Scaling_stages__Reffered_docs_AST__Ad_scaling_stages.docx.md",
+      "chars": 6928
+    },
+    {
+      "id": "1K_2eoOItms06rgG5N4Gh-R2aIqtctDNx",
+      "title": "1K_2eoOItms06rgG5N4Gh-R2aIqtctDNx",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1K_2eoOItms06rgG5N4Gh-R2aIqtctDNx/edit",
+      "aliases": [
+        "1k_2eooitms06rgg5n4gh-r2aiqtctdnx"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 1664
+    },
+    {
+      "id": "1OPROP3Cibsxnuc2Qcu_PyFcuig7z8NXB",
+      "title": "1OPROP3Cibsxnuc2Qcu_PyFcuig7z8NXB",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1OPROP3Cibsxnuc2Qcu_PyFcuig7z8NXB/edit",
+      "aliases": [
+        "1oprop3cibsxnuc2qcu_pyfcuig7z8nxb"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 1124
+    },
+    {
+      "id": "1OniDF-zdo10mLpV9x6L0p7ONSHUtKFLB",
+      "title": "1OniDF-zdo10mLpV9x6L0p7ONSHUtKFLB",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1OniDF-zdo10mLpV9x6L0p7ONSHUtKFLB/edit",
+      "aliases": [
+        "1onidf-zdo10mlpv9x6l0p7onshutkflb"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 1028
+    },
+    {
+      "id": "1jvRTpA9Kcr3yRWQUUsH2Wlu_dO2iiRkb",
+      "title": "1jvRTpA9Kcr3yRWQUUsH2Wlu_dO2iiRkb",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1jvRTpA9Kcr3yRWQUUsH2Wlu_dO2iiRkb/edit",
+      "aliases": [
+        "1jvrtpa9kcr3yrwquush2wlu_do2iirkb"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 1391
+    },
+    {
+      "id": "1tZFUx5LMsaI8B1C0mxlEcr-9DjQcLrjX",
+      "title": "1tZFUx5LMsaI8B1C0mxlEcr-9DjQcLrjX",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1tZFUx5LMsaI8B1C0mxlEcr-9DjQcLrjX/edit",
+      "aliases": [
+        "1tzfux5lmsai8b1c0mxlecr-9djqclrjx"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__C_-_Ad_Scaling_stages__Reffered_docs_AST__Ad_scaling_stages.docx.md",
+      "chars": 796
+    },
+    {
+      "id": "1ujjtvQYQ4Kcwd68MICiRZsbuzVquUNY8",
+      "title": "1ujjtvQYQ4Kcwd68MICiRZsbuzVquUNY8",
+      "label": "",
+      "pillar": "lead-gen",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1ujjtvQYQ4Kcwd68MICiRZsbuzVquUNY8/edit",
+      "aliases": [
+        "1ujjtvqyq4kcwd68micirzsbuzvquuny8"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__F_-_Tracking__Reffered_tracking_docs__Tracking_systems.docx.md",
+      "chars": 1489
+    },
+    {
+      "id": "10ZNbq-rtjmx_d3WPlpBvLtR3W-7m3DHTFKL3Z4Fiyis",
+      "title": "2-call process snapshot",
+      "label": "2-call process snapshot",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/10ZNbq-rtjmx_d3WPlpBvLtR3W-7m3DHTFKL3Z4Fiyis/edit",
+      "aliases": [
+        "2-call process snapshot"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 1729
+    },
+    {
+      "id": "1HMlOdy58e3qihIX2oJ0uaFMx_q6o7jOlKZzCVxa0euM",
+      "title": "Acquisition Foundations",
+      "label": "Lead generation and nurture",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1HMlOdy58e3qihIX2oJ0uaFMx_q6o7jOlKZzCVxa0euM/edit",
+      "aliases": [
+        "acquisition foundations",
+        "lead generation and nurture"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 7563
+    },
+    {
+      "id": "1pZe4svygs48zMJCMji55deCmqdbtfpFfiLuAqDYYHno",
+      "title": "Ad spytools SOP",
+      "label": "Ad spytools SOP",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pZe4svygs48zMJCMji55deCmqdbtfpFfiLuAqDYYHno/edit",
+      "aliases": [
+        "ad spytools sop"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md; 6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 1948
+    },
+    {
+      "id": "1_tXZhENr_sc-BEpV-AeN7Bm3k-unmjZ3sNjBJOnliUs",
+      "title": "Ads Setup Checklist",
+      "label": "Creating your ads",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1_tXZhENr_sc-BEpV-AeN7Bm3k-unmjZ3sNjBJOnliUs/edit",
+      "aliases": [
+        "ads setup checklist",
+        "creating your ads"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 18935
+    },
+    {
+      "id": "1XU6bdwrBSPBX8SPrCuYe9fX8EDFzfiDZpglV5Ex8SE4",
+      "title": "Daily Ads Workflow - Sub $10k In Spend / Month",
+      "label": "Daily ads workflow - basic",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1XU6bdwrBSPBX8SPrCuYe9fX8EDFzfiDZpglV5Ex8SE4/edit",
+      "aliases": [
+        "daily ads workflow - basic",
+        "daily ads workflow - sub $10k in spend / month"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__F_-_Tracking__Reffered_tracking_docs__Tracking_systems.docx.md",
+      "chars": 6804
+    },
+    {
+      "id": "1cioKqspTOI6zK76ob0lOTzfNLDMe5WS6NJ_hgTwb-p4",
+      "title": "Diagnosis Basics",
+      "label": "Diagnosing and fixing constraints",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1cioKqspTOI6zK76ob0lOTzfNLDMe5WS6NJ_hgTwb-p4/edit",
+      "aliases": [
+        "diagnosing and fixing constraints",
+        "diagnosis basics"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 42272
+    },
+    {
+      "id": "1oH545t5fP7rKvHA3-yevuM6sp1wchNde8nmdd6wi4z4",
+      "title": "Do It Yourself or Delegate?",
+      "label": "Filming/Editing your ads",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1oH545t5fP7rKvHA3-yevuM6sp1wchNde8nmdd6wi4z4/edit",
+      "aliases": [
+        "do it yourself or delegate?",
+        "filming/editing your ads"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 13366
+    },
+    {
+      "id": "1J3-4_Nlp7MAyLULcvW7IgSA8JUYqQWf17KsORrb57gA",
+      "title": "Editing Ads That Convert",
+      "label": "Editing Ads SOP",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1J3-4_Nlp7MAyLULcvW7IgSA8JUYqQWf17KsORrb57gA/edit",
+      "aliases": [
+        "editing ads sop",
+        "editing ads that convert"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 8914
+    },
+    {
+      "id": "1LbiNPwcOSi4EdmGvabf7DP7mRp_A7TZzbmLmxoorHFo",
+      "title": "FB SOP",
+      "label": "Facebook ads setup SOP",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1LbiNPwcOSi4EdmGvabf7DP7mRp_A7TZzbmLmxoorHFo/edit",
+      "aliases": [
+        "facebook ads setup sop",
+        "fb sop"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 11230
+    },
+    {
+      "id": "1ovIAp5ZrHqE3shUGZFIdKNLqMZ_7D6vaCcXnNJr7sco",
+      "title": "Hammer Them Technical Short Form Setup",
+      "label": "Hammer them technical setup",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ovIAp5ZrHqE3shUGZFIdKNLqMZ_7D6vaCcXnNJr7sco/edit",
+      "aliases": [
+        "hammer them technical setup",
+        "hammer them technical short form setup"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 35520
+    },
+    {
+      "id": "1pnHP895erBWSF4O-c7Y6SfaH1Gk5Ycw0MZj_jQvcBN0",
+      "title": "How To Set it up",
+      "label": "AI Setter (Texting)",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1pnHP895erBWSF4O-c7Y6SfaH1Gk5Ycw0MZj_jQvcBN0/edit",
+      "aliases": [
+        "ai setter (texting)",
+        "how to set it up"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 7562
+    },
+    {
+      "id": "18CuJRmKaS9ApCWko7sDisKeyAwftqjyTj4UlP9kmFzk",
+      "title": "Isn’t This Unethical?",
+      "label": "Competition hacking",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/18CuJRmKaS9ApCWko7sDisKeyAwftqjyTj4UlP9kmFzk/edit",
+      "aliases": [
+        "competition hacking",
+        "isn’t this unethical?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 9293
+    },
+    {
+      "id": "1CZJ07aFgDWGnHHMlQP3qjW08btDWDSU8RSEVjI1hYxA",
+      "title": "Making ad hooks using AI",
+      "label": "Making ad hooks using AI",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1CZJ07aFgDWGnHHMlQP3qjW08btDWDSU8RSEVjI1hYxA/edit",
+      "aliases": [
+        "making ad hooks using ai"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md; 6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 2235
+    },
+    {
+      "id": "1obopvPhWbtqLfxaWQE_ef3N26i_ARkvkvGgMRmJmtR4",
+      "title": "Marketing Leverage",
+      "label": "Ad offer validation and budgeting",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1obopvPhWbtqLfxaWQE_ef3N26i_ARkvkvGgMRmJmtR4/edit",
+      "aliases": [
+        "ad offer validation and budgeting",
+        "marketing leverage"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 12236
+    },
+    {
+      "id": "1ULGkoMdb8hHIkrRiGuhRG7A6nlYyKzZMDdRsfemo9lE",
+      "title": "Media buying fundamentals",
+      "label": "Media buying fundamentals",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ULGkoMdb8hHIkrRiGuhRG7A6nlYyKzZMDdRsfemo9lE/edit",
+      "aliases": [
+        "media buying fundamentals"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__C_-_Ad_Scaling_stages__Reffered_docs_AST__Ad_scaling_stages.docx.md",
+      "chars": 6311
+    },
+    {
+      "id": "1USveZrVwbeLOaoXTZRaNyYEHpDOmo_JtrzeqIL6SIYw",
+      "title": "Nurture Fundamentals",
+      "label": "Lead nurture best practices",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1USveZrVwbeLOaoXTZRaNyYEHpDOmo_JtrzeqIL6SIYw/edit",
+      "aliases": [
+        "lead nurture best practices",
+        "nurture fundamentals"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 17183
+    },
+    {
+      "id": "13H5KfS6IIRqBUJTjjLaNchk_Uw1c6-C3KT6NWJP8zdw",
+      "title": "Philosophy of the Funnel",
+      "label": "Acquisition process breakdown",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/13H5KfS6IIRqBUJTjjLaNchk_Uw1c6-C3KT6NWJP8zdw/edit",
+      "aliases": [
+        "acquisition process breakdown",
+        "philosophy of the funnel"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 9082
+    },
+    {
+      "id": "1CKydsptQvUUZXLPtUgzLgpwESbQ6QINUc0UX78sdWOI",
+      "title": "SOP STEPS",
+      "label": "Steal Converting Funnels with AI",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1CKydsptQvUUZXLPtUgzLgpwESbQ6QINUc0UX78sdWOI/edit",
+      "aliases": [
+        "sop steps",
+        "steal converting funnels with ai"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 4125
+    },
+    {
+      "id": "1R9io-z5oO2TxdJxwklZOpCdGa74-EGxmD4uv0w4M4Zs",
+      "title": "SOP: Hyros Onboarding for Agency Owners",
+      "label": "Hyros Setup & Configuration",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1R9io-z5oO2TxdJxwklZOpCdGa74-EGxmD4uv0w4M4Zs/edit",
+      "aliases": [
+        "hyros setup & configuration",
+        "sop: hyros onboarding for agency owners"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__F_-_Tracking__Reffered_tracking_docs__Tracking_systems.docx.md",
+      "chars": 6486
+    },
+    {
+      "id": "1JmF3oQv6AN9s0JJYCEZzWfbfv8lrMXtykdrUevDHXzU",
+      "title": "Setup Steps",
+      "label": "Funnel Setup & Optimisation",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1JmF3oQv6AN9s0JJYCEZzWfbfv8lrMXtykdrUevDHXzU/edit",
+      "aliases": [
+        "funnel setup & optimisation",
+        "setup steps"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 7114
+    },
+    {
+      "id": "1sV6_TRNQjEhKLpo8qgtrAUMfidJDNSUOoEFqqsnCSEw",
+      "title": "Sheet Breakdown",
+      "label": "B2B Marketing Tracker (2-Call)",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1sV6_TRNQjEhKLpo8qgtrAUMfidJDNSUOoEFqqsnCSEw/edit",
+      "aliases": [
+        "b2b marketing tracker (2-call)",
+        "sheet breakdown"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__F_-_Tracking__Reffered_tracking_docs__Tracking_systems.docx.md",
+      "chars": 17131
+    },
+    {
+      "id": "1ehC6lF3TVDdScfxoqLwV448PVjDvrqJ0NwESD6lj_sI",
+      "title": "Show Rate Levers",
+      "label": "Show rate best practices",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ehC6lF3TVDdScfxoqLwV448PVjDvrqJ0NwESD6lj_sI/edit",
+      "aliases": [
+        "show rate best practices",
+        "show rate levers"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 26720
+    },
+    {
+      "id": "1oa9ieybXI368XkC-yoxBGApvmQaUIa54m8XBHXqTtZQ",
+      "title": "Tab 1",
+      "label": "Ai ads creation",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1oa9ieybXI368XkC-yoxBGApvmQaUIa54m8XBHXqTtZQ/edit",
+      "aliases": [
+        "ai ads creation",
+        "tab 1"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__B_-_Ads__Reffered_Docs_Ads__Ads_-_Reffered_docs.docx.md",
+      "chars": 11403
+    },
+    {
+      "id": "1Dd_VxexxYdD89VxXucpFijYHnyiFBWDaGW8lJMWIfyo",
+      "title": "The Mindset Traps",
+      "label": "Ad pitfalls and key tips",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Dd_VxexxYdD89VxXucpFijYHnyiFBWDaGW8lJMWIfyo/edit",
+      "aliases": [
+        "ad pitfalls and key tips",
+        "the mindset traps"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 13708
+    },
+    {
+      "id": "1ynhsZEjxtRgdEvbXbxHDjtnckPYCrJUIBc-oH5WhIMU",
+      "title": "Visual Breakdown",
+      "label": "B2B snapshot and breakdown",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ynhsZEjxtRgdEvbXbxHDjtnckPYCrJUIBc-oH5WhIMU/edit",
+      "aliases": [
+        "b2b snapshot and breakdown",
+        "visual breakdown"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__A_-_Fundamentals__Reffered_docs_Fundamentals__LNUR_-_Fundamentals.docx.md",
+      "chars": 14399
+    },
+    {
+      "id": "181SOVz5uv1YypJq1n9R-t35NgoE2wrnoVoW1VlArJXk",
+      "title": "Waiting Room Optimization",
+      "label": "Waiting Room Optimization",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/181SOVz5uv1YypJq1n9R-t35NgoE2wrnoVoW1VlArJXk/edit",
+      "aliases": [
+        "waiting room optimization"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 1060
+    },
+    {
+      "id": "1nXTqA3ITpwC2FXFGL06NhLdawCn6Dz4Jh3mv47i3ggM",
+      "title": "What Is The Hammer Them?",
+      "label": "Hammer them strategy",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1nXTqA3ITpwC2FXFGL06NhLdawCn6Dz4Jh3mv47i3ggM/edit",
+      "aliases": [
+        "hammer them strategy",
+        "what is the hammer them?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 30781
+    },
+    {
+      "id": "1-1WoCz9NYoScByCS4VBbpIVPAVcsFTJlnQq3ykwffPQ",
+      "title": "What Is a Pixel?",
+      "label": "Pixel Conditioning",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1-1WoCz9NYoScByCS4VBbpIVPAVcsFTJlnQq3ykwffPQ/edit",
+      "aliases": [
+        "pixel conditioning",
+        "what is a pixel?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 17915
+    },
+    {
+      "id": "1xZEASnvD1Ds8QoPiK7LyQMZxUKTGd4kbH8qKWy-tWcQ",
+      "title": "What Is a VSL?",
+      "label": "VSL Training",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1xZEASnvD1Ds8QoPiK7LyQMZxUKTGd4kbH8qKWy-tWcQ/edit",
+      "aliases": [
+        "vsl training",
+        "what is a vsl?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 20740
+    },
+    {
+      "id": "1vEmfr-P6K8LTEZj_dK_-1XTvG1aGwACrpUaNIqy_9Xc",
+      "title": "What is Lead Quality?",
+      "label": "Lead quality best practices",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1vEmfr-P6K8LTEZj_dK_-1XTvG1aGwACrpUaNIqy_9Xc/edit",
+      "aliases": [
+        "lead quality best practices",
+        "what is lead quality?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__E_-_Lead_nurture_and_fixing_constraints__Reffered_docs_LNUR__LNUR_and_constraint_identification.docx.md",
+      "chars": 18310
+    },
+    {
+      "id": "1x6R9QdOSw_U6ji0zE9ufBodaIo0soRZO9MvKmtu4wcY",
+      "title": "What is a Sales Funnel?",
+      "label": "Funnel types breakdown",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1x6R9QdOSw_U6ji0zE9ufBodaIo0soRZO9MvKmtu4wcY/edit",
+      "aliases": [
+        "funnel types breakdown",
+        "what is a sales funnel?"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 12355
+    },
+    {
+      "id": "1oCiMZm3rhRlGIaUXL8J6S0Bkfr2MpnUtmSMLFe3o7kU",
+      "title": "When To Optimise & Impact",
+      "label": "Thank You Page Optimisation",
+      "pillar": "lead-gen",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1oCiMZm3rhRlGIaUXL8J6S0Bkfr2MpnUtmSMLFe3o7kU/edit",
+      "aliases": [
+        "thank you page optimisation",
+        "when to optimise & impact"
+      ],
+      "source_hubs": "2.Lead_Generation_and_Nurture__D_-_Funnels__Reffered_docs_Funnels__Funnels.docx.md",
+      "chars": 22481
+    },
+    {
+      "id": "120DJ6hulLOdxYMbNoPw-GLeeSNFwCDJJ",
+      "title": "120DJ6hulLOdxYMbNoPw-GLeeSNFwCDJJ",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/120DJ6hulLOdxYMbNoPw-GLeeSNFwCDJJ/edit",
+      "aliases": [
+        "120dj6hullodxymbnopw-gleesnfwcdjj"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 1507
+    },
+    {
+      "id": "1374loPLCdH6uX8oTBJCmQxWlLkHgC16uy6RdPS8gEEU",
+      "title": "1374loPLCdH6uX8oTBJCmQxWlLkHgC16uy6RdPS8gEEU",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1374loPLCdH6uX8oTBJCmQxWlLkHgC16uy6RdPS8gEEU/edit",
+      "aliases": [
+        "1374loplcdh6ux8otbjcmqxwllkhgc16uy6rdps8geeu"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 72562
+    },
+    {
+      "id": "15CELY3D47042GLqPmrwYZqZYxnYsy2Bd",
+      "title": "15CELY3D47042GLqPmrwYZqZYxnYsy2Bd",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/15CELY3D47042GLqPmrwYZqZYxnYsy2Bd/edit",
+      "aliases": [
+        "15cely3d47042glqpmrwyzqzyxnysy2bd"
+      ],
+      "source_hubs": "6._Operations_&_AI__Monday_glue.docx.md",
+      "chars": 11569
+    },
+    {
+      "id": "17fMf1msD2fX9fTOoYJI4PKGcQ6sP7oVPFfmGH-M2Yqg",
+      "title": "17fMf1msD2fX9fTOoYJI4PKGcQ6sP7oVPFfmGH-M2Yqg",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/17fMf1msD2fX9fTOoYJI4PKGcQ6sP7oVPFfmGH-M2Yqg/edit",
+      "aliases": [
+        "17fmf1msd2fx9ftooyji4pkgcq6sp7ovpffmgh-m2yqg"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 2567
+    },
+    {
+      "id": "1IWgZA3tmsTlXDPo7KpbxO2WDj6NEbCbMToxdBdW3hK4",
+      "title": "1IWgZA3tmsTlXDPo7KpbxO2WDj6NEbCbMToxdBdW3hK4",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1IWgZA3tmsTlXDPo7KpbxO2WDj6NEbCbMToxdBdW3hK4/edit",
+      "aliases": [
+        "1iwgza3tmstlxdpo7kpbxo2wdj6nebcbmtoxdbdw3hk4"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 3685
+    },
+    {
+      "id": "1JfFZLg0bD8D8QoERd6kkex8PFDAoLeV8gKNj_UR61YY",
+      "title": "1JfFZLg0bD8D8QoERd6kkex8PFDAoLeV8gKNj_UR61YY",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1JfFZLg0bD8D8QoERd6kkex8PFDAoLeV8gKNj_UR61YY/edit",
+      "aliases": [
+        "1jffzlg0bd8d8qoerd6kkex8pfdaolev8gknj_ur61yy"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 3335
+    },
+    {
+      "id": "1Ke6wEPC-JLXO6TJzj5RerUFIW0lOt_TaL-VV93hMM8Y",
+      "title": "1Ke6wEPC-JLXO6TJzj5RerUFIW0lOt_TaL-VV93hMM8Y",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1Ke6wEPC-JLXO6TJzj5RerUFIW0lOt_TaL-VV93hMM8Y/edit",
+      "aliases": [
+        "1ke6wepc-jlxo6tjzj5rerufiw0lot_tal-vv93hmm8y"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 8193
+    },
+    {
+      "id": "1MF82dsnhzbv_AaSw0pDxsLXV0oWHmJqGbByUsipmXi8",
+      "title": "1MF82dsnhzbv_AaSw0pDxsLXV0oWHmJqGbByUsipmXi8",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1MF82dsnhzbv_AaSw0pDxsLXV0oWHmJqGbByUsipmXi8/edit",
+      "aliases": [
+        "1mf82dsnhzbv_aasw0pdxslxv0owhmjqgbbyusipmxi8"
+      ],
+      "source_hubs": "6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 2563
+    },
+    {
+      "id": "1nTMFJAkWpmy-DT0QCJOSPwgQJZLjfn2V",
+      "title": "1nTMFJAkWpmy-DT0QCJOSPwgQJZLjfn2V",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1nTMFJAkWpmy-DT0QCJOSPwgQJZLjfn2V/edit",
+      "aliases": [
+        "1ntmfjakwpmy-dt0qcjospwgqjzljfn2v"
+      ],
+      "source_hubs": "6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 946
+    },
+    {
+      "id": "1td8NDmp2wtSYpRznXJv5NKR_6zrjPHMLCCjiVetf4Zw",
+      "title": "1td8NDmp2wtSYpRznXJv5NKR_6zrjPHMLCCjiVetf4Zw",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-sheet",
+      "url": "https://docs.google.com/spreadsheets/d/1td8NDmp2wtSYpRznXJv5NKR_6zrjPHMLCCjiVetf4Zw/edit",
+      "aliases": [
+        "1td8ndmp2wtsyprznxjv5nkr_6zrjphmlccjivetf4zw"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 56247
+    },
+    {
+      "id": "1wRjoerSUhNCUn6Kw4wxjme6BHC8EfOTk",
+      "title": "1wRjoerSUhNCUn6Kw4wxjme6BHC8EfOTk",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1wRjoerSUhNCUn6Kw4wxjme6BHC8EfOTk/edit",
+      "aliases": [
+        "1wrjoersuhncun6kw4wxjme6bhc8efotk"
+      ],
+      "source_hubs": "6._Operations_&_AI__A._Finance__Reffered_docs.docx.md",
+      "chars": 354
+    },
+    {
+      "id": "1ddF96X9X34L47VwxjNPGRBkIrbBVxXLZFSRDD_KEdSo",
+      "title": "Creating A Prompting Machine",
+      "label": "B roll with sora",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ddF96X9X34L47VwxjNPGRBkIrbBVxXLZFSRDD_KEdSo/edit",
+      "aliases": [
+        "b roll with sora",
+        "creating a prompting machine"
+      ],
+      "source_hubs": "6._Operations_&_AI__B._AI_Integration__Follow_along_docs.docx.md",
+      "chars": 5049
+    },
+    {
+      "id": "1GxvsIO02ngMNxGq0mlEMsaBxwv6vsVnNcYW5Os1iNLs",
+      "title": "Monthly Configuration",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1GxvsIO02ngMNxGq0mlEMsaBxwv6vsVnNcYW5Os1iNLs/edit",
+      "aliases": [
+        "monthly configuration"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 2276
+    },
+    {
+      "id": "1bAGssDjL_IgyGEHlGH3Z21LdflQBm6b72-6P2q2xIfk",
+      "title": "Monthly Configuration",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1bAGssDjL_IgyGEHlGH3Z21LdflQBm6b72-6P2q2xIfk/edit",
+      "aliases": [
+        "monthly configuration"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 2307
+    },
+    {
+      "id": "1TDpxpw0NET_IWOoRX-4_3p8-I5fVDaecSu783DEAZ64",
+      "title": "Monthly Planning Process",
+      "label": "Monthly projection setting",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1TDpxpw0NET_IWOoRX-4_3p8-I5fVDaecSu783DEAZ64/edit",
+      "aliases": [
+        "monthly planning process",
+        "monthly projection setting"
+      ],
+      "source_hubs": "6._Operations_&_AI__A._Finance__Reffered_docs.docx.md",
+      "chars": 10014
+    },
+    {
+      "id": "1SbAtXI2IBX25OHcZHAzqRRLlQEbsuB1Ak36vIrjjd6g",
+      "title": "Sheet Breakdown",
+      "label": "",
+      "pillar": "ops-ai",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1SbAtXI2IBX25OHcZHAzqRRLlQEbsuB1Ak36vIrjjd6g/edit",
+      "aliases": [
+        "sheet breakdown"
+      ],
+      "source_hubs": "6._Operations_&_AI__C._Trackers__Reffered_docs.docx.md",
+      "chars": 16866
+    },
+    {
+      "id": "12C13KCXzCVeOcw9EZr5n9gY-QrunKYR3",
+      "title": "12C13KCXzCVeOcw9EZr5n9gY-QrunKYR3",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/12C13KCXzCVeOcw9EZr5n9gY-QrunKYR3/edit",
+      "aliases": [
+        "12c13kcxzcveocw9ezr5n9gy-qrunkyr3"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 1096
+    },
+    {
+      "id": "1AgjbEc2XzYWwuybKwfIjEGQjxC6bht3R",
+      "title": "1AgjbEc2XzYWwuybKwfIjEGQjxC6bht3R",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1AgjbEc2XzYWwuybKwfIjEGQjxC6bht3R/edit",
+      "aliases": [
+        "1agjbec2xzywwuybkwfijegqjxc6bht3r"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 1579
+    },
+    {
+      "id": "1MjLgAKUh0kmEnF3RG7j3WLNLRPKCBTrV",
+      "title": "1MjLgAKUh0kmEnF3RG7j3WLNLRPKCBTrV",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1MjLgAKUh0kmEnF3RG7j3WLNLRPKCBTrV/edit",
+      "aliases": [
+        "1mjlgakuh0kmenf3rg7j3wlnlrpkcbtrv"
+      ],
+      "source_hubs": "3.Sales__F._Follow_up__Reffered_docs__FU.docx.md",
+      "chars": 709
+    },
+    {
+      "id": "1YWmijIoAyTFF781Hvm998JAnFuVUtd_h",
+      "title": "1YWmijIoAyTFF781Hvm998JAnFuVUtd_h",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1YWmijIoAyTFF781Hvm998JAnFuVUtd_h/edit",
+      "aliases": [
+        "1ywmijioaytff781hvm998janfuvutd_h"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 1248
+    },
+    {
+      "id": "1bU_-pb8RGNnM2PBw8g5JNujb4wjKTfZT",
+      "title": "1bU_-pb8RGNnM2PBw8g5JNujb4wjKTfZT",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1bU_-pb8RGNnM2PBw8g5JNujb4wjKTfZT/edit",
+      "aliases": [
+        "1bu_-pb8rgnnm2pbw8g5jnujb4wjktfzt"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 1447
+    },
+    {
+      "id": "1lyKsPSOlP2KQgPPepa98gCE5zZCXXyrj",
+      "title": "1lyKsPSOlP2KQgPPepa98gCE5zZCXXyrj",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1lyKsPSOlP2KQgPPepa98gCE5zZCXXyrj/edit",
+      "aliases": [
+        "1lykspsolp2kqgppepa98gce5zzcxxyrj"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 1233
+    },
+    {
+      "id": "1qEXXoRxpVHJuusoXdxeQ5BhhiBqrtFy0NKfIoAxfyWk",
+      "title": "1qEXXoRxpVHJuusoXdxeQ5BhhiBqrtFy0NKfIoAxfyWk",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1qEXXoRxpVHJuusoXdxeQ5BhhiBqrtFy0NKfIoAxfyWk/edit",
+      "aliases": [
+        "1qexxorxpvhjuusoxdxeq5bhhibqrtfy0nkfioaxfywk"
+      ],
+      "source_hubs": "3.Sales__F._Follow_up__Reffered_docs__FU.docx.md",
+      "chars": 6495
+    },
+    {
+      "id": "1yqKTtLwUXlJre64rgFhxUXhl02clxeLt",
+      "title": "1yqKTtLwUXlJre64rgFhxUXhl02clxeLt",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-file",
+      "url": "https://docs.google.com/file/d/1yqKTtLwUXlJre64rgFhxUXhl02clxeLt/edit",
+      "aliases": [
+        "1yqkttlwuxljre64rgfhxuxhl02clxelt"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 1155
+    },
+    {
+      "id": "13QYdtHCN6E-BpC-TTbraeezOzAAVUfB7Jm1WPHTI8tY",
+      "title": "2-Call Process Adjustments",
+      "label": "1 or 2CC adjustments",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/13QYdtHCN6E-BpC-TTbraeezOzAAVUfB7Jm1WPHTI8tY/edit",
+      "aliases": [
+        "1 or 2cc adjustments",
+        "2-call process adjustments",
+        "or 2cc adjustments"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 13223
+    },
+    {
+      "id": "1zDSdqhYgr2_dRm0DURazPBp2P_lZtRyCMn-OCl0YmuU",
+      "title": "7 Steps to Objectionless Sales Calls",
+      "label": "7 steps to objectionless sales calls",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1zDSdqhYgr2_dRm0DURazPBp2P_lZtRyCMn-OCl0YmuU/edit",
+      "aliases": [
+        "7 steps to objectionless sales calls",
+        "steps to objectionless sales calls"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 14399
+    },
+    {
+      "id": "1f8F83BaYDTepyNFcNav287rO3Kyzjj2x2MiFtXzj-wc",
+      "title": "AUTOMATED TRANSCRIPT",
+      "label": "AI call reviews and notetaking",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1f8F83BaYDTepyNFcNav287rO3Kyzjj2x2MiFtXzj-wc/edit",
+      "aliases": [
+        "ai call reviews and notetaking",
+        "automated transcript"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 5025
+    },
+    {
+      "id": "1S-XGlwvBqOv7mvAHMYf3M1CDX0o97SwL3GEhRfF5igg",
+      "title": "Beginning Of Day Process",
+      "label": "Closers –",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1S-XGlwvBqOv7mvAHMYf3M1CDX0o97SwL3GEhRfF5igg/edit",
+      "aliases": [
+        "beginning of day process",
+        "closers –"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 10890
+    },
+    {
+      "id": "1NZx_GzOTHCIQk3uTQTHGrvVUKoNOnZNQ5Up2ESFs0tI",
+      "title": "Closer Onboarding & Bootcamp",
+      "label": "Closer onboarding and bootcamp",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1NZx_GzOTHCIQk3uTQTHGrvVUKoNOnZNQ5Up2ESFs0tI/edit",
+      "aliases": [
+        "closer onboarding & bootcamp",
+        "closer onboarding and bootcamp"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 31779
+    },
+    {
+      "id": "1zEao_3gCbBS5U_3fUTLndF0o46aBS_N0N4JZN14Dai4",
+      "title": "Closing Deposits & Booking Follow-Ups",
+      "label": "Closing deposits/ Booking FU’s",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1zEao_3gCbBS5U_3fUTLndF0o46aBS_N0N4JZN14Dai4/edit",
+      "aliases": [
+        "closing deposits & booking follow-ups",
+        "closing deposits/ booking fu’s"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 20061
+    },
+    {
+      "id": "1YFPIVz7pdEiBqMZ-t87bRCznPaRsuMm2PIpcSUucpQQ",
+      "title": "Commitment & Price Phase",
+      "label": "Commitment and price",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1YFPIVz7pdEiBqMZ-t87bRCznPaRsuMm2PIpcSUucpQQ/edit",
+      "aliases": [
+        "commitment & price phase",
+        "commitment and price"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 20795
+    },
+    {
+      "id": "1Jy-GVUnZCxXOijH2Zu-eJeGtpWtjeUqPK10c8KoTpd8",
+      "title": "Creating The Cost Of Inaction",
+      "label": "Cost of inaction",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Jy-GVUnZCxXOijH2Zu-eJeGtpWtjeUqPK10c8KoTpd8/edit",
+      "aliases": [
+        "cost of inaction",
+        "creating the cost of inaction"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 20923
+    },
+    {
+      "id": "1BQwwEWd9GipPYoVrrdgIdRSi_dSjtzFgUwqYTFMFSoQ",
+      "title": "Creating Your Pitch",
+      "label": "Creating the pitch",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1BQwwEWd9GipPYoVrrdgIdRSi_dSjtzFgUwqYTFMFSoQ/edit",
+      "aliases": [
+        "creating the pitch",
+        "creating your pitch"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 41508
+    },
+    {
+      "id": "1bZfSdSMEKTtmCbsb_pzWm3R1OF0luoQfMaLcIQFkvcw",
+      "title": "Daily Sales Meetings SOP",
+      "label": "Meeting cadence and framework",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1bZfSdSMEKTtmCbsb_pzWm3R1OF0luoQfMaLcIQFkvcw/edit",
+      "aliases": [
+        "daily sales meetings sop",
+        "meeting cadence and framework"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 15421
+    },
+    {
+      "id": "1jvi73ryikhFV4AEAZmf7KmO0pFrpdleOgGMJtsz9FUo",
+      "title": "Daily Sales SOP (Setters)",
+      "label": "Daily sales SOP",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1jvi73ryikhFV4AEAZmf7KmO0pFrpdleOgGMJtsz9FUo/edit",
+      "aliases": [
+        "daily sales sop",
+        "daily sales sop (setters)"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 11178
+    },
+    {
+      "id": "1FdiwkrOhVtvXa5TOgwqHuNlE5gDMfobh-ouxMN5HaoE",
+      "title": "Discovery Best Practices",
+      "label": "Discovery best practices",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1FdiwkrOhVtvXa5TOgwqHuNlE5gDMfobh-ouxMN5HaoE/edit",
+      "aliases": [
+        "discovery best practices"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 7126
+    },
+    {
+      "id": "1cLUtZPIXhQVhgzWgx0kl-CenjYR-PK38JoINarcXd3g",
+      "title": "Disqualifying & Financial Qualification",
+      "label": "DQ and financial Q’s",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1cLUtZPIXhQVhgzWgx0kl-CenjYR-PK38JoINarcXd3g/edit",
+      "aliases": [
+        "disqualifying & financial qualification",
+        "dq and financial q’s"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 16126
+    },
+    {
+      "id": "1NpRdmNHfAkQlZ4aL3pjJc3OjJHpKSwcMpH2uXtTJiVs",
+      "title": "EOD Report SOP (Setters & Closers)",
+      "label": "EOD reports",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1NpRdmNHfAkQlZ4aL3pjJc3OjJHpKSwcMpH2uXtTJiVs/edit",
+      "aliases": [
+        "eod report sop (setters & closers)",
+        "eod reports"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 9038
+    },
+    {
+      "id": "1N300xRHiT0b3CqEL_UgxpWiElxb4YYXP0ue6EHBSZbE",
+      "title": "Handling The \"Pay On Results\" Objection",
+      "label": "Thought it was pay on results",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1N300xRHiT0b3CqEL_UgxpWiElxb4YYXP0ue6EHBSZbE/edit",
+      "aliases": [
+        "handling the \"pay on results\" objection",
+        "thought it was pay on results"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 14606
+    },
+    {
+      "id": "1xoHbKVAu0jOK80cMjtsIhmgL9P9kVq4AuhIzQKZ2390",
+      "title": "Keys To High Performance",
+      "label": "Keys to high performance",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1xoHbKVAu0jOK80cMjtsIhmgL9P9kVq4AuhIzQKZ2390/edit",
+      "aliases": [
+        "keys to high performance"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 22429
+    },
+    {
+      "id": "1UMwK2JC4FMnw2tN-fG9kjrQUquE7sS4epCEPo4UCnRA",
+      "title": "Leveraging Sales Assets",
+      "label": "Sales assets leverage",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1UMwK2JC4FMnw2tN-fG9kjrQUquE7sS4epCEPo4UCnRA/edit",
+      "aliases": [
+        "leveraging sales assets",
+        "sales assets leverage"
+      ],
+      "source_hubs": "3.Sales__F._Follow_up__Reffered_docs__FU.docx.md",
+      "chars": 12256
+    },
+    {
+      "id": "14ATDJwyqaEp-txa2PZv4niq0B7bPDAZJ__ftC-66_eA",
+      "title": "Mastering Discovery on Intro Calls",
+      "label": "Collecting ammo (discover)",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/14ATDJwyqaEp-txa2PZv4niq0B7bPDAZJ__ftC-66_eA/edit",
+      "aliases": [
+        "collecting ammo (discover)",
+        "mastering discovery on intro calls"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 18004
+    },
+    {
+      "id": "1rvX-pcaL5BBiJ3esZYRxdndpwOHNTb2fHwbGXLn3utc",
+      "title": "Most Common Objections",
+      "label": "Intro call process",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1rvX-pcaL5BBiJ3esZYRxdndpwOHNTb2fHwbGXLn3utc/edit",
+      "aliases": [
+        "intro call process",
+        "most common objections"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 13514
+    },
+    {
+      "id": "1-TX8Ps9YuvvaaSvPBJ5XqECo6T3k_bKBHtoTGyOo5Rg",
+      "title": "No Shows & Maximizing Show Rates (Setter Levers)",
+      "label": "No shows and maximizing shows",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1-TX8Ps9YuvvaaSvPBJ5XqECo6T3k_bKBHtoTGyOo5Rg/edit",
+      "aliases": [
+        "no shows & maximizing show rates (setter levers)",
+        "no shows and maximizing shows"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 7879
+    },
+    {
+      "id": "1Z-746pb_4GWNX4RBHML550sNFeHFpd4BNgadxJ76uBQ",
+      "title": "Objection Handling",
+      "label": "Demo Call Process",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Z-746pb_4GWNX4RBHML550sNFeHFpd4BNgadxJ76uBQ/edit",
+      "aliases": [
+        "demo call process",
+        "objection handling"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 32676
+    },
+    {
+      "id": "1F1m9KtjcckNSal0guSXwbXzW4dqFSo3GXI93oqmYSWw",
+      "title": "Objections 101",
+      "label": "Objections 101",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1F1m9KtjcckNSal0guSXwbXzW4dqFSo3GXI93oqmYSWw/edit",
+      "aliases": [
+        "objections 101"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md; 3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 29030
+    },
+    {
+      "id": "1arv9bC7xkaT-Tfe0zv3plAO6P1fh6mPNP0nFXjer63I",
+      "title": "Organizing Follow-Ups at Scale",
+      "label": "organizing scale follow up",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1arv9bC7xkaT-Tfe0zv3plAO6P1fh6mPNP0nFXjer63I/edit",
+      "aliases": [
+        "organizing follow-ups at scale",
+        "organizing scale follow up"
+      ],
+      "source_hubs": "3.Sales__F._Follow_up__Reffered_docs__FU.docx.md",
+      "chars": 7681
+    },
+    {
+      "id": "16mXdOSsyYgkNDGq5d9FleVW-oa2BhmmBAII9-Rjh16A",
+      "title": "Pacing The First Objection",
+      "label": "Pacing the first objection",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/16mXdOSsyYgkNDGq5d9FleVW-oa2BhmmBAII9-Rjh16A/edit",
+      "aliases": [
+        "pacing the first objection"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 13184
+    },
+    {
+      "id": "1SXBvbfTjatFHWUnaG33IKSeuXKw2C9uzAHyAa4ZhDDM",
+      "title": "Pitch Presentation Methods",
+      "label": "Pitch presentation methods",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1SXBvbfTjatFHWUnaG33IKSeuXKw2C9uzAHyAa4ZhDDM/edit",
+      "aliases": [
+        "pitch presentation methods"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 14903
+    },
+    {
+      "id": "1ou8kc1mhKmNmzz3U6gH_rBPU-IFhvEnqhW6D2tSHZBY",
+      "title": "Price & Financial Objections",
+      "label": "Price/ Financial",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ou8kc1mhKmNmzz3U6gH_rBPU-IFhvEnqhW6D2tSHZBY/edit",
+      "aliases": [
+        "price & financial objections",
+        "price/ financial"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 31830
+    },
+    {
+      "id": "1Ia0oGZeqscyWDk0B5mRcWQTAOD8rme1zx4T-xS22FG8",
+      "title": "Process Variation",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1Ia0oGZeqscyWDk0B5mRcWQTAOD8rme1zx4T-xS22FG8/edit",
+      "aliases": [
+        "process variation"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 9939
+    },
+    {
+      "id": "1YzB0SLVtku9JwxqiUJenPJQrk5PfCrTuBT4lmZ9yxZ4",
+      "title": "Reasons Why People Don't Close On The Call",
+      "label": "Follow up basics",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1YzB0SLVtku9JwxqiUJenPJQrk5PfCrTuBT4lmZ9yxZ4/edit",
+      "aliases": [
+        "follow up basics",
+        "reasons why people don't close on the call"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md; 3.Sales__F._Follow_up__Reffered_docs__FU.docx.md",
+      "chars": 9720
+    },
+    {
+      "id": "1wv0PKscWHEQZpA8IFeJVlUXvkHXFyFnxA8iZEizDUEg",
+      "title": "Running ads to hire salespeople",
+      "label": "Running ads to hire salespeople",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wv0PKscWHEQZpA8IFeJVlUXvkHXFyFnxA8iZEizDUEg/edit",
+      "aliases": [
+        "running ads to hire salespeople"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 1297
+    },
+    {
+      "id": "1L-dNAUHRwkNYgrjy-MDlmrNqnQ5BZiCaIq_NyScPkcw",
+      "title": "Sales Bad Habits & Success Tips",
+      "label": "Sales bad habits and success tips",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1L-dNAUHRwkNYgrjy-MDlmrNqnQ5BZiCaIq_NyScPkcw/edit",
+      "aliases": [
+        "sales bad habits & success tips",
+        "sales bad habits and success tips"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 28534
+    },
+    {
+      "id": "1KCwjpNekbAJOq4w9cx0WQ9s-w_CVl3XYhpv7lqL2QDE",
+      "title": "Sales First Principles",
+      "label": "Sales first principles",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1KCwjpNekbAJOq4w9cx0WQ9s-w_CVl3XYhpv7lqL2QDE/edit",
+      "aliases": [
+        "sales first principles"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 16695
+    },
+    {
+      "id": "1uzmHShwP64yYhpGowOVjQ4VKggHaejZ4SQPMt4xaOFw",
+      "title": "Sales State of Mind",
+      "label": "Sales state of mind",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1uzmHShwP64yYhpGowOVjQ4VKggHaejZ4SQPMt4xaOFw/edit",
+      "aliases": [
+        "sales state of mind"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 10216
+    },
+    {
+      "id": "1kJRy0yjRpPC8uPOU10ETBUyRxW88B4doTWO1d-pLwNE",
+      "title": "Setter Onboarding & Bootcamp",
+      "label": "Setter onboarding and bootcamp",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1kJRy0yjRpPC8uPOU10ETBUyRxW88B4doTWO1d-pLwNE/edit",
+      "aliases": [
+        "setter onboarding & bootcamp",
+        "setter onboarding and bootcamp"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 21596
+    },
+    {
+      "id": "1wB1Tvd9W0CEvBMiFDdzGDwSu1kSNoYDX2SFSyMfNPwI",
+      "title": "Setting Common Pitfalls",
+      "label": "Setter common pitfalls",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wB1Tvd9W0CEvBMiFDdzGDwSu1kSNoYDX2SFSyMfNPwI/edit",
+      "aliases": [
+        "setter common pitfalls",
+        "setting common pitfalls"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 13049
+    },
+    {
+      "id": "1qRFar8VxNWFlxMLmqzCfzi0T4RKec-trzbFoHL_4pR0",
+      "title": "Setting Process & Pipeline Management",
+      "label": "Setting process",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1qRFar8VxNWFlxMLmqzCfzi0T4RKec-trzbFoHL_4pR0/edit",
+      "aliases": [
+        "setting process",
+        "setting process & pipeline management"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 14458
+    },
+    {
+      "id": "1O3hk8UzdWycoJ4Yj2rwcsGv0G4JOGVFJ2NLZRgnh4eE",
+      "title": "Setting Projections SOP",
+      "label": "Setting sales projections",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1O3hk8UzdWycoJ4Yj2rwcsGv0G4JOGVFJ2NLZRgnh4eE/edit",
+      "aliases": [
+        "setting projections sop",
+        "setting sales projections"
+      ],
+      "source_hubs": "3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 9311
+    },
+    {
+      "id": "1jGHCx5bebZ45nPd3H9Gv4eRULmeOvDGmlwzSC2Om9_E",
+      "title": "Setting The Frame",
+      "label": "Setting the frame",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1jGHCx5bebZ45nPd3H9Gv4eRULmeOvDGmlwzSC2Om9_E/edit",
+      "aliases": [
+        "setting the frame"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 11418
+    },
+    {
+      "id": "1wFEhHKmEjXbHS_78KgzPT1SaatHqfE1d_3c2Z6zF3lI",
+      "title": "Spouse & Partner Objections",
+      "label": "",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1wFEhHKmEjXbHS_78KgzPT1SaatHqfE1d_3c2Z6zF3lI/edit",
+      "aliases": [
+        "spouse & partner objections"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 34683
+    },
+    {
+      "id": "1FAjU_xk4ZWWwp3whFw9Eew9u-KfgSItUle75yU6cd8U",
+      "title": "Tab 1",
+      "label": "Taking notes on sales calls",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1FAjU_xk4ZWWwp3whFw9Eew9u-KfgSItUle75yU6cd8U/edit",
+      "aliases": [
+        "tab 1",
+        "taking notes on sales calls"
+      ],
+      "source_hubs": "3.Sales__B._Sales_crash_course__Reffered_docs__Crash_course.docx.md",
+      "chars": 46101
+    },
+    {
+      "id": "1ZnC0TKhldjX5lrusEi6-00N6SnGFJ8LTjgEytmse-FU",
+      "title": "Templatizing For Setting Efficiency",
+      "label": "Templatizing for setter efficiency",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1ZnC0TKhldjX5lrusEi6-00N6SnGFJ8LTjgEytmse-FU/edit",
+      "aliases": [
+        "templatizing for setter efficiency",
+        "templatizing for setting efficiency"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 8250
+    },
+    {
+      "id": "15IgWrLUyHX4CIBHVsSo-5bRXkGiJzyhs1NVWEkzo958",
+      "title": "The Discovery Process: Creating The Gap",
+      "label": "Discovery – Gap",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/15IgWrLUyHX4CIBHVsSo-5bRXkGiJzyhs1NVWEkzo958/edit",
+      "aliases": [
+        "discovery – gap",
+        "the discovery process: creating the gap"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 26462
+    },
+    {
+      "id": "16o962CDS4UaHkLnW8lg-VSVfy0KtWdGzdYeCYB_QVfU",
+      "title": "Transitioning To The Pitch",
+      "label": "Pitch transition",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/16o962CDS4UaHkLnW8lg-VSVfy0KtWdGzdYeCYB_QVfU/edit",
+      "aliases": [
+        "pitch transition",
+        "transitioning to the pitch"
+      ],
+      "source_hubs": "3.Sales__D._Demo_calls__Reffered_docs__demo_calls.docx.md",
+      "chars": 8034
+    },
+    {
+      "id": "1L17OMdnYHsuVmiXtmgatDOxu7U-wFFla0ESUquUUuMQ",
+      "title": "Transitioning to Demo",
+      "label": "Transitioning to demo (pre-pitch)",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1L17OMdnYHsuVmiXtmgatDOxu7U-wFFla0ESUquUUuMQ/edit",
+      "aliases": [
+        "transitioning to demo",
+        "transitioning to demo (pre-pitch)"
+      ],
+      "source_hubs": "3.Sales__C._Setting_and_lead_management__Reffered_docs__Setting_and_lead_management.docx.md",
+      "chars": 9882
+    },
+    {
+      "id": "1y33NgIfjwWKExV8YY0ecHHMEp3rmtJVk1DOnGStnWAk",
+      "title": "Uncertainty Objections",
+      "label": "Uncertainty/ Think about it",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1y33NgIfjwWKExV8YY0ecHHMEp3rmtJVk1DOnGStnWAk/edit",
+      "aliases": [
+        "uncertainty objections",
+        "uncertainty/ think about it"
+      ],
+      "source_hubs": "3.Sales__E._Objections__Reffered_docs__Objections.docx.md",
+      "chars": 65137
+    },
+    {
+      "id": "1SgXAhMsJpxQ3ituFRCQlszH8UR7vp3AeUF7104PESAw",
+      "title": "When & How to Hire Setters and Closers",
+      "label": "Everything on hiring setters/closers",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1SgXAhMsJpxQ3ituFRCQlszH8UR7vp3AeUF7104PESAw/edit",
+      "aliases": [
+        "everything on hiring setters/closers",
+        "when & how to hire setters and closers"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md; 3.Sales__H._Sales_team_management__Reffered_docs__stm.docx.md",
+      "chars": 32471
+    },
+    {
+      "id": "1JyabjWASAYx-S_Z2iF285d6B9jcuovEe3Afn54b3g_Q",
+      "title": "Your Two Leverage Points",
+      "label": "Sales START HERE",
+      "pillar": "sales",
+      "kind": "sop-doc",
+      "url": "https://docs.google.com/document/d/1JyabjWASAYx-S_Z2iF285d6B9jcuovEe3Afn54b3g_Q/edit",
+      "aliases": [
+        "sales start here",
+        "your two leverage points"
+      ],
+      "source_hubs": "3.Sales__A._Sales_fundamentals__Reffered_docs__Fundamentals.docx.md",
+      "chars": 6657
+    }
+  ]
+}

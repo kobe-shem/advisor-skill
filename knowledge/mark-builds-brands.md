@@ -6,7 +6,7 @@ card_id: MBB
 domains: [copywriting, ad-creative, hooks, anti-ai-slop, advertorials, ai-ad-production, market-selection, product-selection, funnels, direct-response]
 relevance: all
 confidence: DOCTRINE-MEDIUM   # 4 public YouTube videos + 1 SOP doc Mark shared; clear provenance
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: mark-builds-brands/source-texts/ (full transcripts + SOP doc, Tier 3)
 sources_count: 5
 last_distilled: 2026-06-30
 ---
@@ -159,7 +159,7 @@ model and the copy/creative-production craft.
   ("DM me the word X"). Read doctrine net of the promo.
 
 ## Source provenance
-- Distilled from private research notes (not included in this distribution), ingested
+- Distilled from the full-fidelity sources under `mark-builds-brands/source-texts/` (Tier 3), ingested
   2026-06-30:
   - `XlCQPnZ2gfA` — "Neuroscience Confirms: this is what makes people buy from your ads" (5 layers of depth)
   - `2QJLri6yB2Q` — "how i create AI ads w/ higgsfield that print" (image/video AI-ad pipeline)

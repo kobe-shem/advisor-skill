@@ -6,7 +6,7 @@ card_id: RM
 domains: [personal-brand, authority, differentiation, content-strategy, scripting, content-formats, creative-direction, media-team]
 relevance: all
 confidence: DOCTRINE-MEDIUM
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: ronny-mitchell/source-texts/ (full transcripts, Tier 3)
 sources_count: 12
 last_distilled: 2026-07-20
 ---
@@ -25,7 +25,7 @@ substitute for a cash-producing acquisition channel. Ronny owns the authority-an
 Hormozi owns current lead economics, offer, and cash constraints.
 
 Source keys `[R01]`–`[R12]` index the twelve public videos listed under source provenance; verbatim
-source text is not included in this distribution. Timestamps below point to the nearest transcript
+source text lives under `ronny-mitchell/source-texts/` (Tier 3). Timestamps below point to the nearest transcript
 anchor.
 
 ## Core doctrine — build a brand, not a content commodity
@@ -253,7 +253,7 @@ Treat these as dated tactics to retest by platform and account, never as timeles
 
 - Distilled from the 12-video July 20, 2026 snapshot of “How to Grow on Social Media”: 17,527 seconds
   and 70,152 parsed caption words, with 12/12 successful transcripts.
-- Verbatim source text is not included in this distribution; source keys `[R01]`–`[R12]` index those
+- Verbatim transcripts live under `ronny-mitchell/source-texts/` (Tier 3, via its `_index.md` router); source keys `[R01]`–`[R12]` index those
   twelve public videos.
 - Reliability: **DOCTRINE-MEDIUM** — primary public videos with complete captions; mixed-speaker
   claims visually audited where used; results remain attributed/self-reported.

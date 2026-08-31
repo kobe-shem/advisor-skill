@@ -82,15 +82,19 @@ Cameron England's pricing and guarantee numbers are UNVERIFIED competitive obser
 them every time, never assert them as fact. Truth-first numbers: every figure traces to a source;
 blanks are honest, invented numbers are not.
 
-## 5. Verbatim tier (not included in the repo; syncable on owned machines)
+## 5. Verbatim tier (PRIVATE — this repo must not be shared while it is present)
 
-This distribution ships **no verbatim source text** — the distilled doctrine files are the answer
-depth. On a machine whose owner has the source material (purchased books/courses), the private
-verbatim tier can be synced locally with `scripts/sync-private-tier.sh`; it lands under
-`source-texts/` paths, which are gitignored. Open source-texts only when a question explicitly
-needs verbatim fidelity (an exact script, number, or "what does the book literally say"), read
-the minimum relevant range, and cite it. Never commit, publish, or redistribute anything under
-`source-texts/`. If the tier is absent, say so — never reconstruct verbatim text from memory.
+This repo includes the owner's full-fidelity verbatim tier under `source-texts/` paths: the
+Hormozi playbook/handbook full texts and video transcripts, Ronny Mitchell and Mark Builds Brands
+transcripts, and the Cameron England course indexes. This is owned/licensed material for the
+owner's personal use only — while it is present, the repo must remain private and must never be
+cloned to another person's account, published, or redistributed in any form. (To produce a
+shareable copy, strip every `source-texts/` directory first.)
+
+Usage: the distilled doctrine files are still the answer depth. Open `source-texts/` only when a
+question explicitly needs verbatim fidelity (an exact script, number, or "what does the book
+literally say"), route via the tier's `_index.md`, read the minimum relevant page/timestamp
+range, and cite it. If a source is absent, say so — never reconstruct verbatim text from memory.
 
 ## 6. Guardrails
 
