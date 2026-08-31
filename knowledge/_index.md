@@ -36,8 +36,17 @@ load phase uses), `conflict-map.md` (where advisors disagree and why), `guarante
 gate every proposed guarantee must pass).
 
 **Verbatim escalation:** the full-fidelity Tier-3 layer lives under `source-texts/` inside
-`alex-hormozi/` (12 playbooks + 5 video transcripts, page-anchored), `ronny-mitchell/` (12
-transcripts), `mark-builds-brands/` (4 transcripts + SOP doc), and `cameron-england/` (course
-indexes). Open it only for exact scripts, numbers, or passages — route via each tier's
-`_index.md`, read the minimum range, and cite it. PRIVATE owned material: the repo must stay
-private and never be shared while this tier is present (SKILL.md §5).
+`alex-hormozi/` (12 playbooks + 5 videos + 4 courses with 74 lesson transcripts under
+`courses/`), `nathan-perdriau/` (414 channel transcripts, ~1.08M words), `cameron-england/`
+(378 course transcripts + 47 docs + lesson/link/SOP indexes), `ronny-mitchell/` (12
+transcripts), `mark-builds-brands/` (4 transcripts + SOP doc), and `cole-gordon/` (1
+transcript). Open it only for exact scripts, numbers, or passages — and **grep, don't open, any
+index or transcript over ~20KB** (Nathan's index is 39KB; Cameron's lesson index is 82KB): grep
+the tier's `_index.md` for the term, then Read only the matched file's matched range and cite it
+(SKILL.md §5 has the full recipe). PRIVATE owned material: the repo must stay private and never
+be shared while this tier is present (SKILL.md §5).
+
+**Large distilled files:** the Cameron England pillar cards run 35–60KB each. Don't read a
+pillar whole for a narrow question — grep the pillar card for the topic term and Read the
+matched bullet range (each bullet is a self-contained doctrine unit with its lesson citation).
+Read a whole pillar only for a broad review of that lane.

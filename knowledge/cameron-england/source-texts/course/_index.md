@@ -8,6 +8,13 @@ timestamp-anchored, whisper-quality (not human-edited).
 find the relevant timestamp range, and cite it as `[section/file MM:SS]`. This tier exists for
 verbatim-quote escalation from the doctrine pillars, not for general reading.
 
+**How to find a lesson** (this file is only a per-section summary — it has no per-lesson rows):
+`grep -in -A3 "<term>" ../index/index.md` gives the lesson's filename, local path, and Drive
+`viewUrl` (the `-A3` captures the URL lines). Then grep the matched `.transcript.md` for the
+topic to land on its `[MM:SS]` range and Read only that range. Never open `../index/index.md`
+(82KB) or `../index/link-index.json` (406KB) whole. Written-SOP Drive links:
+`../index/sop-index.md`. Course documents (docx/pdf/xlsx): `../course-docs/_index.md`.
+
 **PRIVATE material — never redistribute.** This is Cameron England's paid course content,
 transcribed for the owner's personal internal use only.
 

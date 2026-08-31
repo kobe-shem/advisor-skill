@@ -6,6 +6,9 @@ card_id: AH
 domains: [offers, leads, money-models, sales, scaling, theory-of-constraints, unit-economics]
 relevance: all
 confidence: DOCTRINE-HIGH
+corpus_pointer: alex-hormozi/source-texts/ (12 playbooks + 5 videos + 4 courses / 74 lessons, Tier 3)
+sources_count: 21 primary sources across 6 topic files
+last_distilled: 2026-08-31
 ---
 
 # Alex Hormozi — doctrine index

@@ -84,17 +84,38 @@ blanks are honest, invented numbers are not.
 
 ## 5. Verbatim tier (PRIVATE — this repo must not be shared while it is present)
 
-This repo includes the owner's full-fidelity verbatim tier under `source-texts/` paths: the
-Hormozi playbook/handbook full texts and video transcripts, Ronny Mitchell and Mark Builds Brands
-transcripts, and the Cameron England course indexes. This is owned/licensed material for the
-owner's personal use only — while it is present, the repo must remain private and must never be
-cloned to another person's account, published, or redistributed in any form. (To produce a
-shareable copy, strip every `source-texts/` directory first.)
+This repo includes the owner's full-fidelity verbatim tier under `source-texts/` paths. The
+complete inventory (all six trees):
+- `alex-hormozi/source-texts/` — 12 playbook/handbook full texts (page-anchored), 5 video
+  transcripts, and 4 Acquisition.com courses (74 lesson transcripts + PDFs) under `courses/`.
+- `nathan-perdriau/source-texts/` — the full Blue Sense Digital channel: 414 video transcripts
+  (~1.08M words), timestamp-anchored.
+- `cameron-england/source-texts/` — the full License & Scale course: 378 transcripts
+  (~3.16M words) under `course/`, 47 course documents under `course-docs/`, and the
+  lesson/link/SOP indexes under `index/`.
+- `ronny-mitchell/source-texts/` — 12 video transcripts.
+- `mark-builds-brands/source-texts/` — 4 video transcripts + 1 SOP doc.
+- `cole-gordon/source-texts/` — 1 video transcript.
+
+This is owned/licensed material for the owner's personal use only. It IS committed to this git
+repo — the privacy control is the repo's private status, not an ignore rule — so while it is
+present the repo must remain private and must never be made public, forked, cloned to another
+person's account, shared with a collaborator, or redistributed in any form. (To produce a
+shareable copy, strip every `source-texts/` directory first — from history too, not just the
+working tree.)
 
 Usage: the distilled doctrine files are still the answer depth. Open `source-texts/` only when a
 question explicitly needs verbatim fidelity (an exact script, number, or "what does the book
-literally say"), route via the tier's `_index.md`, read the minimum relevant page/timestamp
-range, and cite it. If a source is absent, say so — never reconstruct verbatim text from memory.
+literally say"), then follow the retrieval recipe:
+1. **Grep, never open, any index or transcript over ~20KB.** `grep -in "<term>"` the tier's
+   `_index.md` to find the one file; grep the transcript to find the one `[MM:SS]` / page anchor.
+2. Read only the matched range with `offset`/`limit`, and cite it (`pN` or `[id MM:SS]`).
+3. Timestamps exist only in material ingested 2026-08-30+ (Hormozi courses, Nathan Perdriau,
+   Cameron England, Cole Gordon). The Hormozi `youtube/`, Ronny Mitchell, and Mark Builds Brands
+   transcripts have NO timestamps — locate by grepped quote fragment and cite the file plus a
+   short anchor phrase instead. Never invent a timestamp.
+
+If a source is absent, say so — never reconstruct verbatim text from memory.
 
 ## 6. Guardrails
 

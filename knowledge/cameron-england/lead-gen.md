@@ -6,7 +6,7 @@ pillar: lead-gen               # lead-gen | sales | client-success | call-center
 domains: [paid-ads, funnels, lead-nurture, show-rate, constraint-diagnosis, media-buying]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH         # curriculum lessons; founder-call points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 59
 last_distilled: 2026-06-17
@@ -621,8 +621,9 @@ guarantee — those are mutable facts of their business, kept separate from doct
   demos, not new doctrine.
 
 ## Lesson map (course provenance)
-Provenance only — the source videos/SOPs this pillar distills, NOT additional doctrine. Source
-file links are not included in this distribution; the doctrine-bearing citations in bullets above
+Provenance only — the source videos/SOPs this pillar distills, NOT additional doctrine. Full
+transcripts are in-repo at `cameron-england/source-texts/course/` and Drive links in
+`cameron-england/source-texts/index/` (Tier 3); the doctrine-bearing citations in bullets above
 come from the transcript extracts.
 
 ### A - Fundamentals

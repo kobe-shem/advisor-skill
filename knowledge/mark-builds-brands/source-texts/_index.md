@@ -4,7 +4,7 @@ slug: mark-builds-brands
 card_id: MBB
 kind: source-text-router
 status: full-fidelity-in-repo
-note: DO NOT auto-load. Opened only after a verbatim trigger (SKILL.md §0.6). Pointers only — no doctrine here.
+note: DO NOT auto-load. Opened only after a verbatim trigger (SKILL.md §5). Pointers only — no doctrine here.
 ---
 
 # Mark Builds Brands source-texts router — open ONLY for verbatim detail
@@ -15,8 +15,10 @@ Maps a question to the EXACT source (video/doc) + file. Tier 3's index — itsel
 template, a step-by-step, or "quote it / what does Mark actually say." Cite as
 `source-texts/<path>`.
 
-These are public YouTube auto-transcripts + one SOP doc Mark shared with Kobe. Stored full-fidelity
-in repo per Kobe's "full source in repo" standard (see `references/ingestion-workflow.md`).
+These are public YouTube auto-transcripts + one SOP doc Mark shared with Kobe, stored
+full-fidelity in repo. **The transcripts have NO timestamp anchors** (older caption ingest):
+locate lines by grepping for a quote fragment and cite the file plus a short anchor phrase —
+never invent a timestamp.
 
 ## Videos (4) — `youtube/<slug>/full-transcript.md`
 

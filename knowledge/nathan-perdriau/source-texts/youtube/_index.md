@@ -3,6 +3,12 @@
 > Fetched 2026-08-30 via yt-dlp auto-captions. 414/415 videos transcribed, ~1,083,164 words total. NEVER auto-load — open one
 > transcript's relevant timestamp range only, and cite `[youtube_id MM:SS]`.
 > Directory pattern: `<slug>--<id>/full-transcript.md`.
+>
+> **This index is 39KB — grep it, never read it whole.** Find the video by title term
+> (`grep -in "<term>" _index.md`), then grep the one transcript for the topic to get its
+> `[MM:SS]` anchor, and Read only that range with offset/limit. Titles are the only routing
+> signal here; if no title matches, prefer the distilled sub-docs (`../../*.md`) over grepping
+> 414 transcript bodies.
 
 | # | youtube_id | title | dur(s) | words | status |
 |---:|---|---|---:|---:|---|

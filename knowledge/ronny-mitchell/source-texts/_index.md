@@ -1,13 +1,14 @@
 # Ronny Mitchell source-text router — Tier 3
 
 Open this file only after `ronny-mitchell.md`. Open one transcript only when an exact-framework,
-exact-wording, or “what does the playlist actually say?” question requires source fidelity. Cite the
-file and nearest timestamp anchor. YouTube auto-captions can be wrong; do not silently repair them.
+exact-wording, or “what does the playlist actually say?” question requires source fidelity.
+**These transcripts have NO timestamp anchors** (older caption ingest): locate lines by grepping
+the transcript for a quote fragment, and cite the R## key plus a short anchor phrase — never
+invent a timestamp. YouTube auto-captions can be wrong; do not silently repair them.
 
 Snapshot: [How to Grow on Social Media](https://www.youtube.com/playlist?list=PLoJXNFHqMvgUIYfu-f2-WkibsiL_Lm5f0),
 captured 2026-07-20. **12 unique videos · 12 successful transcripts · 0 caption failures · 17,527
-seconds · 70,152 parsed words.** Manifest:
-`~/.hermes/workspace/advisor-corpus/people/ronny-mitchell/sources/youtube/manifest.json`.
+seconds · 70,152 parsed words.**
 
 ## Source-to-doctrine router
 

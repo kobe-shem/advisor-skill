@@ -6,7 +6,7 @@ pillar: sales
 domains: [discovery, objection-handling, closing, setting-and-pipeline, follow-up, sales-team-management]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH         # curriculum lessons; founder-call points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 87
 last_distilled: 2026-06-17
@@ -229,7 +229,7 @@ Cross-advisor tension to map vs:
 - Founder-call / mastermind / live-team-call points are situational coaching, not curriculum — tag COURSE-MEDIUM.
 
 ## Source provenance
-- Distilled from: the sales corpus (private raw corpus, not included in this distribution; pillar="sales"; 87 lessons).
+- Distilled from: the sales corpus (private raw corpus — now in-repo at cameron-england/source-texts/course/, Tier 3; pillar="sales"; 87 lessons).
 - v1 was SOP/written-doc grounded (23 lesson SOPs + section hubs). This revision (2026-06-17) is **transcript-enriched**: merged the full video-transcript doctrine extracts for all nine sub-sections (A. Fundamentals, B. Crash course, C. Setting & lead management, D. Demo calls, E. Objections, F. Follow up, G. Call reviews, H. Sales-team management, I. Live team calls), which added the exact step-by-step mechanics (Permission→Context→Question, the first-objection pace→tie-down→handle flow, the open-the-wallet ladder, the GHL power-dialer/snippet builds, the no-show timeline, the investment-drop + two-option-close mechanics, the temp-check 1–10 anchors), precise benchmarks, named frameworks (metal-detector/shovel, Scooby-Doo hallway, Box A/B, lion-vs-fat-cat, the 7 reframes, BAM-FAM, deposit-vs-delay), and Cameron's on-video stories/analogies that the SOPs lacked.
 - Founder-call/mastermind points routed to this pillar (~390 points, COURSE-MEDIUM) folded in where distinct (constraint-walk live close, "volume vs script" perspective, shield-the-closer conviction logic, qualified-pay-on-results gate, single-price-point vs two-option debate, track-close-rate-on-live-calls).
 - Reliability: COURSE-HIGH for curriculum SOPs/transcripts; COURSE-MEDIUM for founder calls / live team calls / masterminds / roleplays.

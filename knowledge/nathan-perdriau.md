@@ -7,7 +7,7 @@ domains: [meta-ads, creative-strategy, media-buying, paid-acquisition, unit-econ
 relevance: all
 confidence: DOCTRINE-MEDIUM
 corpus_pointer: nathan-perdriau/source-texts/youtube/ (full channel re-fetch 2026-08-30: 414 transcripts, ~1.08M words, Tier 3)
-sources_count: ~33
+sources_count: ~33 distilled into this card (the Tier-3 corpus_pointer archive is larger)
 last_distilled: 2026-06-16
 ---
 

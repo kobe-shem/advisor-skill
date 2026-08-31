@@ -6,7 +6,7 @@ pillar: client-success
 domains: [retention, onboarding, client-comms, conflict-resolution, upsells-referrals-reviews, CSM-hiring, CSM-management, CS-systems]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 85
 last_distilled: 2026-06-17
@@ -695,7 +695,7 @@ Live calls (supporting grounding, COURSE-MEDIUM): the richest live-call teardown
 "Auditing client call with CSM's",
 plus onboarding/launch CSM audits, the live group interview + new-CSM onboarding call, and the daily
 CSM meeting. Founder-call/mastermind points routed to this pillar are labeled
-COURSE-MEDIUM (private raw corpus, not included in this distribution).
+COURSE-MEDIUM (private raw corpus — now in-repo at cameron-england/source-texts/course/, Tier 3).
 
 ## Conflicts with other advisors
 - Cross-advisor: "extreme ownership / get in the angry boat" and

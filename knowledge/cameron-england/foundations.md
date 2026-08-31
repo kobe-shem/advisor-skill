@@ -6,7 +6,7 @@ pillar: foundations               # course "intro" + "calls" lessons distilled i
 domains: [agency-growth-model, niche-selection, unit-economics, kpis-and-reverse-engineering, pricing-and-ltv, retention-foundations, decision-making, hiring-and-talent, leadership-and-culture, founder-os, ai-leverage]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH            # curriculum SOPs + course videos; founder-call/mastermind points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 116
 last_distilled: 2026-06-17
@@ -440,7 +440,8 @@ mutable facts of their business, kept separate from doctrine.
 
 ## Lesson map (course provenance)
 *Reference only — the course lessons this pillar distills (pillar = "intro" or "calls").
-Distinct from the doctrine above. Source videos/SOPs are not included in this distribution.*
+Distinct from the doctrine above. Source transcripts/docs are in-repo under
+`cameron-england/source-texts/` (course/ + course-docs/, Tier 3).*
 
 Intro / Onboarding — foundational videos & SOPs:
 - 1. Introduction (video) — Winner Frame, program navigation, CAM's AI vs Content Finder
@@ -539,7 +540,7 @@ Calls / Masterminds (situational coaching — COURSE-MEDIUM):
   $9k chargeback, Dubai supercar cautionary tale, John vs Lisa, Apple Care).
 - Lesson attributions cited above are the exact sources from the extracts (course videos for
   COURSE-HIGH; founder calls for COURSE-MEDIUM). Some Quick-Wins videos share a source file with
-  their SOP doc; source file links are not included in this distribution.
+  their SOP doc; Drive links live in `cameron-england/source-texts/index/sop-index.md`.
 - Reliability: COURSE-HIGH for the intro/quick-win/bonus curriculum; COURSE-MEDIUM for founder
   calls / masterminds and the team-member-delivered bonus lesson.
 - Raw transcripts / full SOP text are NOT included in this distribution.

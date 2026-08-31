@@ -13,7 +13,7 @@ fidelity: full-faithful-transcription
 
 # ACQ Closer Handbook — full text (faithful, page-anchored)
 
-> Complete faithful transcription, page-ordered. Tier 3 — do NOT load whole (SKILL.md §0.6).
+> Complete faithful transcription, page-ordered. Tier 3 — do NOT load whole (SKILL.md §5).
 > Jump to a page via the map below (Read with offset≈line). Cite as
 > `source-texts/books/acq-closer-handbook/full-text.md pN`. Unreadable source is marked `[illegible: pN]`.
 

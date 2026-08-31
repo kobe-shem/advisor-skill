@@ -6,7 +6,7 @@ pillar: fulfillment-svd               # lead-gen | sales | client-success | call
 domains: [service-delivery, retention, onboarding, fulfillment-economics, team-structure, constraint-diagnosis]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH                # curriculum lessons; founder-call points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 24
 last_distilled: 2026-06-17
@@ -224,6 +224,6 @@ Founder calls routed here (COURSE-MEDIUM, situational coaching):
 - Founder-Call / mastermind points are situational coaching tagged COURSE-MEDIUM inline; curriculum SOP points are COURSE-HIGH.
 
 ## Source provenance
-- Distilled from: the "License & Scale" SVD curriculum — 7 Fundamentals lessons + the ads-playbook + Constraint-diagnosis module + the full Automated-Onboarding unit (8 lessons + Backend/Live-buildout videos + Step-by-step Onboarding SOP), via transcript doctrine extracts (7_SVD_Fundamentals, 7_SVD_Automated_onboarding; 7_SVD_Lead_generation belongs to the lead-gen pillar; private raw corpus, not included in this distribution). Enriched 2026-06-17 by merging video transcripts (exact mechanics, numbers, named plays, on-camera stories) onto the original SOP-grounded v1.
+- Distilled from: the "License & Scale" SVD curriculum — 7 Fundamentals lessons + the ads-playbook + Constraint-diagnosis module + the full Automated-Onboarding unit (8 lessons + Backend/Live-buildout videos + Step-by-step Onboarding SOP), via transcript doctrine extracts (7_SVD_Fundamentals, 7_SVD_Automated_onboarding; 7_SVD_Lead_generation belongs to the lead-gen pillar; private raw corpus — now in-repo at cameron-england/source-texts/course/, Tier 3). Enriched 2026-06-17 by merging video transcripts (exact mechanics, numbers, named plays, on-camera stories) onto the original SOP-grounded v1.
 - Founder-call / mastermind points routed to this pillar (73 routed points) plus two pulled from _calls (CSM shadow audit, pod scaling). All COURSE-MEDIUM.
 - Reliability: COURSE-HIGH for curriculum lessons; COURSE-MEDIUM for founder calls / masterminds. Citations name the exact source lessons from the extracts. Raw transcripts / SOP text are NOT included in this distribution.

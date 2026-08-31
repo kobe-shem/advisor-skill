@@ -6,7 +6,7 @@ pillar: ops-ai               # lead-gen | sales | client-success | call-center |
 domains: [agency-operations, projections-and-finance, dashboards-and-trackers, sops-and-delegation, ai-integration]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH       # curriculum lessons; founder-call points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 18            # Finance + AI Integration/Manus + Trackers (8 tracker lessons) + routed founder-call corpus
 last_distilled: 2026-06-17
@@ -451,11 +451,11 @@ from the transcripts + SOP text, not these titles alone.
 ### Founder calls / masterminds (COURSE-MEDIUM — situational; cited inline above)
 - Marbella Q4 2024 Mastermind, Mykonos Q3 2025 Mastermind, and the 2025 Founder-Call corpus
   (PM, ticketing, AI directory, billing, attribution, hiring, voice-AI rollout). See the inline
-  citations in Core doctrine / Decision rules. Full extracts live in the private raw corpus,
-  not included in this distribution.
+  citations in Core doctrine / Decision rules. Full transcripts live in-repo at
+  `cameron-england/source-texts/course/` (Tier 3).
 
 ## Source provenance
-- Distilled from: the ops-ai corpus (private raw corpus, not included in this distribution;
+- Distilled from: the ops-ai corpus (private raw corpus — now in-repo at cameron-england/source-texts/course/, Tier 3;
   pillar="ops-ai") PLUS the transcript doctrine extracts for
   Finance, AI Integration/Manus and Trackers, and the routed
   founder-call points for this pillar (214 routed points).

@@ -6,7 +6,7 @@ pillar: call-center               # lead-gen | sales | client-success | call-cen
 domains: [call-center, appointment-setting, csr-hiring, csr-management, csr-comp, show-rate, kpis-reporting, dialer-systems, ai-setter]
 relevance: ai-offer-agency
 confidence: COURSE-HIGH           # curriculum lessons; founder-call/mastermind points tagged COURSE-MEDIUM inline
-corpus_pointer: (raw corpus not included in this distribution)
+corpus_pointer: cameron-england/source-texts/course/ (full License & Scale transcripts, Tier 3 — see source-texts/course/_index.md)
 source_collection: license-and-scale-v2026
 lessons_count: 45
 last_distilled: 2026-06-17
@@ -575,7 +575,7 @@ Google-Doc SOPs are Cameron's written lesson text. Separate from doctrine above 
   doctrine, gamification, double-booking, slow-client dialer, much of the comp range) = COURSE-MEDIUM.
 
 ## Source provenance
-- Distilled from: the call-center corpus (private raw corpus, not included in this distribution; pillar="call-center")
+- Distilled from: the call-center corpus (private raw corpus — now in-repo at cameron-england/source-texts/course/, Tier 3; pillar="call-center")
 - TRANSCRIPT-ENRICHED this run from the full curriculum transcript extracts (A. Fundamentals, B. Setup p1+p2,
   C. Hiring & onboarding, D. Team management) PLUS 234 founder-call/mastermind points routed to call-center
   (2024 Marbella + Mykonos masterminds, 2025 Founder Calls p1-p11). The earlier card was SOP-grounded; this

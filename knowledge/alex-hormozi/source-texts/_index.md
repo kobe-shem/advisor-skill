@@ -4,7 +4,7 @@ slug: alex-hormozi
 card_id: AH
 kind: source-text-router
 status: full-fidelity-in-repo
-note: DO NOT auto-load. Opened only after a verbatim trigger (SKILL.md §0.6). Pointers only — no doctrine here.
+note: DO NOT auto-load. Opened only after a verbatim trigger (SKILL.md §5). Pointers only — no doctrine here.
 ---
 
 # Hormozi source-texts router — open ONLY for verbatim detail
@@ -39,7 +39,27 @@ the answer depth. Come here only for an exact script / number / table / step, or
 (ads-creative) and (branding) are new surface area with no distilled sub-doc yet — route those
 questions straight here for the source text. Distilling them into Tier-2 sub-docs is an open follow-up.
 
+## Courses (4) — `courses/<course>/` (74 lesson transcripts + PDFs)
+
+The four Acquisition.com courses live under `courses/` with their own router chain:
+`courses/_index.md` → the course's `_index.md` → one lesson dir's `transcript.md`
+(timestamp-anchored whisper transcripts, cite `[course/module MM:SS]`).
+
+| Course dir | Modules | Open for verbatim detail on | reinforces |
+|---|---:|---|---|
+| `courses/offers/` | 12 | Hormozi teaching $100M Offers on video — value equation, guarantees, pricing, naming | `offers.md` |
+| `courses/leads/` | 19 | $100M Leads taught on video — Core Four, lead magnets, referrals | `leads.md` |
+| `courses/money-models/` | 33 | $100M Money Models taught on video — the full offer-stack curriculum | `money-models.md`, `ltgp-cac.md` |
+| `courses/scaling/` | 13 | the Scaling course — constraints, hiring, ops | `scaling-constraints.md` |
+
+For a book-topic verbatim pull (e.g. "his exact words on the value equation"), prefer the course
+transcript over the playbooks — the trade books' own text is not in the repo.
+
 ## Videos (5) — `youtube/<slug>/full-transcript.md`
+
+**No timestamps in these five transcripts** (older caption ingest): locate lines by grepping the
+file for a quote fragment and cite the file plus a short anchor phrase — never invent a
+timestamp. The 4-hour guide is 330KB — always grep first, never read it whole.
 
 | slug | youtube_id | open for verbatim detail on | reinforces |
 |---|---|---|---|
