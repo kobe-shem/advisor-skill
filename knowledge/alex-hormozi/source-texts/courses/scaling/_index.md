@@ -15,19 +15,19 @@ in the server-rendered HTML of https://www.acquisition.com/training/scalingstart
 
 | nn | title | url | assets | pdf pages | transcript |
 |----|-------|-----|--------|-----------|------------|
-| 01 | Start Here | https://www.acquisition.com/training/scalingstart | none | — | none |
-| 02 | Context | https://www.acquisition.com/training/context | none | — | none |
-| 03 | Stage 0: Improvise (0-1) | https://www.acquisition.com/training/improvise | none | — | none |
-| 04 | Stage 1: Monetize (0-1) | https://www.acquisition.com/training/monetize | none | — | none |
-| 05 | Stage 2: Advertise (0-1) | https://www.acquisition.com/training/advertise | none | — | none |
-| 06 | Stage 3: Stabilize (1-4) | https://www.acquisition.com/training/stabilize | none | — | none |
-| 07 | Stage 4: Prioritize (5-9) | https://www.acquisition.com/training/prioritize | none | — | none |
-| 08 | Stage 5: Productize (10-19) | https://www.acquisition.com/training/productize | when-to-fire-someone.pdf | 1 | none |
-| 09 | Stage 6: Optimize (20-49) | https://www.acquisition.com/training/optimize | none | — | none |
-| 10 | Stage 7: Categorize (50-99) | https://www.acquisition.com/training/categorize | none | — | none |
-| 11 | Stage 8: Specialize (100-249) | https://www.acquisition.com/training/specialize | none | — | none |
-| 12 | Stage 9: Capitalize (250-500) | https://www.acquisition.com/training/capitalize | none | — | none |
-| 13 | Free Bonus | https://www.acquisition.com/training/free-bonus | none | — | none |
+| 01 | Start Here | https://www.acquisition.com/training/scalingstart | none | — | whisper |
+| 02 | Context | https://www.acquisition.com/training/context | none | — | whisper |
+| 03 | Stage 0: Improvise (0-1) | https://www.acquisition.com/training/improvise | none | — | whisper |
+| 04 | Stage 1: Monetize (0-1) | https://www.acquisition.com/training/monetize | none | — | whisper |
+| 05 | Stage 2: Advertise (0-1) | https://www.acquisition.com/training/advertise | none | — | whisper |
+| 06 | Stage 3: Stabilize (1-4) | https://www.acquisition.com/training/stabilize | none | — | whisper |
+| 07 | Stage 4: Prioritize (5-9) | https://www.acquisition.com/training/prioritize | none | — | whisper |
+| 08 | Stage 5: Productize (10-19) | https://www.acquisition.com/training/productize | when-to-fire-someone.pdf | 1 | whisper |
+| 09 | Stage 6: Optimize (20-49) | https://www.acquisition.com/training/optimize | none | — | whisper |
+| 10 | Stage 7: Categorize (50-99) | https://www.acquisition.com/training/categorize | none | — | whisper |
+| 11 | Stage 8: Specialize (100-249) | https://www.acquisition.com/training/specialize | none | — | whisper |
+| 12 | Stage 9: Capitalize (250-500) | https://www.acquisition.com/training/capitalize | none | — | whisper |
+| 13 | Free Bonus | https://www.acquisition.com/training/free-bonus | none | — | whisper |
 
 Every module page contains exactly one Mux video (see per-module `page.md` for the playback id
 and thumbnail URL). None of the 13 videos have a captions/subtitles track — see "Captions" below.
@@ -66,10 +66,14 @@ section with the manifest evidence.
   `08-productize/`, where the link genuinely renders. Two `docs.google.com` document links
   (Google Docs SOPs, not matching `\.pdf|\.docx|\.xlsx|\.zip`) also appear in this same shared
   blob across all pages and were left undownloaded per the task's extension filter.
-- **No per-module written lesson text:** each module page's actual rendered content (beyond
-  global nav/header/footer/legal boilerplate and the workshop-signup CTA block) is just the
-  embedded Mux video — there is no separate on-page lesson description/transcript body text in
-  the static HTML. `page.md` for each module includes the full stripped body text anyway per the
-  "sparse is fine" instruction; it is legitimately sparse because the source page is sparse.
+- **No per-module written lesson text on the source pages:** each module page's actual rendered
+  content (beyond global nav/header/footer/legal boilerplate and the workshop-signup CTA block)
+  is just the embedded Mux video — there is no separate on-page lesson description/transcript
+  body text in the static HTML. `page.md` for each module includes the full stripped body text
+  anyway per the "sparse is fine" instruction; it is legitimately sparse because the source page
+  is sparse. **Update 2026-08-30:** local Whisper transcripts (whisper.cpp, `base.en` model) were
+  generated for all 13 lesson videos from the Mux HLS audio and saved as `transcript.md` in each
+  module directory — timestamp-anchored, Tier 3 (never auto-load; open the range a question needs
+  and cite by timestamp). See the module table's `transcript` column.
 - politeness: 1-second sleep was used between all per-module and per-video requests; single
   retry policy was set up for failed downloads, but no download failed so no retry was needed.

@@ -15,28 +15,32 @@ which differs slightly from the short nav label ("Offer Creation Pt 1").
 
 Every lesson page carries a Mux video with `CLOSED-CAPTIONS=NONE` and no
 `TYPE=SUBTITLES` track in its `.m3u8` master playlist — confirmed by fetching
-the playlist directly — so no captions/transcript exist to recover for any
-module in this course.
+the playlist directly — so no platform-native captions/transcript existed to
+recover for any module in this course. On 2026-08-30, local Whisper
+transcripts (whisper.cpp `base.en`, timestamp-anchored) were generated for
+every module with a video by pulling the audio track directly from each
+lesson's Mux HLS stream.
 
 | NN | Title | URL | Assets downloaded | PDF pages | Transcript |
 |----|-------|-----|--------------------|-----------|------------|
-| 01 | Start Here | https://www.acquisition.com/training/offers | none | — | none |
-| 02 | Picking Markets | https://www.acquisition.com/training/offers2 | pick-your-niche-checklist.pdf (280,668 B) | 1 | none |
-| 03 | Charge What It's Worth - Pricing | https://www.acquisition.com/training/offers3 | pricing-value-checklist.pdf (611,349 B) | 1 | none |
-| 04 | The Value Equation | https://www.acquisition.com/training/offers4 | pricing-value-checklist.pdf (611,349 B) | 1 | none |
-| 05 | The Offer Creation Part 1 | https://www.acquisition.com/training/offers5 | offer-creation-checklist.pdf (1,339,612 B) | 3 | none |
-| 06 | The Offer Creation Part 2 | https://www.acquisition.com/training/offers6 | offer-creation-checklist.pdf (1,339,612 B) | 3 | none |
-| 07 | Bonus Creation | https://www.acquisition.com/training/offers7 | bonus-creation-checklist.pdf (389,572 B) | 2 | none |
-| 08 | Guarantee Creation | https://www.acquisition.com/training/offers8 | unbeatable-guarantee-checklist.pdf (785,798 B) | 2 | none |
-| 09 | Scarcity & Urgency | https://www.acquisition.com/training/offers9 | scarcity-urgency-checklist.pdf (216,466 B) | 1 | none |
-| 10 | Naming Products | https://www.acquisition.com/training/offers10 | product-naming-checklist.pdf (464,107 B) | 2 | none |
-| 11 | Free Bonus | https://www.acquisition.com/training/offersfreebonus | none | — | none |
+| 01 | Start Here | https://www.acquisition.com/training/offers | none | — | whisper |
+| 02 | Picking Markets | https://www.acquisition.com/training/offers2 | pick-your-niche-checklist.pdf (280,668 B) | 1 | whisper |
+| 03 | Charge What It's Worth - Pricing | https://www.acquisition.com/training/offers3 | pricing-value-checklist.pdf (611,349 B) | 1 | whisper |
+| 04 | The Value Equation | https://www.acquisition.com/training/offers4 | pricing-value-checklist.pdf (611,349 B) | 1 | whisper |
+| 05 | The Offer Creation Part 1 | https://www.acquisition.com/training/offers5 | offer-creation-checklist.pdf (1,339,612 B) | 3 | whisper |
+| 06 | The Offer Creation Part 2 | https://www.acquisition.com/training/offers6 | offer-creation-checklist.pdf (1,339,612 B) | 3 | whisper |
+| 07 | Bonus Creation | https://www.acquisition.com/training/offers7 | bonus-creation-checklist.pdf (389,572 B) | 2 | whisper |
+| 08 | Guarantee Creation | https://www.acquisition.com/training/offers8 | unbeatable-guarantee-checklist.pdf (785,798 B) | 2 | whisper |
+| 09 | Scarcity & Urgency | https://www.acquisition.com/training/offers9 | scarcity-urgency-checklist.pdf (216,466 B) | 1 | whisper |
+| 10 | Naming Products | https://www.acquisition.com/training/offers10 | product-naming-checklist.pdf (464,107 B) | 2 | whisper |
+| 11 | Free Bonus | https://www.acquisition.com/training/offersfreebonus | none | — | whisper |
 | 12 | Audiobook | https://www.acquisition.com/offers-audiobook | n/a (audio not downloaded, per instructions) | — | n/a |
 
 ## Totals
 
 - **9 PDFs downloaded**, 6,038,533 bytes total (~5.76 MB), all on the first attempt (no retries needed).
-- **0 of 12 modules had video captions.** Every lesson's Mux HLS master playlist explicitly reports `CLOSED-CAPTIONS=NONE` with no `TYPE=SUBTITLES` media entry, so `transcript.md` was not produced for any module; each module's `page.md` notes this under "Video captions."
+- **0 of 12 modules had platform-native video captions.** Every lesson's Mux HLS master playlist explicitly reports `CLOSED-CAPTIONS=NONE` with no `TYPE=SUBTITLES` media entry; each module's `page.md` notes this under "Video captions."
+- **11 of 11 video modules (01–11) now have local Whisper transcripts**, added 2026-08-30 (whisper.cpp `base.en`, run against the audio pulled from each lesson's Mux HLS stream). Module 12 (Audiobook) has no Mux video and stays `n/a`.
 - Modules 02–10 (excluding 05/06, which share a video-specific title but the same downloadable checklist) each have exactly one checklist PDF, matching the single real `href="/files/....pdf"` anchor found in that page's HTML. Modules 05 and 06 ("Offer Creation Part 1" and "Part 2") both link to the same `offer-creation-checklist.pdf`, and modules 03 and 04 ("Charge What It's Worth" and "The Value Equation") both link to the same `pricing-value-checklist.pdf` — this is a duplication in the source site itself (same file downloaded into two module directories), not an ingestion error.
 - Modules 01 (Start Here) and 11 (Free Bonus) have no downloadable asset on their pages — verified directly (no `href="/files/*.pdf|docx|xlsx|zip"` anchors present).
 - Module 12 (Audiobook) uses a different (HubSpot-embedded) page template than the other 11 lesson pages. It has no PDF/docx/xlsx/zip assets and no Mux video; it offers the audiobook only via an embedded Spotify playlist link (`https://open.spotify.com/playlist/41WB6RDgmRWPha2XvPA2H0`). Per instructions, no audio was downloaded — the link and its `curl -sI` response are documented in `12-audiobook/page.md`.

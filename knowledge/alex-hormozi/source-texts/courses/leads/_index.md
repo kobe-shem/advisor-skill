@@ -34,24 +34,24 @@ and diffing: the payload is byte-identical across pages. As a result:
 
 | nn | title | url | assets | pdf pages | transcript |
 |----|-------|-----|--------|-----------|------------|
-| 01 | Context | https://www.acquisition.com/training/leads | none | — | no captions available |
-| 02 | Problem & Definition | https://www.acquisition.com/training/leads2 | none | — | no captions available |
-| 03 | Lead Magnet Mastery | https://www.acquisition.com/training/leads3 | none | — | no captions available |
-| 04 | First 5 Clients Framework | https://www.acquisition.com/training/leads4 | `$100M-leads-warm-outreach-downloads.pdf` | 12 | no captions available |
-| 05 | Mozi Media Content Method Pt I | https://www.acquisition.com/training/leads5 | none | — | no captions available |
-| 06 | Mozi Media Content Method Pt II | https://www.acquisition.com/training/leads6 | none | — | no captions available |
-| 07 | Cold Outreach Playbook | https://www.acquisition.com/training/leads7 | none | — | no captions available |
-| 08 | Paid Ads Playbook Pt I | https://www.acquisition.com/training/leads8 | none | — | no captions available |
-| 09 | Paid Ads Playbook Pt II | https://www.acquisition.com/training/leads9 | none | — | no captions available |
-| 10 | More Better New | https://www.acquisition.com/training/leads10 | none | — | no captions available |
-| 11 | Referral Playbook | https://www.acquisition.com/training/leads11 | none | — | no captions available |
-| 12 | Employees | https://www.acquisition.com/training/leads12 | none | — | no captions available |
-| 13 | Agencies | https://www.acquisition.com/training/leads13 | none | — | no captions available |
-| 14 | Affiliate Playbook | https://www.acquisition.com/training/leads14 | none | — | no captions available |
-| 15 | Open To Goal | https://www.acquisition.com/training/leads15 | none | — | no captions available |
-| 16 | The Roadmap | https://www.acquisition.com/training/leads16 | none | — | no captions available |
-| 17 | Recap | https://www.acquisition.com/training/leads17 | none | — | no captions available |
-| 18 | Free Bonus | https://www.acquisition.com/training/leadsfreebonus | none | — | no captions available |
+| 01 | Context | https://www.acquisition.com/training/leads | none | — | whisper |
+| 02 | Problem & Definition | https://www.acquisition.com/training/leads2 | none | — | whisper |
+| 03 | Lead Magnet Mastery | https://www.acquisition.com/training/leads3 | none | — | whisper |
+| 04 | First 5 Clients Framework | https://www.acquisition.com/training/leads4 | `$100M-leads-warm-outreach-downloads.pdf` | 12 | whisper |
+| 05 | Mozi Media Content Method Pt I | https://www.acquisition.com/training/leads5 | none | — | whisper |
+| 06 | Mozi Media Content Method Pt II | https://www.acquisition.com/training/leads6 | none | — | whisper |
+| 07 | Cold Outreach Playbook | https://www.acquisition.com/training/leads7 | none | — | whisper |
+| 08 | Paid Ads Playbook Pt I | https://www.acquisition.com/training/leads8 | none | — | whisper |
+| 09 | Paid Ads Playbook Pt II | https://www.acquisition.com/training/leads9 | none | — | whisper |
+| 10 | More Better New | https://www.acquisition.com/training/leads10 | none | — | whisper |
+| 11 | Referral Playbook | https://www.acquisition.com/training/leads11 | none | — | whisper |
+| 12 | Employees | https://www.acquisition.com/training/leads12 | none | — | whisper |
+| 13 | Agencies | https://www.acquisition.com/training/leads13 | none | — | whisper |
+| 14 | Affiliate Playbook | https://www.acquisition.com/training/leads14 | none | — | whisper |
+| 15 | Open To Goal | https://www.acquisition.com/training/leads15 | none | — | whisper |
+| 16 | The Roadmap | https://www.acquisition.com/training/leads16 | none | — | whisper |
+| 17 | Recap | https://www.acquisition.com/training/leads17 | none | — | whisper |
+| 18 | Free Bonus | https://www.acquisition.com/training/leadsfreebonus | none | — | whisper |
 | 19 | Audiobook | https://www.acquisition.com/leads-audiobook | none (external Spotify playlist link only, not downloaded) | — | n/a (no video; see page.md) |
 
 ## Totals
@@ -66,6 +66,12 @@ and diffing: the payload is byte-identical across pages. As a result:
 - **Modules with captions:** 0 of 18 — every Mux stream's master `.m3u8` playlist
   was checked (`CLOSED-CAPTIONS=NONE`, no `#EXT-X-MEDIA:TYPE=SUBTITLES` track); all
   18 returned HTTP 200 on the first attempt, so no video needed a second attempt.
+- **Modules with local transcripts:** 18 of 18 — local Whisper transcripts
+  (`transcript.md` in each module directory) were added on 2026-08-30 by
+  transcribing each module's Mux audio stream with whisper.cpp (`base.en`).
+  These are timestamp-anchored, Tier 3 (never auto-load; open the specific
+  range a question needs), and are supplementary to — not a replacement for —
+  the page-level ingestion below.
 
 ## Failures
 
