@@ -30,12 +30,17 @@ leads through the Core Four at volume → engineer a money model that returns ca
 or delivery) and fix only that one, in order, forever. Charge more than is comfortable, sell the
 destination not the vehicle, and let consistency compound.
 
-## Book coverage — each trade book has its own distilled file
-| Hormozi book | Distilled here as |
-|---|---|
-| **$100M Offers** | `offers.md` |
-| **$100M Leads** | `leads.md` |
-| **$100M Money Models** | `money-models.md` (+ the unit-economics math in `ltgp-cac.md`) |
+## Book coverage — distilled file + primary source in repo
+| Hormozi book | Distilled here as | Primary source (Tier 3, verbatim depth) |
+|---|---|---|
+| **$100M Offers** | `offers.md` | `source-texts/courses/offers/` — Hormozi teaching the book's chapters on video, 11 lesson transcripts + checklists |
+| **$100M Leads** | `leads.md` | `source-texts/courses/leads/` — 18 lesson transcripts + the warm-outreach workbook |
+| **$100M Money Models** | `money-models.md` (+ the unit-economics math in `ltgp-cac.md`) | `source-texts/courses/money-models/` — 32 lesson transcripts, the full offer-stack curriculum |
+
+The book texts themselves are not on the machine; the course transcripts are the standing
+primary source for the three books. For an exact "what does Hormozi actually say" pull on an
+Offers/Leads/Money-Models topic, route via `source-texts/courses/_index.md` → that course's
+`_index.md` → the one lesson's `transcript.md`, and cite `[course/module MM:SS]`.
 
 These are complete distillations of each book's frameworks in our own words — not the books
 themselves for the three trade books. The 12 Acquisition.com playbooks and 5 video trainings DO ship
